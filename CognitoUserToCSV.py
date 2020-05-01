@@ -14,7 +14,7 @@ REQUIRED_ATTRIBUTE = None
 CSV_FILE_NAME = 'CognitoUsers.csv'
 
 """ Parse All Provided Arguments """
-parser = argparse.ArgumentParser(description='Cognito User Pool export records to CSV file', formatter_class=argparse.MetavarTypeHelpFormatter)
+parser = argparse.ArgumentParser(description='Cognito User Pool export records to CSV file', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument('-attr', '--export-attributes', nargs='+', type=str, help="List of Attributes to be saved in CSV", required=True)
 parser.add_argument('--user-pool-id', type=str, help="The user pool ID", required=True)
 parser.add_argument('--region', type=str, default='us-east-1', help="The user pool region")
@@ -62,12 +62,13 @@ def write_cognito_records_to_file(file_name: str, cognito_records: list) -> bool
         return True
     except:
         print("Something went wrong while writing to file") 
-"""           
+""" 
 
 client = boto3.client('cognito-idp', REGION)
+csv_new_line = {REQUIRED_ATTRIBUTE[i]: '' for i in range(len(REQUIRED_ATTRIBUTE))}
 try:
     csv_file = open(CSV_FILE_NAME, 'w')
-    csv_file.write(",".join(REQUIRED_ATTRIBUTE) + '\n')
+    csv_file.write(",".join(csv_new_line.keys()) + '\n')
 except Exception as err:
     #status = err.response["ResponseMetadata"]["HTTPStatusCode"]
     error_message = repr(err)#err.strerror
@@ -111,7 +112,7 @@ while pagination_token is not None:
     
     for user in user_records['Users']:
         """ Fetch Required Attributes Provided """
-        csv_line = {}
+        csv_line = csv_new_line.copy()
         for requ_attr in REQUIRED_ATTRIBUTE:
             csv_line[requ_attr] = ''
             if requ_attr in user.keys():

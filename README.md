@@ -1,4 +1,4 @@
-#  Amazon Cognito User Pool CSV exporter
+#  Export Amazon Cognito User Pool records into CSV
 
 This project allows to export user records to CSV file from [Amazon Cognito User Pool](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-identity-pools.html)
 

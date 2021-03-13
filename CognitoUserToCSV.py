@@ -67,7 +67,7 @@ def write_cognito_records_to_file(file_name: str, cognito_records: list) -> bool
 client = boto3.client('cognito-idp', REGION)
 csv_new_line = {REQUIRED_ATTRIBUTE[i]: '' for i in range(len(REQUIRED_ATTRIBUTE))}
 try:
-    csv_file = open(CSV_FILE_NAME, 'w')
+    csv_file = open(CSV_FILE_NAME, 'w' ,encoding="utf-8")
     csv_file.write(",".join(csv_new_line.keys()) + '\n')
 except Exception as err:
     #status = err.response["ResponseMetadata"]["HTTPStatusCode"]

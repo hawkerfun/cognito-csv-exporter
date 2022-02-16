@@ -7,12 +7,14 @@ This project allows to export user records to CSV file from [Amazon Cognito User
 In order to use this script you should have Python 2 or Python 3 installed on your platform
 - run `pip install -r requirements.txt` (Python 2) or `pip3 install -r requirements.txt` (Python 3)
 
-## Fetch user pool fields
+## Fetch user pool 
 Configure the AWS access keys and run:
 
 ``` shell
-aws cognito-idp get-csv-header --user-pool-id "us-east-1_XXXXXXXXX"
+aws cognito-idp list-users --user-pool-id "us-east-1_XXXXXXXXX"
 ```
+
+It returns the list of users in JSON.
 
 ## Run export
 

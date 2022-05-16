@@ -153,7 +153,7 @@ while pagination_token is not None:
                 if usr_attr["Name"] == requ_attr:
                     csv_line[requ_attr] = str(usr_attr["Value"])
 
-        csv_lines.append(",".join(csv_line.values()) + "\n")
+        csv_lines.append('"' + '","'.join(csv_line.values()) + '"\n')
 
     csv_file.writelines(csv_lines)
 

@@ -1,0 +1,782 @@
+sub,email,email_verified,custom:company,custom:companytype,custom:directmarketing,custom:region,custom:termsandconditions,name,UserCreateDate,UserLastModifiedDate,Enabled,UserStatus
+0094754e-2955-4cc5-a0a5-1980de9c6ab8,295092244@qq.com,true,梦幻烘焙,ct_bakery,1,re_CH,1,陈山,2021-01-11 15:29:59.162000+00:00,2021-01-11 15:29:59.162000+00:00,True,CONFIRMED
+00f837fc-da56-41d2-8426-e9a5afb7232a,EGRAILLE@SOUFFLET.COM,true,AIT INGREDIENTS ,ct_formulator,1,re_SA,1,GRAILLE,2021-03-22 14:47:37.816000+00:00,2021-03-22 14:47:37.816000+00:00,True,CONFIRMED
+013c7b91-6abf-40f3-9d98-e94103af4826,wfz@novozymes.com,true,Novozymes,ct_bakery,1,re_EU,1,Weifang Zhao,2021-02-24 01:07:20.026000+00:00,2021-02-24 01:10:57.890000+00:00,True,CONFIRMED
+01ab14ca-4c07-4909-9d2a-6c225b2b63a3,nikolay@vatelmarketing.ru,true,ВАТЕЛЬ МАРКЕТИНГ,ct_bakery,1,re_RU,1,Николай,2021-02-11 13:05:37.482000+00:00,2021-02-11 13:05:37.482000+00:00,True,CONFIRMED
+01b4bc54-cb23-4df5-be9a-7d20583fa45c,,false,好几块,ct_bakery,1,re_CH,1,包芳,2020-11-16 01:44:15.560000+00:00,2020-11-16 01:44:15.560000+00:00,True,UNCONFIRMED
+01d87a82-7f97-4da3-8e9f-1f717006e0a7,amba@novozymes.com,true,novozymes,ct_bakery,1,re_ME,1,Asmaa ,2021-03-09 19:50:40.463000+00:00,2021-07-01 15:48:58.927000+01:00,True,CONFIRMED
+023cb124-5ae6-40ee-b3c0-340ade9991b1,rclark@hungrysquirrel.com,true,Hungry Squirrel,ct_formulator,1,re_NA,1,Romanna CLark ,2022-04-06 02:05:17.294000+01:00,2022-04-06 02:05:17.294000+01:00,True,CONFIRMED
+026472cc-6220-430a-a8e2-b33f3df3dafb,ruth@bayogar.com,true,Bayogar,ct_formulator,1,re_EU,1,Ruth Godinho Sanchez,2021-03-08 17:44:51.480000+00:00,2021-03-08 17:44:51.480000+00:00,True,CONFIRMED
+02ec607a-7ca1-4b15-b144-5c1e7d54b5eb,nathan.roberts@nzbakels.co.nz,true,NZB,ct_bakery,0,re_RAP,1,Nathan Roberts,2021-05-03 21:55:05.458000+01:00,2021-05-05 14:44:09.926000+01:00,True,CONFIRMED
+0319a32f-d53f-4c4e-81e8-7ec683fcae29,chefchandu2204@gmail.com,true,Self Employed,ct_bakery,1,re_IND,1,Chandra Sekhar,2021-07-19 09:50:57.616000+01:00,2021-07-19 09:50:57.616000+01:00,True,CONFIRMED
+040aa84b-0fa2-4a44-bfdd-ce9115055ad7,tctanhs@gmail.com,false,DAN,ct_formulator,1,re_RAP,1,Dan,2020-02-06 09:26:52.214000+00:00,2021-05-05 14:41:24.100000+01:00,True,UNCONFIRMED
+0467cead-53d8-4494-8da6-29412221d723,,,个体,ct_bakery,0,re_CH,1,生,2020-08-26 10:40:09.997000+01:00,2020-08-26 10:40:09.997000+01:00,True,UNCONFIRMED
+04a7bf27-44fd-49ca-ab66-c7ffa1d58a80,lizel.schwartz@abmauri.com,true,AB MAURI Global Research and Development,ct_formulator,1,re_EU,1,Lizel Schwartz,2021-07-14 12:21:11.578000+01:00,2021-07-14 12:21:11.578000+01:00,True,CONFIRMED
+052eb26e-90b3-4a3d-bef8-a1176f63c62f,,,面包磨坊,ct_bakery,0,re_CH,1,赵勇,2020-07-31 06:29:57.760000+01:00,2020-07-31 06:32:15.006000+01:00,True,CONFIRMED
+05376406-dd22-4334-a49f-e11fb570697a,dagan-be@inter.net.il,true,T.K. Dagan Technologies,ct_formulator,0,re_ME,1,Benny Goldberg,2021-04-20 10:26:33.760000+01:00,2021-04-20 10:26:33.760000+01:00,True,CONFIRMED
+058c5003-25db-4f5b-87c2-ab5e25c44961,erling.stensrud@idun.no,true,Idun Industri,ct_distributor,1,re_EU,1,Erling Stensrud,2021-03-09 05:28:15.306000+00:00,2022-02-02 13:09:32.836000+00:00,True,CONFIRMED
+05b840b0-b50d-4965-8b5b-159400cf9146,allison.chew@brenntag-asia.com,true,Brenntag Sdn Bhd,ct_distributor,1,re_SEA,1,Allison,2021-12-16 10:17:16.125000+00:00,2021-12-17 01:30:06.045000+00:00,True,CONFIRMED
+06590456-f3b7-4d15-b00f-cb3f4fb22c95,nileshsawant95@gmail.com,true,saynil india limited,ct_formulator,0,re_IND,1,NILESHKUMAR BALASO SAWANT,2021-07-21 05:42:06.213000+01:00,2021-07-21 05:42:06.213000+01:00,True,CONFIRMED
+0727ccf2-1116-459d-8dd4-19e371c98f77,tammy.wilson@univarsolutions.com,true,Univar Solutions,ct_distributor,0,re_NA,1,Tammy Wilson,2021-06-25 15:21:18.504000+01:00,2021-06-25 15:42:00.997000+01:00,True,CONFIRMED
+0738020e-f188-43c0-8236-b0c06c23d348,wasesa.ak@atyabfoodtech.com,true,Atyab International Services,ct_formulator,1,re_ME,1,Abdul Kadar Wasesa,2022-04-13 08:51:08.732000+01:00,2022-04-13 08:51:08.732000+01:00,True,CONFIRMED
+07556231-29a9-4c4d-806e-bfd87bc16785,2814798392@qq.com,true,公司,ct_bakery,1,re_CH,1,李先生,2022-02-10 03:24:03.973000+00:00,2022-02-10 03:24:03.973000+00:00,True,CONFIRMED
+0808cedd-e0ba-4fe5-ae70-042b3a162599,kalinin@vatelmarketing.ru,true,ВАТЕЛЬ МАРКЕТИНГ,ct_bakery,1,re_RU,1,Калинин Роман,2021-02-01 09:04:39.942000+00:00,2021-02-01 09:04:39.942000+00:00,True,CONFIRMED
+09f9a36f-7061-403e-8e8d-ecd3f892dc20,1094611234@qq.com,true,啦啦啦,ct_formulator,1,re_IND,1,啦啦啦,2022-01-27 07:33:17.257000+00:00,2022-01-27 07:33:17.257000+00:00,True,CONFIRMED
+0a2401ff-ffd2-46ae-86d3-c66a99b4dbca,hm51080@gmail.com,true,Bakeable,ct_bakery,1,re_IND,1,Homly Son,2021-07-26 12:00:31.366000+01:00,2021-07-26 12:00:31.366000+01:00,True,CONFIRMED
+0a4d34f5-b297-4e87-98f6-b609e07fb44c,sutv@novozymes.com,true,Novozymes South Asia Pvt Ltd,ct_bakery,0,re_IND,1,Sunain Tania,2021-05-27 09:56:39.115000+01:00,2022-04-13 08:51:34.097000+01:00,True,CONFIRMED
+0afb5e0f-d83b-49b2-9257-b92e3e576e1e,mirvjeni@hotmail.com,true,Atlas mills,ct_bakery,1,re_EU,1,Mirvjen Shehaj,2021-07-21 12:58:18.281000+01:00,2021-07-21 12:58:18.281000+01:00,True,CONFIRMED
+0b1b1aa8-fbd3-4172-ace1-f07e064018a5,zherm@riffyn.com,true,n/a,ct_bakery,0,re_NA,1,Zoey Herm,2020-04-22 22:55:03.905000+01:00,2020-04-22 22:55:13.289000+01:00,True,CONFIRMED
+0b2aeaf0-184e-4dc3-9be5-55cdfb33f2d0,,,耘曼面包店,ct_bakery,1,re_CH,1,徐春贤,2020-12-25 21:58:36.456000+00:00,2020-12-25 21:58:36.456000+00:00,True,UNCONFIRMED
+0b481807-e48a-46f8-8cf7-8eafc92c14d6,sbhk@novozymes.com,true,NOVOZYMES,ct_formulator,1,re_EU,1,Sabarinath Karoor,2021-01-20 12:43:12.628000+00:00,2021-02-24 15:54:47.145000+00:00,True,CONFIRMED
+0bf6044a-24d6-453c-86b1-3a0e5683059f,lewi@novozymes.com,true,Novozymes,ct_distributor,1,re_NA,1,Levetta,2021-05-25 15:19:29.147000+01:00,2022-04-26 16:54:47.697000+01:00,True,CONFIRMED
+0c1eacd9-22f4-4ec5-bca7-511f53ae754e,ckamble007.ck@gmail.com,true,Daily Needs ,ct_distributor,1,re_IND,1,Chetan Kamble,2021-08-18 20:35:02.450000+01:00,2021-08-18 20:35:02.450000+01:00,True,CONFIRMED
+0c4117dc-d901-474c-8f5d-6a6537eee740,ci.sfs@corbion.com,true,Corbion,ct_formulator,1,re_EU,1,CI,2021-03-08 15:55:16.149000+00:00,2021-03-08 15:55:16.149000+00:00,True,CONFIRMED
+0cccfca2-d0a5-40b9-a889-e1d5c1e5dfe3,newpearlfoods@gmail.com,true,New Pearl Foods ,ct_bakery,0,re_IND,1,Saurabh Gupta ,2021-08-15 20:39:36.387000+01:00,2021-08-18 18:29:49.887000+01:00,True,CONFIRMED
+0d944c65-74c6-4d88-b850-106a978cccd1,akkr@novozymes.com,true,akkr@novozymes.com,ct_bakery,1,re_IND,1,akshay,2021-03-29 11:24:15+01:00,2021-05-05 14:41:27.365000+01:00,True,CONFIRMED
+0dbc535e-2726-444f-9837-bb1425d052d5,jeanetteskaarup@gmail.com,true,Homemade,ct_bakery,1,re_EU,1,Jeanette Skaarup,2021-01-20 10:16:40.461000+00:00,2021-12-02 07:43:09.671000+00:00,True,CONFIRMED
+0ece0ac8-29c7-4037-94cf-9d94dd63d446,mcbu@novozymes.com,true,The Baker,ct_bakery,0,re_EU,1,Michael Buch,2022-02-01 12:04:55.208000+00:00,2022-02-01 12:04:55.208000+00:00,True,CONFIRMED
+0ed146f1-19dc-4533-90b9-e80a4d86ca5a,yglo@novozymes.com,false,诺维信,ct_formulator,1,re_CH,1,罗颖,2019-12-13 08:33:37.306000+00:00,2019-12-13 08:33:37.306000+00:00,True,UNCONFIRMED
+0f785472-d48d-4af0-8713-21f04ad60ed9,tinne.dekoninck@abmauri.com,true,AB Mauri,ct_formulator,0,re_EU,1,Tinne Dekoninck,2021-03-24 08:44:25.792000+00:00,2021-03-24 08:44:25.792000+00:00,True,CONFIRMED
+0f7ccfba-51a8-4aec-be6e-f13efaac8864,andrea@tecpan.pt,true,TECPAN - lda,ct_formulator,1,re_EU,1,Andrea Oliveira,2021-04-22 08:42:25.362000+01:00,2021-04-22 08:42:25.362000+01:00,True,CONFIRMED
+0faeac14-89f9-4b18-a9a2-9707a0c2fc75,evgeniy.danilyuk@leipurin.com,true,Лейпуриен Тукку,ct_formulator,1,re_RU,1,Данилюк Евгений,2021-02-18 07:41:46.979000+00:00,2021-02-18 07:41:46.979000+00:00,True,CONFIRMED
+0fd9ce76-f6a1-443a-b8ac-ae0db9aaeeff,ramezghaly1@gmail.com,true,RAMIX food Egypt,ct_formulator,1,re_ME,1,Ramez Ghaly,2022-04-28 06:21:29.186000+01:00,2022-04-28 06:21:29.186000+01:00,True,CONFIRMED
+101e8e82-5bec-4900-92fc-9ca2ec95f043,maarten.vanoort@abmauri.com,true,Mauri Technology,ct_formulator,0,re_EU,1,Maarten van Oort,2021-03-09 07:46:30.803000+00:00,2021-03-09 08:24:46.384000+00:00,True,CONFIRMED
+105fa47c-acda-4a5c-9c7a-16bb7000df1a,kel@novozymes.com,true,Novozymes ,ct_formulator,0,re_CH,1,Kevin Linggi,2020-01-14 14:07:46.754000+00:00,2020-08-28 13:27:10.430000+01:00,True,CONFIRMED
+106926d9-7ece-4f15-8cd0-43cd0c945b21,nmkn@novozymes.com,true,Novozymes SA,ct_bakery,0,re_ME,1,Nina Ngandewe,2020-12-18 07:03:47.273000+00:00,2020-12-18 07:04:22.977000+00:00,True,CONFIRMED
+1072d030-31ca-44e5-b802-868dc4a39436,bolides@163.com,true,测试,ct_bakery,0,re_EU,1,李,2021-06-06 07:33:24.028000+01:00,2021-06-06 07:33:24.028000+01:00,True,CONFIRMED
+1075f649-afcb-4595-9af6-74fac32f11be,m.boccon-lacroix@gemefindustries.com,true,Gemef Industries,ct_formulator,0,re_EU,1,Boccon-Lacroix,2021-09-02 12:56:17.981000+01:00,2021-09-02 12:56:17.981000+01:00,True,CONFIRMED
+10b8f879-5598-4b60-a965-16519819440a,362771299@qq.com,true,半勺烘焙,ct_bakery,1,re_CH,1,许晶晶,2021-05-11 23:28:28.189000+01:00,2021-05-11 23:28:28.189000+01:00,True,CONFIRMED
+112324c7-268c-42cc-8ee0-979dc2f817f2,fritz@novozymes.com,true,NOVOZYMES A/S,ct_distributor,0,re_RAP,1,IOANNIS SAMAKIDIS,2021-06-07 14:54:08.900000+01:00,2021-06-07 14:56:09.627000+01:00,True,CONFIRMED
+11877be1-4118-4dad-b4dd-d2479145315a,lan.lethingoc@brenntag-asia.com,true,Brenntag,ct_distributor,1,re_SEA,1,Lan Le Thi Ngoc,2021-04-09 12:33:22.053000+01:00,2021-05-05 14:41:31.177000+01:00,True,CONFIRMED
+11b952f0-49f9-4324-ac90-3974f8b7b4e8,wiwilo4040@grokleft.com,true,💀 Death Star Inc.,ct_bakery,0,re_EU,1,Darth Vader,2021-03-23 12:51:36.587000+00:00,2021-03-23 12:51:36.587000+00:00,True,CONFIRMED
+126192d2-b37d-470c-a5ca-6a64993989b8,feme@novozymes.com,true,NOVOZYMES A/S,ct_distributor,0,re_ME,1,IOANNIS SAMAKIDIS,2021-06-07 14:56:49.896000+01:00,2021-06-07 15:23:35.913000+01:00,True,CONFIRMED
+1293f7f0-3f36-4db9-b309-957dbbb834db,joey@wills.com.ph,true,Wills International Sales Corp.,ct_distributor,1,re_SEA,1,Johanna Royeca,2021-03-23 07:29:28.837000+00:00,2021-05-05 14:41:35.249000+01:00,True,CONFIRMED
+12aa0ca8-8b9e-44d5-8ea5-494878b0b9a1,qi_lmgx7128@163.com,true,郑州久依粮食工程有限公司,ct_formulator,0,re_CH,1,祁庆春,2021-01-15 16:29:51.514000+00:00,2021-01-15 16:29:51.514000+00:00,True,CONFIRMED
+12ef9352-09d4-4aea-833d-9429390e6658,jmatthies@chacomer.com.py,true,Chacomer SAE,ct_formulator,1,re_SA,1,Jeff Matthies,2021-05-27 19:18:30.423000+01:00,2021-05-27 19:18:30.423000+01:00,True,CONFIRMED
+134e77df-d761-4ab8-8d78-c23da242397d,isama@forthnet.com,true,NOVOZYMES A/S,ct_distributor,0,re_NA,1,IOANNIS SAMAKIDIS,2021-06-23 07:20:00.100000+01:00,2021-11-30 12:16:05.080000+00:00,True,CONFIRMED
+135e77a9-40a3-4d2c-8024-76868fdab39f,pawel.witak@univarsolutions.com,true,Univar Solutions,ct_formulator,1,re_EU,1,Pawel Witak,2021-01-08 08:25:54.089000+00:00,2021-02-12 09:43:26.567000+00:00,True,CONFIRMED
+1363e19b-c524-4c5e-93f4-5e1aae9eefad,fahad.azam@univarsolutions.com,true,fahad.azam@univarsolutions.com,ct_distributor,1,re_NA,1,Fahad Azam,2021-04-08 16:42:24.744000+01:00,2021-04-08 16:42:24.744000+01:00,True,CONFIRMED
+13cdce9e-ccc0-492c-8982-e6c5467a1639,lumo@novozymes.com,true,Novozymes,ct_bakery,0,re_ME,1,Lumbidzani Moyo,2022-02-18 11:19:36.860000+00:00,2022-02-18 11:19:36.860000+00:00,True,CONFIRMED
+149954ad-ccf1-491f-b4df-e14a2ccf9ac5,,,奈奈洋菓子店,ct_bakery,0,re_CH,1,Hailey,2021-05-15 10:57:50.501000+01:00,2021-05-15 10:57:50.501000+01:00,True,CONFIRMED
+14996e13-5241-4a4f-91e8-5a90e9d60d0b,,false,杰布烘焙,ct_bakery,1,re_CH,1,火柴,2020-07-31 06:20:20.455000+01:00,2020-07-31 06:20:20.455000+01:00,True,UNCONFIRMED
+14e0674a-2b8c-40a6-8646-4b3e1a3f0b4f,sptg@novozymes.com,true,test,ct_bakery,0,re_IND,1,test,2021-04-29 08:34:00.869000+01:00,2021-05-05 14:44:13.762000+01:00,True,CONFIRMED
+1508d218-06d1-4305-bd98-c7efcea85b7e,duet_derkach@mail.ru,true,ИП Деркач А П,ct_bakery,1,re_RU,1,Алекандр Деркач,2021-02-26 20:14:44.893000+00:00,2021-02-26 20:14:44.893000+00:00,True,CONFIRMED
+165fbcbb-e849-49b5-aa2c-30a3a045f2fe,afrizal.adam17@gmail.com,true,PT. Tri Rio Putra,ct_distributor,1,re_RAP,1,Afrizal,2021-10-25 16:21:31.576000+01:00,2021-10-25 16:21:31.576000+01:00,True,CONFIRMED
+167adf06-117c-4981-bbf6-ae8d2538f197,Orireree@gmail.com,true,HomeBake bakery,ct_bakery,1,re_ME,1,Ige kolade Michael,2021-08-29 10:37:14.959000+01:00,2021-08-29 10:37:14.959000+01:00,True,CONFIRMED
+16e2b5d0-a1e4-40bd-ae1c-0f47b5748a3b,,,NZ,ct_bakery,1,re_CH,1,Frosina,2019-12-05 13:02:34.137000+00:00,2019-12-12 15:21:02.205000+00:00,True,CONFIRMED
+16ec268e-14fe-431f-a2a4-545c39e512ad,jujk@novozymes.com,true,Korea,ct_formulator,0,re_RAP,1,Jung Jin Kim,2021-06-17 03:44:58.794000+01:00,2021-06-17 03:48:56.651000+01:00,True,CONFIRMED
+16f2e78a-0932-4d58-8157-5fe6b0ea4112,mexn@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Maria Del Risco,2021-03-11 11:39:27.949000+00:00,2021-03-11 11:39:27.949000+00:00,True,CONFIRMED
+16f4e9e9-cf5d-4ea9-89ee-579f36125683,kespinoza@granotec.com.ec,true,Granotec Ecuador,ct_distributor,0,re_SA,1,Karen Espinoza,2021-04-06 18:27:53.938000+01:00,2021-04-06 18:27:53.938000+01:00,True,CONFIRMED
+17498589-16db-4ec0-9d1a-0627357d8abb,954269748@qq.com,true,焙多芬烘焙坊,ct_bakery,1,re_CH,1,孙辉,2021-11-30 08:41:01.996000+00:00,2021-11-30 08:41:01.996000+00:00,True,CONFIRMED
+17620a3f-f2c5-4d18-b35f-5b9870db6f11,anuradha.venkatraman19@gmail.com,true,Cembrit,ct_distributor,1,re_EU,1,Anuradha Venkataraman,2021-03-04 21:00:50.696000+00:00,2021-03-04 21:00:50.696000+00:00,True,CONFIRMED
+178d5013-586a-46a0-a4dd-27605e785dd3,isa@novozymes.com,true,SAMAKIDIS,ct_formulator,1,re_EU,1,IOANNIS,2019-12-05 20:10:02.220000+00:00,2021-06-25 14:09:02.012000+01:00,True,CONFIRMED
+17f017fb-3b71-40a9-bcb6-09c1a263941d,rreiser@rich.com,true,Rich's Products,ct_bakery,0,re_NA,1,ralf reiser,2022-03-01 20:02:33.304000+00:00,2022-03-01 20:02:33.304000+00:00,True,CONFIRMED
+1829b9c7-22b1-48a9-ae0b-b45aae67f29c,dev@novozymes.com,true,Novozymes NA,ct_formulator,0,re_NA,1,Daniel Evanson,2020-11-12 19:32:38.752000+00:00,2020-12-10 15:12:36.656000+00:00,True,CONFIRMED
+19efbf28-1887-4004-9594-72e386aaa897,algo@novozymes.com,true,Novozymes,ct_formulator,1,re_EU,1,Alina-Ioana Gostin,2021-04-22 13:15:04.521000+01:00,2021-11-30 12:15:26.635000+00:00,True,CONFIRMED
+1a16e799-71d4-42cf-a3b8-6b647e07640a,leopoldoseg@yahoo.com.br,true,Kombi Olívia,ct_bakery,1,re_SA,1,Leopoldo Adamowicz,2021-03-27 21:50:28.115000+00:00,2021-03-27 21:50:28.115000+00:00,True,CONFIRMED
+1ab3d164-e9d3-4737-9228-aaa0113d7bca,quality.control@mbi-ind.com,true,Mbi,ct_bakery,0,re_RAP,1,Ali Mohammad ,2021-06-24 09:09:15.195000+01:00,2021-06-24 09:09:15.195000+01:00,True,CONFIRMED
+1b72a855-705f-4c39-a0b5-99e9c24667b0,eak@novozymes.com,true,Novozymes,ct_bakery,0,re_EU,1,Ailish Kavanagh,2020-01-21 14:26:02.757000+00:00,2020-01-21 14:26:48.923000+00:00,True,CONFIRMED
+1bade906-b95f-4b1a-abeb-00bcd131050e,lilian.paz@corbion.com,true,lilian.paz@corbion.com,ct_formulator,1,re_SA,1,Lilian Franco,2021-03-17 18:41:15.399000+00:00,2021-03-17 18:41:15.399000+00:00,True,CONFIRMED
+1c4373a6-2c20-4796-af72-c7e6c5fd71a3,jyua@novozymes.com,true,诺维信,ct_bakery,0,re_CH,1,袁佳燕,2020-07-24 15:25:00.204000+01:00,2020-07-24 15:25:21.486000+01:00,True,CONFIRMED
+1c44411f-c7e8-4bd1-aaa4-46f045989b8a,jqyl@novozymes.com,false,诺维信,ct_bakery,1,re_CH,1,李鉴君,2019-12-23 07:50:55.684000+00:00,2019-12-23 07:50:55.684000+00:00,True,UNCONFIRMED
+1c4f7d6e-061c-4a63-a4dd-de1a181e3011,brpt@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Britta Gernaey,2021-09-01 11:57:49.789000+01:00,2021-09-01 11:57:49.789000+01:00,True,CONFIRMED
+1cb199ed-219c-4d23-a4ce-aea98a29a65c,,,壹贝,ct_bakery,1,re_CH,1,木木,2021-05-08 15:10:19.414000+01:00,2021-05-08 15:10:19.414000+01:00,True,CONFIRMED
+1d388386-f1e3-4451-95da-b49d20052532,,false,NZ,ct_bakery,0,re_CH,1,Luis Alves,2020-02-05 10:32:09.130000+00:00,2020-11-12 10:40:53.173000+00:00,True,CONFIRMED
+1e13459e-f323-4d19-a4d9-cb2e10138291,mqf@novozymes.com,true,Novozymes.com,ct_bakery,0,re_EU,1,Mathias Qwist Fenger,2021-01-18 10:38:27.871000+00:00,2021-01-18 10:38:27.871000+00:00,True,CONFIRMED
+1e15f8b4-1a66-4e2d-b850-77d8f487ccab,molupitangalleria@outlook.com,true,Molupitan Nig Ltd,ct_distributor,1,re_CH,1,Michael Oluwasegun Yusuf,2021-08-27 07:04:30.998000+01:00,2021-08-27 07:04:30.998000+01:00,True,CONFIRMED
+1e40da7c-bb60-4e89-87fc-ebfb169e984f,adby+ru@novozymes.com,true,adby+ru@novozymes.com,ct_bakery,0,re_RU,1,Adam Russia test,2021-02-12 08:22:50.566000+00:00,2021-03-08 10:34:09.338000+00:00,True,CONFIRMED
+1e9ba076-a4d0-43ab-a1b3-cb3fa6601b25,ellaine.lao@wills.com,true,Wills International Sales Corp,ct_distributor,1,re_SEA,1,Ellaine Ongchangco,2021-05-05 07:15:31.440000+01:00,2021-05-05 14:44:17.534000+01:00,True,CONFIRMED
+1ece7d9e-4a68-47cb-a2b7-7ba2e97996a6,andrea@wills.com.ph,true,WILLS INTERNATIONAL,ct_distributor,1,re_SEA,1,ANDREA ANDRADA,2021-08-09 03:20:20.090000+01:00,2021-08-09 03:20:20.090000+01:00,True,CONFIRMED
+1ee665f9-f437-4202-a371-7073de789883,aw@fostersbakery.co.uk,true,Fosters Bakery (Staincross) Limited,ct_bakery,1,re_EU,1,Adam Westnedge,2021-04-15 16:57:22.725000+01:00,2022-04-07 14:49:20.571000+01:00,True,CONFIRMED
+1f0f6aa0-0528-48d6-9227-3f62644339bf,kalli-lapochka@mail.ru,true,Баргус-трейд,ct_formulator,1,re_RU,1,Русинова Елена,2021-11-16 12:08:13.494000+00:00,2021-11-16 12:08:13.494000+00:00,True,CONFIRMED
+1fca0a9d-9ecc-4408-8256-a2fc7cca428f,zeuthen@posteo.net,true,lux,ct_formulator,0,re_EU,1,mz,2020-02-19 12:59:07.070000+00:00,2020-02-19 12:59:24.995000+00:00,True,CONFIRMED
+1ffffdff-9a22-4728-854f-f67b5f3662c9,andrea@wisc.com.ph,true,WILLS INTERNATIONAL SALES CORPORATION,ct_distributor,1,re_SEA,1,ANDREA NICOLE ANDRADA,2021-06-18 03:36:25.603000+01:00,2021-06-18 03:38:29.542000+01:00,True,CONFIRMED
+2013c4c1-d6af-4b0c-b22a-822ae8a692d8,mrashidfst16@gmail.com,true,KaramKimya,ct_distributor,0,re_IND,1,Muhammad Rashid,2022-04-13 08:52:47.269000+01:00,2022-04-13 08:52:47.269000+01:00,True,CONFIRMED
+20210830-6d99-4ea1-a7e1-c88e8a2d8ce2,sulton_0747@mail.ru,true,Ordi Fatir,ct_bakery,1,re_ME,1,Sulton,2021-03-01 04:50:45.823000+00:00,2021-03-01 04:50:45.823000+00:00,True,CONFIRMED
+20868570-154f-4a41-921e-231878d836d4,saurabh0710@live.com,true,India Bread,ct_bakery,1,re_IND,1,Saurabh Singh,2022-01-07 04:51:42.042000+00:00,2022-01-07 04:51:42.042000+00:00,True,CONFIRMED
+213bd39b-84ab-4b99-af41-bdcfcef2806f,gyyjanice@gmail.com,true,CIB,ct_bakery,1,re_CH,1,Janice Gu,2021-11-15 02:59:22.893000+00:00,2021-11-15 02:59:22.893000+00:00,True,CONFIRMED
+21455388-171d-4dab-9128-8cb453c3bd68,gmon@novozymes.com,true,GMON@novozymes.com,ct_bakery,1,re_RAP,1,Go Mongami,2021-03-26 04:48:42.647000+00:00,2021-09-21 08:14:39.707000+01:00,True,CONFIRMED
+2174fccd-9fde-422c-b905-ae83a903de4e,ingrid.araya@girona.cl,true,Araya,ct_formulator,1,re_SA,1,Ingrid,2022-03-15 15:07:32.158000+00:00,2022-03-15 15:07:32.158000+00:00,True,CONFIRMED
+219b2a3a-7e74-44a1-b8cf-25184936424b,,,livc@novozymes.com,ct_bakery,0,re_CH,1,Liv ,2020-02-05 09:08:31.570000+00:00,2020-02-12 17:07:47.296000+00:00,True,CONFIRMED
+21a379eb-39ea-4341-a2a9-f4010e380ab3,jgri@novozymes.com,true,Novozymes,ct_formulator,1,re_SA,1,João Ribeiro,2020-08-21 14:47:50.464000+01:00,2020-08-21 14:48:06.804000+01:00,True,CONFIRMED
+220d11f7-8f1a-4574-a8ee-b5ff6148cf96,feichuqiong@excelsior-lipid.com,false,深圳精益油脂公司,ct_formulator,1,re_CH,1,DanielFei,2020-01-08 06:57:47.527000+00:00,2020-01-08 06:58:12.718000+00:00,True,CONFIRMED
+2217f43d-755a-4452-8166-926395d65705,molupitangalleria@outlook.com,true,Molupitan Nig Ltd,ct_distributor,1,re_CH,1,Michael Oluwasegun Yusuf,2021-08-27 07:04:30.943000+01:00,2021-08-27 07:04:30.943000+01:00,True,CONFIRMED
+22a1f6fa-8dc0-4df7-9751-7641b51fd035,mcbu@novzymes.com,true,Michael Bakes Stuff,ct_bakery,0,re_EU,1,Michael Buch,2022-01-27 09:40:57.568000+00:00,2022-01-27 09:40:57.568000+00:00,True,CONFIRMED
+22ba392f-ba7c-4c39-85eb-ba2ca380cf47,cfri@novozymes.com,true,Novozymes,ct_formulator,1,re_EU,1,Christian Friis,2020-04-23 15:06:52.888000+01:00,2020-04-23 15:07:05.604000+01:00,True,CONFIRMED
+22bd169c-d566-4d4d-a9e9-9204ce650b88,liyongoc@sina.com,false,天津斯诺泰食品科技有限公司,ct_formulator,0,re_CH,1,李勇,2020-08-19 04:21:51.983000+01:00,2020-08-19 04:21:51.983000+01:00,True,UNCONFIRMED
+22ca383a-df84-405c-86c6-0682fa35247c,alicja.janicka@credin.pl,true,Credin Poland,ct_bakery,0,re_EU,1,Alicja ,2021-03-23 14:50:04.689000+00:00,2021-03-23 14:50:04.689000+00:00,True,CONFIRMED
+233802d7-63da-4922-bc9f-8dbb2f60a498,cpetit@puratos.com,true,Puratos,ct_formulator,0,re_EU,1,Cecile PETIT,2021-04-01 07:24:41.211000+01:00,2021-04-01 07:24:41.211000+01:00,True,CONFIRMED
+2364ff7e-9f4b-4d93-859c-370754884c5b,tutuma@absamail.co.za,true,Grano Ingridients,ct_formulator,1,re_ME,1,Livingstone Tutu Maluleke,2021-10-29 20:17:34.958000+01:00,2021-10-29 20:17:34.958000+01:00,True,CONFIRMED
+24425a12-1b9a-49b1-983b-6e2340790263,Tom.Hunter@macphie.com,true,Macphie,ct_bakery,1,re_EU,1,Thomas Hunter,2021-04-22 15:30:30.980000+01:00,2021-04-22 15:30:30.980000+01:00,True,CONFIRMED
+24445027-dd7c-4a08-b7c0-b8f7b5bb5713,per@egopedia.dk,true,Adnuvo,ct_bakery,0,re_SA,1,Per test,2019-12-17 12:25:50.205000+00:00,2020-01-03 12:16:09.375000+00:00,True,CONFIRMED
+24564277-6d0e-44b5-971d-d32bf1297a3d,cristian.lazar@saptespice.ro,true,Sapte spice,ct_bakery,1,re_EU,1,Cristian Lazar,2021-06-25 10:55:00.529000+01:00,2021-06-25 10:55:00.529000+01:00,True,CONFIRMED
+2481d4a4-e8a4-43e1-8d44-076b7cfaacb3,prisoner5252@gmail.com,true,venecia bakery,ct_bakery,1,re_ME,1,mohamed,2022-02-04 16:37:24.909000+00:00,2022-02-04 16:37:24.909000+00:00,True,CONFIRMED
+24cc4916-2f56-4882-8b0e-4eb654bed602,395431049@qq.com,true,惠州菲特食品有限公司,ct_bakery,1,re_CH,1,李超湖,2020-07-30 13:47:10.765000+01:00,2020-07-30 13:52:28.589000+01:00,True,CONFIRMED
+25f9bbfb-914c-4621-b76a-579cef3627b1,ego@egopedia.dk,true,adnuvo,ct_bakery,0,re_NA,1,per test,2019-12-16 20:55:49.764000+00:00,2019-12-17 12:25:00.767000+00:00,True,CONFIRMED
+263025a2-d550-45af-9158-fa982f109ebe,navedrafique@yahoo.co.in,true,Free Lance,ct_bakery,1,re_IND,1,Naved Iqbal Rafique,2021-03-26 06:11:38.987000+00:00,2021-05-05 14:41:44.072000+01:00,True,CONFIRMED
+2636b251-3b84-4712-bf54-b57eba237b34,fongyee.sim@Brenntag-asia.com,true,Brenntag,ct_distributor,1,re_SEA,1,SIM FONG YEE,2021-10-11 02:41:44.905000+01:00,2021-10-11 02:41:44.905000+01:00,True,CONFIRMED
+26e097a8-0862-4842-9738-5ed592dd2948,natakas555@mail.ru,true,Nexta,ct_bakery,1,re_EU,1,Наталья,2021-05-06 15:05:13.562000+01:00,2021-05-06 15:05:13.562000+01:00,True,CONFIRMED
+274ce1ab-b7f8-4452-8fe5-7a365f443a1c,f.guerra@guerra.it,true,guerra spa,ct_formulator,0,re_EU,1,federico guerra,2021-03-18 17:30:12.649000+00:00,2021-03-18 17:30:12.649000+00:00,True,CONFIRMED
+2752c6bf-0160-46b3-ad54-375a40f1a742,fongyee.sim@Brenntag-asia.com,true,Brenntag,ct_distributor,1,re_SEA,1,SIM FONG YEE,2021-10-11 02:41:44.891000+01:00,2021-10-11 02:41:44.891000+01:00,True,CONFIRMED
+280b7d7e-4363-4a51-9cf7-6a8c857087b8,,,蜜桃家,ct_bakery,1,re_CH,1,郑羽,2021-05-12 01:07:52.616000+01:00,2021-05-12 01:09:32.204000+01:00,True,CONFIRMED
+28ab2aab-387f-4561-8a7f-3fff8822e6e6,anoop.singh@brenntag-asia.com,true,Brenntag,ct_distributor,1,re_IND,1,Anoop Singh,2021-06-18 08:08:15.051000+01:00,2021-06-18 08:08:15.051000+01:00,True,CONFIRMED
+28c302ca-a455-461d-b84a-c9f13bb194d6,peter.burkhardt@dawnbread.net,true,Dawn Bread,ct_bakery,1,re_ME,1,Peter Burkhardt ,2021-03-27 23:49:50.462000+00:00,2021-03-27 23:49:50.462000+00:00,True,CONFIRMED
+294e0cf0-63af-4a00-8cfc-4ae74d470835,rune.gerner.moller@lantmannen.com,true,Unibake Lantmannen,ct_bakery,1,re_EU,1,Rune Moller,2021-03-11 12:18:49.060000+00:00,2021-03-11 12:18:49.060000+00:00,True,CONFIRMED
+2a0c989d-be21-48c7-8266-577223db4104,hsnahmadreza@gmail.com,true,Zar,ct_distributor,1,re_SA,1,Hami Hosseini,2021-10-04 07:17:59.063000+01:00,2021-10-04 07:17:59.063000+01:00,True,CONFIRMED
+2a29e943-dab3-4985-8605-58dda84f72a8,stefan.wiame@lantmannen.com,true,Lantmannen Unibake,ct_bakery,1,re_EU,1,Stefan,2021-03-12 07:19:33.151000+00:00,2021-03-30 08:44:24.430000+01:00,True,CONFIRMED
+2a44c53e-a0ae-4582-98c8-eb6ebb0ecf1f,erwin.vansas@zeelandia.nl,true,erwin.vansas@zeelandia.nl,ct_formulator,1,re_EU,1,EvS,2021-04-21 12:18:05.509000+01:00,2021-04-21 12:18:05.509000+01:00,True,CONFIRMED
+2adb2022-e86b-438d-a64e-0be7f7ed95fa,329146623@qq.com,false,爱可西饼流芳店,ct_bakery,1,re_CH,1,白传高,2020-08-08 14:07:32.702000+01:00,2020-08-08 14:07:32.702000+01:00,True,UNCONFIRMED
+2bbdfa60-ef38-4415-8acd-a4cb1adc69ef,cosmin.cretescu@velpitar.ro,true,Vel Pitar,ct_bakery,1,re_EU,1,Cretescu Cosmin,2021-04-19 13:42:33.099000+01:00,2021-04-19 13:42:33.099000+01:00,True,CONFIRMED
+2be907e2-9534-49e8-8d43-ab8dc0a3b1f7,,,火星薯（上海）食品科技有限公司,ct_bakery,1,re_CH,1,王婷,2020-08-03 02:49:21.628000+01:00,2020-08-03 02:49:21.628000+01:00,True,UNCONFIRMED
+2c65a20a-6400-4b89-af82-7cff90bfcb0f,snoefgat@gmail.com,true,National Bread Improvers,ct_formulator,1,re_ME,1,JACOBUS SMIT,2021-03-09 07:31:18.515000+00:00,2021-03-09 07:31:18.515000+00:00,True,CONFIRMED
+2cc5e266-1f40-490c-b74c-def1c70575a2,webanalytics++@novozymes.com,true,Big Bakery,ct_bakery,1,re_NA,1,Testing,2021-03-11 08:13:23.991000+00:00,2021-03-11 08:13:40.931000+00:00,True,CONFIRMED
+2cf80467-5ceb-43b7-8e98-11299eae5273,marcelo.lourenco@abbrasil.com.br,true,ABBRASIL ABMAURI BR,ct_formulator,1,re_SA,1,MARCELO RODRIGUES,2021-03-15 14:19:21.383000+00:00,2021-03-15 14:19:21.383000+00:00,True,CONFIRMED
+2d50398a-7e14-4b4d-b0b4-047d8248095e,JASA@novozymes.com,true,Novozymes,ct_formulator,1,re_EU,1,Jeanette Skaarup,2021-05-20 08:08:41.811000+01:00,2021-05-20 08:08:41.811000+01:00,True,CONFIRMED
+2d57c374-dac8-48ec-bb90-4442ea2c204b,ioannis.lymperidis@univarsolutions.com,true,Univar Solutions,ct_formulator,1,re_EU,1,Ioannis Lymperidis,2020-12-21 10:59:44.694000+00:00,2021-03-01 12:15:59.600000+00:00,True,CONFIRMED
+2d9b2458-bf87-4f21-8ffa-d86fa1290eea,1445695565@qq.com,true,那和,ct_bakery,1,re_CH,1,刘琦,2021-04-21 11:56:27.645000+01:00,2021-04-21 11:56:27.645000+01:00,True,CONFIRMED
+2df4423b-94a6-42ef-a40c-5a6f822c2997,agmj@novozymes.com,true,agmj@novozymes.com,ct_bakery,1,re_EU,1,Annegrethe Jakobsen,2019-12-13 15:04:35.947000+00:00,2021-09-02 09:03:30.197000+01:00,True,CONFIRMED
+2e237051-266b-4d2c-9415-06e508a2262f,,false,Novozymes,ct_formulator,1,re_CH,1,Mette Kiith,2019-12-20 12:43:43.954000+00:00,2020-11-05 13:31:31.885000+00:00,True,CONFIRMED
+2e5ecb2d-184e-4c71-b06d-879befccee82,feydivorzi@vusra.com,true,Novozymes,ct_bakery,0,re_JA,1,Regression Test JP,2022-04-20 17:53:35.624000+01:00,2022-04-20 17:53:35.624000+01:00,True,CONFIRMED
+2ea1a95f-30d4-4086-b5de-5b201a997e6d,sudeepthinagendran786@gmail.com,true,olam,ct_formulator,0,re_ME,1,sudeepthi,2021-03-24 07:48:36.942000+00:00,2021-03-24 07:48:36.942000+00:00,True,CONFIRMED
+2f8401e3-b589-44d3-88df-b32a98e7d7af,liming.cai@corbion.com,true,Corbion,ct_bakery,1,re_NA,1,Liming Cai,2021-03-16 16:03:37.497000+00:00,2021-05-06 19:48:31.315000+01:00,True,CONFIRMED
+30355bfe-7dfb-4610-a20c-f831ff41398c,SKAU@NOVOZYMES.COM,true,Novozymes South Asia Pvt. Ltd.,ct_bakery,1,re_IND,1,Sumeet Kaur,2022-03-25 07:51:25.237000+00:00,2022-03-25 07:51:25.237000+00:00,True,CONFIRMED
+30593cd9-138c-4052-acb2-f57284d7b0a5,stephany.giron@univarsolutions.com,true,Univar Solutions,ct_distributor,1,re_NA,1,Stephany,2021-11-25 16:49:22.290000+00:00,2021-11-25 16:49:22.290000+00:00,True,CONFIRMED
+30de462e-2546-4da7-8dfb-c18ded7fb246,a.coisnon@lesaffre.com,true,LESAFFRE,ct_formulator,1,re_EU,1,COISNON,2021-03-15 14:57:50.852000+00:00,2021-03-15 14:57:50.852000+00:00,True,CONFIRMED
+30e9daea-43a7-4ee4-8099-9d504557c4fc,fabian.gregor98@gmail.com,true,Novozymes,ct_bakery,1,re_EU,1,Grigore Razvan Fabian,2021-05-31 14:10:19.174000+01:00,2021-06-01 09:47:13.951000+01:00,True,CONFIRMED
+3168c80d-05ea-485e-a9c2-aa9c752f223d,pilar.figueroa@girona.cl,true,Importadora y Exportadora Girona S.A.,ct_formulator,1,re_SA,1,Pilar Figueroa Pino,2022-03-16 15:34:47.601000+00:00,2022-03-16 15:34:47.601000+00:00,True,CONFIRMED
+31805b55-1376-435b-91fd-375b2cb61418,,,原麦手作,ct_bakery,1,re_CH,1,林小超,2021-05-04 03:49:18.130000+01:00,2021-05-04 03:49:18.130000+01:00,True,CONFIRMED
+319f4c37-7603-4daf-8f3b-ddc4955b3196,arv@novozymes.com,true,Novozymes A/S,ct_bakery,0,re_EU,1,Adriana Velic (ARV),2020-12-04 09:07:10.556000+00:00,2020-12-04 09:07:31.085000+00:00,True,CONFIRMED
+31aff66b-f076-44e3-afcb-eba06c4a5a08,shripad.ambekar@bakels.in,true,Indo Bakels,ct_formulator,1,re_ME,1,Shripad Ambekar,2021-03-09 07:02:23.089000+00:00,2021-03-09 07:02:23.089000+00:00,True,CONFIRMED
+328f2e12-7b55-4867-a3e8-15fe0eeccd4d,amr.wheed@gmail.com,true,Chemeticzymes ,ct_bakery,0,re_ME,1,Amr Eldhami,2021-06-24 16:31:54.863000+01:00,2021-06-24 16:31:54.863000+01:00,True,CONFIRMED
+329f1c48-1a9e-4d6f-86c6-d95a4dafc956,ytli@novozymes.com,true,诺维信,ct_formulator,1,re_CH,1,刘奕彤,2021-01-12 04:40:34.767000+00:00,2021-01-12 04:40:34.767000+00:00,True,CONFIRMED
+333af439-be60-4e5e-b907-b2c254e018a6,departamentotecnico@nutrigold.com.uy,true,Nutrigold Uruguay S.A.,ct_distributor,1,re_NA,1,Roberto Ekker,2021-03-12 15:21:43.935000+00:00,2021-03-12 15:21:43.935000+00:00,True,CONFIRMED
+33fe95bb-617f-4932-b726-17e01ab7134b,yunweisheng@126.com,true,河南奥尼斯特食品有限公司,ct_formulator,1,re_CH,1,云伟胜,2021-05-28 09:40:56.602000+01:00,2021-05-28 09:40:56.602000+01:00,True,CONFIRMED
+34155301-62b7-489d-8289-999bd5dba97e,georgina.Centeno@univarsolutions,true,univar solutions,ct_distributor,1,re_NA,1,Georgina Centeno,2021-11-25 16:48:06.285000+00:00,2021-11-25 16:48:06.285000+00:00,True,CONFIRMED
+3448e02d-79f9-48c1-b3e6-bb22edf5ccc7,elpapanik@gmail.com,true,elpapanik@gmail.com,ct_distributor,0,re_NA,1,IOANNIS SAMAKIDIS,2021-05-27 08:33:21.569000+01:00,2021-05-27 08:40:21.416000+01:00,True,CONFIRMED
+346e06c9-dc4c-48ae-b03c-b3540f935104,savio@cogentfoods.in,true,cogent foods,ct_bakery,1,re_IND,1,savio miranda,2021-06-02 10:02:44.349000+01:00,2021-06-02 10:02:44.349000+01:00,True,CONFIRMED
+34769465-fac3-444e-8cc4-2e4616d4814d,1084793135@qq.com,true,甜心烘焙坊,ct_bakery,1,re_CH,1,黄哲豪,2021-05-05 08:11:50.372000+01:00,2021-05-05 08:11:50.372000+01:00,True,CONFIRMED
+34d36b62-ab7b-42c9-bdff-af4696009dfa,aleksander.yashkov@partnermk.ru,true,Партнёр М,ct_formulator,0,re_RU,1,Александр Яшков,2021-03-01 06:56:42.725000+00:00,2021-03-01 06:56:42.725000+00:00,True,CONFIRMED
+34dba703-4832-41ca-8cfb-891329b92d40,Andrey.krivosheev@arvalus.ru,true,Арвалус ,ct_formulator,0,re_RU,1,Андрей ,2020-12-04 11:21:46.303000+00:00,2020-12-04 11:22:20.214000+00:00,True,CONFIRMED
+3573d103-b722-4184-909c-300fa5e6db10,vaga@novozymes.com,true,Novozymes,ct_bakery,1,re_EU,1,Vale,2021-09-02 12:06:34.551000+01:00,2022-02-14 15:40:34.761000+00:00,True,CONFIRMED
+3574d2b7-d6fe-4b08-af46-5fa7a36ea28e,cbenavides@granotec.com.ec,true,GRANOTEC ECUADOR,ct_distributor,1,re_SA,1,CLARA BENAVIDES,2021-04-06 18:26:46.045000+01:00,2021-04-06 18:26:46.045000+01:00,True,CONFIRMED
+35bc2f7b-f8ea-463d-a0a6-9ba0f24631f4,anne.dreher@univarsolutions.com,true,Univar Solutions,ct_formulator,0,re_EU,1,Dreher,2020-12-15 13:09:52.689000+00:00,2021-08-27 14:11:21.865000+01:00,True,CONFIRMED
+364df6cd-2d4a-43ac-8357-6e5411268582,12245343@qq.com,true,北京贝成科技有限公司,ct_bakery,1,re_CH,1,张女士,2022-01-26 15:34:31.217000+00:00,2022-01-26 15:34:31.217000+00:00,True,CONFIRMED
+369025e8-a76f-49c4-8dc7-e8ab7b06c711,jorge.alonso@bayogar.com,true,Bayogar S.L.,ct_bakery,0,re_EU,1,Jorge Alonso,2021-09-29 15:46:14.583000+01:00,2021-09-29 15:48:04.030000+01:00,True,CONFIRMED
+369a7c97-938a-47da-9d5d-4fdde3e71616,romanfoodporn@gmail.com,true,Test-Student,ct_distributor,1,re_EU,1,Grigore Razvan Fabian,2021-06-01 09:49:50.487000+01:00,2021-06-01 09:49:50.487000+01:00,True,CONFIRMED
+36aeb43a-6a1d-4d26-9579-54724b5a94e0,addj@ozemail.com.au,true,ADCS Pty Ltd,ct_formulator,0,re_ME,1,Alex Donnelly,2021-03-08 22:43:37.484000+00:00,2021-03-08 22:43:37.484000+00:00,True,CONFIRMED
+36b9a13f-8b37-423a-a2cc-87c86e8c0eb8,filippos.samakidis@gmail.com,true,isa@novozymes.com,ct_distributor,0,re_RU,1,IOANNIS SAMAKIDIS,2021-05-17 10:24:27.041000+01:00,2021-05-27 08:30:07.209000+01:00,True,CONFIRMED
+37c5b95d-8ef8-4a58-b894-e342921f0bdb,599219737@qq.com,true,无,ct_bakery,1,re_CH,1,叶正兴,2021-05-31 15:36:33.433000+01:00,2021-05-31 15:36:33.433000+01:00,True,CONFIRMED
+37eefd51-c6f5-4ddd-96a1-9d66bca61015,tecnologie_alimentari@hotmail.it,true,Deimos,ct_distributor,1,re_EU,1,Giorgio Attanasio,2021-04-13 16:24:28.124000+01:00,2021-04-13 16:24:28.124000+01:00,True,CONFIRMED
+3838e41a-59e2-4f57-aaee-0f5b74372270,per@adnuvo.com,true,Adnuvo,ct_bakery,0,re_EU,1,Per Christoffersen,2019-12-11 08:45:47.412000+00:00,2020-01-22 09:09:00.351000+00:00,True,CONFIRMED
+385e910f-6276-4c29-a6ca-41829d8bfd3b,luis.alves.dk@gmail.com,true,NZ,ct_bakery,1,re_EU,1,luis,2019-12-05 13:25:00.859000+00:00,2020-11-12 10:35:16.695000+00:00,True,CONFIRMED
+38eece5a-1fe4-4715-b362-8919a556614f,anitaitsme47@gmail.com,true,nz,ct_formulator,0,re_IND,1,Beera,2021-04-27 13:07:44.560000+01:00,2021-04-27 13:07:44.560000+01:00,True,CONFIRMED
+3911afc2-8744-4452-9784-2b083bd38eba,zlievzvsdgfopxq@baybabes.com,true,Mark,ct_formulator,0,re_EU,1,Mark,2021-01-24 14:07:39.888000+00:00,2021-01-24 17:44:52.156000+00:00,True,CONFIRMED
+39551a14-7cbc-44b6-880a-8cf34f0910c1,mrpe@novozymes.com,true,Novozymes,ct_formulator,1,re_EU,1,Marcelo Pedras,2020-01-08 14:21:24.229000+00:00,2021-03-17 14:50:24.111000+00:00,True,CONFIRMED
+39d151b6-046f-42e2-adf1-70da3916a474,bert.grutterink@bolletje.nl,true,Bolletje BV,ct_bakery,1,re_EU,1,Bert Grutterink,2021-04-22 08:45:06.672000+01:00,2021-04-22 08:45:06.672000+01:00,True,CONFIRMED
+3a4700bf-f51a-4010-8656-7530007a6b00,ogerken@stern-wywiol-gruppe.de,true,Mühlenchemie GmbH & Co.KG,ct_formulator,0,re_EU,1,Olaf Gerken,2021-03-09 18:09:51.472000+00:00,2021-03-09 18:09:51.472000+00:00,True,CONFIRMED
+3ad41f73-21a6-4095-a142-4dcef298fe63,rian@breadimprovers.co.za,true,NATIONAL BREAD IMPROVERS (PTY) LTD,ct_formulator,1,re_ME,1,RIAN SMIT,2021-09-29 10:10:15.329000+01:00,2021-10-07 11:34:47.716000+01:00,True,CONFIRMED
+3add6bac-aedd-41fc-b358-b621b60c128b,,,cargill,ct_formulator,1,re_CH,1,张浩,2020-03-25 09:19:15.394000+00:00,2020-03-25 09:25:52.992000+00:00,True,CONFIRMED
+3b256b5b-f947-4381-8695-60c4442912f9,zali.77@mail.ru,true,Амонд  ,ct_bakery,1,re_RU,1,Агузарова Залина Феликсовна ,2021-02-27 11:47:11.493000+00:00,2021-02-27 11:47:11.493000+00:00,True,CONFIRMED
+3b7a9af1-140f-4f87-8fc5-8549caec4413,baran.yilmaz@pakmaya.com,true,PAKMAYA,ct_formulator,1,re_EU,1,BARAN YILMAZ,2021-01-14 07:45:30.685000+00:00,2021-01-14 07:45:30.685000+00:00,True,CONFIRMED
+3c2e9b10-aea4-4479-ba98-dd6c1f240d0f,chen@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Cecilia,2020-09-21 11:30:56.990000+01:00,2020-11-03 12:42:55.854000+00:00,True,CONFIRMED
+3c90f9ef-6538-4b14-bc40-36b77908a02f,mhes@novozymes.com,true,Novozymes,ct_bakery,0,re_EU,1,Michael Bruhn Eskerod,2021-02-10 07:42:58.206000+00:00,2021-02-25 12:09:20.851000+00:00,True,CONFIRMED
+3caa8ccb-a165-4c77-b093-433ffdeb7254,irim@novozymes.com,true,Novozymes,ct_formulator,1,re_ME,1,Irina Matveeva,2020-11-16 10:35:21.370000+00:00,2021-04-20 10:42:56.301000+01:00,True,CONFIRMED
+3cadd073-18aa-429a-8b17-57f9d88aff51,ewout.matthys@clarysnv.be,true,Clarys,ct_formulator,0,re_EU,1,Ewout Matthys,2022-01-05 15:32:35.134000+00:00,2022-01-05 15:32:35.134000+00:00,True,CONFIRMED
+3cdcdd06-47e9-4021-91f7-40cff338f3bb,,,盼盼食品集团,ct_bakery,1,re_CH,1,刘缘,2020-12-11 03:55:20.847000+00:00,2020-12-11 03:55:36.121000+00:00,True,CONFIRMED
+3da58ffe-a45f-4061-acf1-5be466bc5712,,false,泰莱贸易（上海）有限公司,ct_formulator,1,re_CH,1,张才科,2020-08-15 17:13:05.316000+01:00,2020-08-15 17:13:05.316000+01:00,True,UNCONFIRMED
+3e186dfc-dc49-4070-a928-c8ba10f3873a,YWN@novozymes.com,true,诺维信,ct_formulator,0,re_CH,1,YWN@novozymes.com,2019-12-23 05:14:25.900000+00:00,2019-12-23 05:15:18.466000+00:00,True,CONFIRMED
+3e8fdad0-55a6-4e83-921f-fe991be1cd8a,tdw@novozymes.com,true,Novozymes NA,ct_formulator,0,re_NA,1,Tisa Drew,2021-02-15 16:10:23.779000+00:00,2021-05-04 23:16:02.027000+01:00,True,CONFIRMED
+4003ff26-c6c7-42be-8449-35b2d582aeb7,,,xx,ct_distributor,0,re_CH,1,红果子,2021-10-13 13:42:58.031000+01:00,2021-10-13 13:42:58.031000+01:00,True,CONFIRMED
+406adf3d-b80e-42e3-8496-b977f695c820,elpapanik@yahoo.com,true,isa@novozymes.com,ct_distributor,0,re_RU,1,IOANNIS SAMAKIDIS,2021-06-07 14:13:43.743000+01:00,2021-06-07 14:19:22.038000+01:00,True,CONFIRMED
+40df5a50-6669-43a4-bc6f-f44549a626e8,kode@novozymes.com,true,Novozymes,ct_formulator,0,re_IND,1,Costas ,2020-12-22 08:27:52.322000+00:00,2021-10-20 10:43:51.094000+01:00,True,CONFIRMED
+40f5af81-e6ed-45b4-be8c-050ba1c2e9b9,csinpoh@yahoo.com,true,Novozymes Malaysia,ct_formulator,0,re_RAP,1,choo,2021-05-10 11:02:18.032000+01:00,2021-05-17 08:09:50.627000+01:00,True,CONFIRMED
+4121b556-c6a2-4cec-b98c-0d5ab9c55c76,Richard.lui@fdld-science.com,false,中山市福德利得食品科技有限公司,ct_formulator,0,re_CH,1,吕伟程,2020-01-03 08:10:29.174000+00:00,2020-01-03 08:11:24.320000+00:00,True,CONFIRMED
+4143872d-83a9-48ef-94ba-b43da4e147c2,,false,宁夏夏盛实业集团有限公司,ct_formulator,1,re_CH,1,张家全,2020-03-25 06:28:15.048000+00:00,2020-03-25 06:28:15.048000+00:00,True,UNCONFIRMED
+4168718a-44aa-429e-96ea-760d8ed83c99,jarmo.laine@fazer.com,true,jarmo.laine@fazer.com,ct_formulator,0,re_EU,1,jarmo laine,2021-03-10 07:02:28.656000+00:00,2021-04-29 07:57:56.190000+01:00,True,CONFIRMED
+41aecd9c-0e60-4472-a927-23b0e1d01425,ywn@novozymes.com,true,诺维信,ct_formulator,1,re_CH,1,王轶男,2019-12-24 01:40:05.734000+00:00,2019-12-24 01:40:46.122000+00:00,True,CONFIRMED
+41ee4222-0a1a-483e-927a-7ee3f8c53d2f,,false,novozymes,ct_formulator,1,re_CH,1,tan lam chuan,2020-04-22 08:42:24.540000+01:00,2020-04-22 08:42:39.467000+01:00,True,CONFIRMED
+42886fc4-9f49-4259-aee2-eab5b1c412bf,cais@wills.com.ph,true,Wills International Sales Corp.,ct_distributor,1,re_SEA,1,Zara Cais Jimenez,2021-09-10 01:55:54.913000+01:00,2021-09-10 01:55:54.913000+01:00,True,CONFIRMED
+431d5942-b062-4434-92d5-df32d60ddafa,alina.soto@bakels.com.pe,true,Bakels Peru,ct_formulator,1,re_SA,1,Alina,2021-01-26 20:08:07.130000+00:00,2021-01-26 20:08:07.130000+00:00,True,CONFIRMED
+432fab7a-eb00-4afe-8e19-41bf303da432,egs@novozymes.com,true,Novozymes,ct_bakery,0,re_ME,1,Edwin Steytler,2021-01-08 10:43:56.430000+00:00,2022-04-05 10:11:29.114000+01:00,True,CONFIRMED
+438438b1-33d2-4a3f-be01-4aa8100ba2d7,nkemojevwe@gmail.com,true,Fame Pastries and Bakery,ct_bakery,1,re_ME,1,Ojevwe Dimple,2021-11-27 20:52:24.170000+00:00,2021-11-27 20:52:24.170000+00:00,True,CONFIRMED
+443cc20a-431e-42e6-9df5-6267c1a1de32,allamhussein62@gmail.com,true,Zymology,ct_bakery,1,re_EU,1,allamhussein62@gmail.com,2021-08-31 06:58:22.513000+01:00,2021-08-31 06:58:22.513000+01:00,True,CONFIRMED
+4440e647-db94-49b9-bb42-6b99a8785f13,qga@novozymes.com,true,novozymes,ct_bakery,1,re_CH,1,QGA,2019-12-23 02:46:01.564000+00:00,2021-03-08 03:01:53.779000+00:00,True,CONFIRMED
+44dcc858-30cd-4378-bec5-d2c10a2652a8,LUEK@NOVOZYMES.COM,true,Novozymes,ct_distributor,0,re_NA,1,Lauren Kane,2021-03-08 14:09:01.209000+00:00,2021-03-08 14:09:01.209000+00:00,True,CONFIRMED
+452b39a8-c9a1-48ce-ac5f-967299179525,anms@novozymes.com,true,Novozymes,ct_formulator,1,re_EU,1,Anne Munck Sand,2021-01-18 15:30:21.830000+00:00,2021-03-04 21:18:56.267000+00:00,True,CONFIRMED
+45804ed1-b057-4301-935c-0516a9427129,siak@novozymes.com,true,Novozymes,ct_bakery,1,re_IND,1,Sajid Akbar,2022-01-06 04:08:54.453000+00:00,2022-01-06 04:08:54.453000+00:00,True,CONFIRMED
+45c753cb-8f7b-473e-8fc3-654cc9392d9c,,,常州味立方,ct_distributor,1,re_CH,1,黄崇修,2022-01-15 12:42:08.293000+00:00,2022-01-15 12:42:08.293000+00:00,True,CONFIRMED
+4603e25d-493f-4e89-8bb2-a0e592f3af62,,,诺维信,ct_formulator,0,re_CH,1,袁佳燕,2020-09-27 08:06:23.135000+01:00,2020-09-27 08:06:40.674000+01:00,True,CONFIRMED
+466a3c77-6e46-4502-a7d7-e0980268b50d,,,清城区米洛面包店,ct_bakery,1,re_CH,1,叶晓燕,2021-12-05 16:39:31.024000+00:00,2021-12-05 16:39:31.024000+00:00,True,CONFIRMED
+467fc384-df7b-45fe-959e-9e9b1bbf8da3,zzdlp@163.com,false,郑州金诺食品科技有限公司,ct_formulator,1,re_CH,1,段雷鹏,2020-08-10 02:21:06.214000+01:00,2020-08-10 02:21:06.214000+01:00,True,UNCONFIRMED
+46944d05-0905-40a5-8c36-3deb6751d24d,hrt@novozymes.com,true,Novozymes ,ct_bakery,0,re_IND,1,Harish,2021-04-28 07:15:24.439000+01:00,2022-03-23 10:40:36.703000+00:00,True,CONFIRMED
+46be8d44-3f19-4b23-a68a-bc3b8e774cc0,tancang215@163.com,true,绿果甜品,ct_bakery,1,re_CH,1,谭杰,2021-05-12 09:40:42.229000+01:00,2021-05-12 09:40:42.229000+01:00,True,CONFIRMED
+46e66848-7ecf-40c3-bdc9-75df6f691877,nicole.downs@univarsolutions.com,true,Univar Solutions,ct_distributor,1,re_NA,1,Nicole Downs,2021-09-15 22:01:19.443000+01:00,2021-09-15 22:01:19.443000+01:00,True,CONFIRMED
+46f46005-fa74-4dc8-9a13-bd6b53a3317e,gfwu@novozymes.com,true,Novozymes,ct_formulator,1,re_CH,1,Guifang ,2020-03-25 06:32:14.671000+00:00,2020-03-25 06:33:09.778000+00:00,True,CONFIRMED
+470689cd-2a58-4c78-8aae-6b479adbe813,rodneybh@qq.com,true,小小面包店,ct_bakery,0,re_CH,1,黄先生,2020-08-25 11:18:07.006000+01:00,2020-08-25 11:19:05.111000+01:00,True,CONFIRMED
+47068d66-31d7-4441-a179-715ad4729156,francesca.casaretta@barilla.com,true,Barilla Group,ct_bakery,0,re_EU,1,Francesca Casaretta,2021-02-16 07:52:43.398000+00:00,2021-02-16 07:52:43.398000+00:00,True,CONFIRMED
+4768f28a-0441-41d8-bf19-5015f05a425f,ljrk@novozymes.com,true,Novozymes,ct_bakery,0,re_EU,1,Line Kaersager,2020-10-26 13:03:16.810000+00:00,2020-10-27 13:32:28.172000+00:00,True,CONFIRMED
+47f5d373-a6df-4e6d-9e81-19f146b6ecd3,jgrc@novozymes.com,true,Novozymes A/S,ct_distributor,0,re_EU,1,Joao Cardoso,2021-03-17 12:44:06.091000+00:00,2021-03-17 12:44:06.091000+00:00,True,CONFIRMED
+4985e80f-8850-4dca-9045-f3ec9cbc16ee,frri@novozymes.com,true,isa@novozymes.com,ct_distributor,0,re_NA,1,IOANNIS SAMAKIDIS,2021-06-07 14:24:14.010000+01:00,2021-06-07 14:24:40.189000+01:00,True,CONFIRMED
+499b9817-2acb-4a31-aea9-1c00d7250c01,Tatiana.Yadygina@sonneveld.com,true,Sonneveld,ct_formulator,0,re_EU,1,Tatiana Yadygina,2020-12-03 20:07:25.439000+00:00,2020-12-03 20:08:09.658000+00:00,True,CONFIRMED
+49b73785-a4db-4535-8652-0a9422912cf2,wanwisa.assawateerakul@brenntag-asia.com,true,Brenntag Ingredients (Thailand),ct_distributor,1,re_SEA,1,Wanwisa Assawateerakul,2021-03-25 02:05:30.947000+00:00,2021-05-05 14:41:48.248000+01:00,True,CONFIRMED
+49ef5074-4136-420d-9dd2-aba0bd041d53,kunafahub@gmail.com,true,Kunafa Hub,ct_bakery,0,re_IND,1,Jabir Ali,2021-08-09 02:50:33.896000+01:00,2021-08-09 02:50:33.896000+01:00,True,CONFIRMED
+4a2dfbeb-9588-4f68-ada4-1f81123b67ba,kevin3720@hotmail.com,true,zealand,ct_bakery,0,re_EU,1,Kevin Dahl Sørensen,2022-05-03 10:45:06.621000+01:00,2022-05-03 10:45:06.621000+01:00,True,CONFIRMED
+4acfd14e-4628-4f00-9e93-3e148ffd85ef,,,木羽手作,ct_bakery,0,re_CH,1,李玲君,2021-04-30 06:22:57.997000+01:00,2021-04-30 06:22:57.997000+01:00,True,CONFIRMED
+4b1acb97-ea24-4097-97ee-6554ef4d1ca3,tony.bonhommet@pasquier.fr,true,PASQUIER,ct_bakery,0,re_EU,1,BONHOMMET,2021-12-09 14:51:21.881000+00:00,2021-12-09 16:51:56.612000+00:00,True,CONFIRMED
+4b657755-8f1a-4fa0-86da-69950cf78a1a,maki@novozymes.com,true,Novozymes Japan,ct_bakery,1,re_RAP,1,Marie KANATANI,2021-11-08 06:37:43.225000+00:00,2021-11-09 06:54:54.083000+00:00,True,CONFIRMED
+4bf155ab-a008-4564-96ec-bf8feb42a26d,mayank@abd-group.com,true,ABDG Kuwait,ct_formulator,0,re_ME,1,Mayank Rakesh Kumar,2021-10-23 10:16:31.644000+01:00,2022-04-05 11:39:50.595000+01:00,True,CONFIRMED
+4bf51679-85c4-4a63-9e15-dad17abf81f7,bsri@novozymes.com,true,Novozymes Mexicana S.A DE C.V,ct_bakery,1,re_NA,1,Blanca Solana Rioseco,2021-01-21 17:49:30.740000+00:00,2021-01-21 17:51:19.143000+00:00,True,CONFIRMED
+4cbb6d30-f1d9-4221-9d2e-e68595984feb,k.bobyshev@gmail.com,true,Тест. Новозаймс,ct_bakery,0,re_RU,1,Бобышев Константин Тест,2020-11-16 09:40:08.866000+00:00,2021-12-10 05:17:54.039000+00:00,True,CONFIRMED
+4cf3f569-afb4-4881-b760-1278f2568231,andc@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Andreas Christen,2020-12-03 07:52:34.562000+00:00,2021-03-17 10:50:16.754000+00:00,True,CONFIRMED
+4cf7689c-6f20-4f1d-8880-1a9b573f7285,amir@elis.co.il,true,Elite bakery ltd.,ct_bakery,0,re_ME,1,Amir Farran,2022-01-06 08:56:48.944000+00:00,2022-01-06 08:56:48.944000+00:00,True,CONFIRMED
+4d31778b-e6b1-47cc-b10a-54eff2c1c2a0,nngo@novozymes.com,true,诺维信(中国)投资有限公司,ct_formulator,1,re_CH,1,高楠,2021-01-12 04:40:16.867000+00:00,2021-01-12 04:40:16.867000+00:00,True,CONFIRMED
+4dfc5d8a-9faa-414c-8d07-d1dc3ddea225,tahir@swissbake.in,true,Swiss Bake Ingredients Pvt Ltd,ct_formulator,1,re_IND,1,Tahir Shaikh,2021-08-19 10:28:00.154000+01:00,2021-08-19 10:28:00.154000+01:00,True,CONFIRMED
+4e17a532-b310-4ab2-8c58-09a81790bdef,bernadette@wills.com.ph,true,Wills International,ct_distributor,1,re_SEA,1,Anne Bernadette T. Pulga,2021-04-23 04:05:35.302000+01:00,2021-05-05 14:41:52.793000+01:00,True,CONFIRMED
+4ebfb339-adfa-4bc1-9e95-de153635ea4f,cristiano.paganoni@barilla.com,true,Barilla,ct_bakery,1,re_EU,1,Cristiano Paganoni,2021-02-17 11:23:01.468000+00:00,2021-02-17 11:23:01.468000+00:00,True,CONFIRMED
+4ed99f75-a9a0-41c3-88d7-4e58f71b7b0b,932130689@qq.com,false,金沙河研究院,ct_bakery,1,re_CH,1,王旭琳,2020-03-25 06:27:52.406000+00:00,2020-03-25 06:27:52.406000+00:00,True,UNCONFIRMED
+4fa01ced-8a53-4d1a-aef9-dba73e71124a,a.dusart@lesaffre.com,true,Lesaffre ,ct_formulator,1,re_EU,1,Dusart Arnaud,2021-03-24 08:49:19.776000+00:00,2021-03-24 08:49:19.776000+00:00,True,CONFIRMED
+4fcb0406-11bd-465d-9418-0a4248674240,zouqibo@126.com,false,福吉佳食品股份有限公司,ct_bakery,1,re_CH,1,邹奇波,2020-08-06 09:52:16.623000+01:00,2020-08-06 09:52:16.623000+01:00,True,UNCONFIRMED
+4fd8e2e8-4d37-4d70-88ef-2bf91d2d1e35,csn@novozymes.com,true,novozymes,ct_formulator,1,re_NA,1,Craig Sherwin,2019-12-17 15:49:31.001000+00:00,2021-01-21 15:01:18.434000+00:00,True,CONFIRMED
+504c0957-53cc-4675-89de-ec718561335c,niels.gerdes@pfahnl.at,true,Pfahnl Backmittel,ct_bakery,1,re_EU,1,Niels Gerdes,2021-11-05 07:07:13.493000+00:00,2021-11-05 07:07:13.493000+00:00,True,CONFIRMED
+515146e9-3f97-4857-95cf-9f1e72f84f0b,channaveerayya.hiremath@brenntag-asia.com,true,Brenntag,ct_distributor,1,re_IND,1,channaveerayya.hiremath@brenntag-asia.com,2021-07-16 05:38:51.855000+01:00,2021-07-16 05:38:51.855000+01:00,True,CONFIRMED
+51a11201-a73e-4ec5-8988-2d8b815f7e70,sroa@grupotrisan.com,true,Trisan Dominicana,ct_distributor,0,re_SA,1,Sandra Roa,2021-03-08 13:16:34.111000+00:00,2021-03-08 13:16:34.111000+00:00,True,CONFIRMED
+51b0af5d-38d1-400f-b307-f481645fb694,fvaragnac@stern-wywiol-gruppe.de,true,Mühlenchemie,ct_formulator,0,re_EU,1,Varagnac,2021-04-28 12:22:53.438000+01:00,2021-04-28 12:22:53.438000+01:00,True,CONFIRMED
+5247d2e9-2f03-4d39-b594-6c6b2f9aa4c6,jbraet@puratos.com,true,Puratos,ct_formulator,1,re_EU,1,Joke Braet,2021-04-14 11:18:58.814000+01:00,2021-04-14 11:18:58.814000+01:00,True,CONFIRMED
+52d63b07-a9c4-454c-909c-ea0fddfb3bca,faruk.biren@polengida.com,true,Polen Gida,ct_formulator,1,re_EU,1,Faruk Biren,2021-03-15 17:37:16.509000+00:00,2021-03-15 17:37:16.509000+00:00,True,CONFIRMED
+537f56d3-a36d-42b1-a43d-02a866c85cc4,ccavieres@grupomathiesen.com,true,Mathiesen,ct_distributor,1,re_SA,1,Carola Cavieres,2021-04-14 17:52:53.354000+01:00,2021-04-14 17:52:53.354000+01:00,True,CONFIRMED
+53cd7501-66b9-4ab9-9f16-e5e6e6307c29,duarte.reis@credin.pt,true,Credin Portugal,ct_formulator,0,re_EU,1,Duarte Reis,2021-03-12 11:53:09.917000+00:00,2021-03-12 11:53:09.917000+00:00,True,CONFIRMED
+53d2e7da-fb3f-4651-81ea-6b074cd20ee0,,,ADNUVO,ct_bakery,0,re_CH,1,Henning,2020-08-21 11:47:49.798000+01:00,2020-08-21 11:51:07.423000+01:00,True,CONFIRMED
+54484680-b199-43e6-a634-19b1a9c7a1c2,lindu.dwipayana@brenntag-asia.com,true,PT Brenntag,ct_formulator,1,re_SEA,1,Lindu Samudra Dwipayana,2021-02-23 07:22:47.213000+00:00,2021-05-05 14:41:56.964000+01:00,True,CONFIRMED
+546afee0-0af1-4526-8586-be8bf4ef9755,129184@qq.com,true,怀化真味拾光餐饮管理有限责任公司,ct_bakery,1,re_CH,1,申琳,2021-11-29 09:29:13.551000+00:00,2021-11-29 09:29:13.551000+00:00,True,CONFIRMED
+547eef2a-db32-4f01-81fa-7d31c047f3bc,,,郑州万东商贸有限公司,ct_bakery,1,re_CH,1,于万东,2020-08-01 04:48:58.891000+01:00,2020-08-01 04:49:18.911000+01:00,True,CONFIRMED
+550115b8-c801-45bd-8149-0e1a32a871b0,polly@perfectenglish.dk,true,Perfect English,ct_formulator,0,re_EU,1,polly J davis,2021-02-11 09:26:37.236000+00:00,2021-02-11 09:26:37.236000+00:00,True,CONFIRMED
+56177379-5ba5-4668-b05c-e57d9b55e727,argu@novozymes.com,true,Novozymes,ct_bakery,0,re_IND,1,Anuradha,2021-07-15 10:04:06.237000+01:00,2022-01-04 07:51:53.451000+00:00,True,CONFIRMED
+5678e139-12bd-469e-98a8-3fcebf949129,jasmin.fleischmann@bakels.ch,true,Bakels Nutribake AG,ct_formulator,0,re_EU,1,Jasmin Fleischmann,2021-06-25 10:29:39.504000+01:00,2021-06-25 10:29:39.504000+01:00,True,CONFIRMED
+56801390-3365-46d7-ad86-4607b21aa659,tancang215@163.com,true,绿果甜品,ct_bakery,1,re_CH,1,谭杰,2021-05-12 09:40:42.223000+01:00,2021-05-12 09:40:42.223000+01:00,True,CONFIRMED
+56dea688-3abd-4ea1-ae43-26bfd56abf6d,,,福建省北记食品有限公司,ct_bakery,0,re_CH,1,阳先,2020-07-31 03:45:23.918000+01:00,2020-07-31 03:45:23.918000+01:00,True,UNCONFIRMED
+56f52c11-6201-4e3e-afea-174e058c1451,nua@novozymes.com,true,Novozymes,ct_bakery,0,re_ME,1,Nurcihan Aydin,2021-01-11 08:50:31.688000+00:00,2021-03-09 07:10:07.253000+00:00,True,CONFIRMED
+56f6a032-a3cc-4ece-bf32-6702967f60fd,,,无锡金农生物有限公司,ct_formulator,0,re_CH,1,张玲艳,2020-03-25 07:07:21.782000+00:00,2020-03-25 07:07:52.990000+00:00,True,CONFIRMED
+570eeee3-78e0-4865-a2d6-0e30f160df39,jqyl@novozymes.com,false,诺维信,ct_bakery,1,re_CH,1,李鉴君,2019-12-23 07:50:55.672000+00:00,2019-12-23 07:50:55.672000+00:00,True,UNCONFIRMED
+573c3e8f-b60c-4aa6-8003-56de5b6b32c3,joaomg@gmail.com,true,LN,ct_formulator,0,re_JA,1,João Marques Gomes,2022-03-02 16:14:36.701000+00:00,2022-03-14 15:09:06.048000+00:00,True,CONFIRMED
+57707607-a3bf-4c2e-9b4b-2fd1e3c18ba7,,,信旭明途,ct_bakery,0,re_CH,1,张鑫宇,2021-04-25 03:25:37.748000+01:00,2021-04-25 03:25:37.748000+01:00,True,CONFIRMED
+57780d13-7f8b-40ed-838f-f2d7fde871b9,41975903@qq.com,false,天津百味鲜食品科技有限公司,ct_formulator,0,re_CH,1,Rain,2020-10-28 08:01:07.159000+00:00,2020-10-28 08:01:07.159000+00:00,True,UNCONFIRMED
+578fed08-bbb3-497d-a78d-e869331b8635,,,momo,ct_bakery,0,re_CH,1,mas,2021-12-24 10:23:25.312000+00:00,2021-12-24 10:23:25.312000+00:00,True,CONFIRMED
+57f08904-858e-47c2-845d-312bf73aeb13,szwa@novozymes.com,true,Novozymes,ct_distributor,1,re_SEA,1,Sze Wei Ain,2022-01-27 02:18:15.747000+00:00,2022-01-27 02:18:15.747000+00:00,True,CONFIRMED
+58fa9d2a-e5db-481b-8e93-500207714b40,johnsamakidis@yahoo.com,true,johnsamakidis@yahoo.com,ct_distributor,0,re_IND,1,John Samakidis,2021-04-27 11:58:05.659000+01:00,2021-06-23 07:17:55.776000+01:00,True,CONFIRMED
+58fb078e-8042-4820-941c-55b910a12c49,youk@novozymes.com,true,Novozymes,ct_bakery,1,re_RAP,1,Youngrak Kim,2022-01-11 06:50:36.728000+00:00,2022-01-11 06:50:36.728000+00:00,True,CONFIRMED
+5949721b-9e5e-4534-a686-c2095104b871,Innarubtsova@mail.ru,true,Магия вкуса,ct_formulator,1,re_RU,1,Инна,2021-02-24 09:34:27.380000+00:00,2021-02-24 09:34:27.380000+00:00,True,CONFIRMED
+59be19a0-22a2-4c70-82c9-cb94d9865170,sarkarjob83@gmail.com,true,bakery,ct_bakery,1,re_IND,1,Suvankar Sarkar,2021-09-14 17:24:44.271000+01:00,2021-09-14 17:24:44.271000+01:00,True,CONFIRMED
+59f41dfe-b7da-4c32-9643-09ac0a1f3cf6,maarten0606@gmail.com,true,Mtech,ct_bakery,0,re_EU,1,MvO,2021-03-09 08:27:47.779000+00:00,2021-03-09 08:27:47.779000+00:00,True,CONFIRMED
+5a051f91-0040-4132-adbf-9545503c3b06,ravishankar@sriambica.com,true,VEERAGANIKAMMA FOODS PRIVATE LIMITED,ct_bakery,1,re_IND,1,Ravishankar AGG,2021-08-02 08:17:43.841000+01:00,2021-08-02 08:17:43.841000+01:00,True,CONFIRMED
+5a0917de-1ddd-4c71-ba69-674f7dfa7b59,hlinecky@hradeckapekarna.cz,true,Hradecka pekarna, s.r.o.,ct_bakery,1,re_EU,1,Ivan Hlinecky,2021-04-26 13:01:21.326000+01:00,2021-04-26 13:01:21.326000+01:00,True,CONFIRMED
+5a4637e2-80d1-454e-836f-f3799fad872f,boey.cheah@brenntag-asia.com,true,boey.cheah@brenntag-asia.com,ct_distributor,1,re_SEA,1,Boey,2021-03-08 23:44:07.069000+00:00,2021-05-05 14:42:01.089000+01:00,True,CONFIRMED
+5a5a807b-2b3f-4800-8a72-a50e9bb0cf7a,,,Novozyms,ct_formulator,0,re_CH,1,Manlu,2020-01-17 11:25:09.534000+00:00,2020-01-17 11:25:09.534000+00:00,True,UNCONFIRMED
+5b18656a-0334-468c-9596-edffe31ef290,Paul.Harvey@UnivarSolutions.com,true,Univar Solutions,ct_distributor,1,re_EU,1,Paul HARVEY,2021-09-13 17:03:27.773000+01:00,2021-09-13 17:03:27.773000+01:00,True,CONFIRMED
+5bbe2f0b-ab9a-4a97-a037-0d9132762c6b,emo@novozymes.com,true,Novozymes,ct_bakery,0,re_ME,1,Erman Ozdemir,2021-01-15 10:43:33.029000+00:00,2021-01-15 10:43:33.029000+00:00,True,CONFIRMED
+5c512ccc-fb74-417c-af23-68a0fb7daaa3,karen.wieman@univarsolutions.com,true,Univar Solutions,ct_distributor,1,re_NA,1,Karen Wieman,2022-04-11 21:14:34.130000+01:00,2022-04-11 21:14:34.130000+01:00,True,CONFIRMED
+5c99ca73-86fd-4129-bc21-095fed9720e9,estibudiastuti.mgl@gmail.com,true,D'lola,ct_bakery,0,re_SEA,1,Esti,2021-09-14 12:19:50.572000+01:00,2021-09-14 12:19:50.572000+01:00,True,CONFIRMED
+5cd7a86d-13fc-42f9-8915-677b0b6be59c,,,艾琳烘焙,ct_bakery,1,re_CH,1,郑伟明,2021-04-27 15:12:34.808000+01:00,2021-04-27 15:12:34.808000+01:00,True,CONFIRMED
+5d0616cc-b303-46a5-b879-270e82649720,absf@novozymes.com,true,Novozymes,ct_distributor,0,re_SEA,1,abdoreza soleimani farjam,2021-05-28 02:18:29.151000+01:00,2021-05-28 02:18:29.151000+01:00,True,CONFIRMED
+5d1abd5b-e2bc-43f0-b137-9fec550ff284,pwkos2002@gmail.com,true,Основы Вкуса ,ct_formulator,1,re_EU,1,Анастасия ,2022-01-11 10:00:14.517000+00:00,2022-01-11 10:00:14.517000+00:00,True,CONFIRMED
+5d66d721-ac2d-49b3-8283-4cc065441749,miguel_arce@gruma.com,true,GRUMA CORPORATION,ct_formulator,0,re_NA,1,MIGUEL ARCE,2021-03-08 15:04:18.610000+00:00,2021-03-08 15:04:18.610000+00:00,True,CONFIRMED
+5e1addce-825c-4654-ae2c-758aeecd947d,p.gracia@lesaffre.com,true,Lesaffre Ibérica S.A.,ct_formulator,1,re_EU,1,Pablo Gracia,2021-04-19 08:09:34.512000+01:00,2021-04-19 08:09:34.512000+01:00,True,CONFIRMED
+5e3340bc-3146-4821-8194-34fc2e39a4d3,mgerken@muehlenchemie.de,true,Muehlenchemie,ct_bakery,1,re_EU,1,Malte Gerken,2021-04-13 13:53:37.296000+01:00,2021-04-13 13:53:37.296000+01:00,True,CONFIRMED
+5e6f73ca-0c7f-4d0e-bc67-0fead225a759,493167756@QQ.COM,false,XA,ct_formulator,1,re_CH,1,LIU,2020-07-31 08:36:17.263000+01:00,2020-07-31 08:36:17.263000+01:00,True,UNCONFIRMED
+5ef3b7ca-8f87-420f-bd9e-fb84ec30ef47,546869000@qq.com,false,北京一轻,ct_bakery,1,re_CH,1,小鹿,2020-07-30 14:34:27.673000+01:00,2020-07-30 14:34:27.673000+01:00,True,UNCONFIRMED
+5f574f3c-c019-475b-a454-c7cc53eb75ae,mghy@novozymes.com,true,诺维信,ct_formulator,1,re_CH,1,袁铭辉,2021-01-12 04:44:37.202000+00:00,2021-01-12 04:44:37.202000+00:00,True,CONFIRMED
+5f83b28a-bc86-4ffa-961f-bc7f9a28eaa6,isa@novozymes.com,false,NOVOZYMES,ct_formulator,0,re_CH,1,IOANNIS SAMAKIDIS,2019-12-05 06:55:14.106000+00:00,2021-06-25 12:52:43.779000+01:00,True,CONFIRMED
+5fd03819-80d4-420a-bb3e-897000fb0c06,smirno092010@mail.ru,true,КрутонБатон,ct_bakery,1,re_RU,1,Харитонова Ольга Сергеевна ,2021-04-17 18:58:14.856000+01:00,2021-04-17 18:58:14.856000+01:00,True,CONFIRMED
+5feadd55-e2e7-4ac9-ad3f-bb9bd30a63f1,richard.lovell@univarsolutions.com,true,Univar Solutions,ct_formulator,0,re_EU,1,Richard Lovell,2020-12-04 10:06:13.655000+00:00,2020-12-04 10:07:14.985000+00:00,True,CONFIRMED
+61422ecc-9e13-42df-8054-61360d8bfa71,16361531@qq.com,true,baker life,ct_bakery,0,re_CH,1,涂金涛,2020-08-05 05:59:27.706000+01:00,2020-08-05 05:59:59.832000+01:00,True,CONFIRMED
+6179ecf7-8c49-4600-ab6b-af7d56b1ffe8,499415025@qq.com,true,江苏逅厨供应链,ct_bakery,1,re_CH,1,王加伟,2021-10-20 03:44:38.717000+01:00,2021-10-20 03:44:38.717000+01:00,True,CONFIRMED
+621b7334-459f-4cdc-baf6-87ca96f611b9,lydia.yang@trumpchemicals.com,false,恒洲,ct_formulator,1,re_CH,1,楊蕙雯,2020-01-08 02:55:18.951000+00:00,2020-01-08 03:03:46.504000+00:00,True,CONFIRMED
+62737ec2-a597-4245-8259-11e59dc7e84b,398392618@qq.com,true,绵阳鑫奥科生物科技有限公司,ct_formulator,1,re_CH,1,楚天,2021-11-28 15:08:02.902000+00:00,2021-11-28 15:08:02.902000+00:00,True,CONFIRMED
+6279627a-19fc-4777-9bfa-c13775bffbee,tetiana.hasiuk@elton-group.com,true,Elton Ukraine,ct_distributor,1,re_EU,1,Tetiana Hasiuk,2021-10-27 09:58:32.495000+01:00,2021-10-27 09:58:32.495000+01:00,True,CONFIRMED
+62ddcfff-32de-44e4-abba-0ced7152fcaa,jesper@adnuvo.com,true,ADNUVO,ct_formulator,0,re_EU,1,Jesper,2019-12-13 09:33:45.287000+00:00,2020-08-21 11:38:30.678000+01:00,True,CONFIRMED
+6325d48d-a5eb-4659-adaa-93b09c6fb01c,khamgokova.natka@gmail.com,true,ИП,ct_bakery,0,re_RU,1,Наталья Викторовна Хамгокова,2021-02-25 14:12:52.491000+00:00,2021-02-25 14:12:52.491000+00:00,True,CONFIRMED
+632b2ab7-353c-4468-81e4-f5604b69ccf5,dedrulispu@vusra.com,true,Novozymes,ct_bakery,0,re_IND,1,Regression Test IN,2022-04-20 17:52:46.685000+01:00,2022-04-20 17:52:46.685000+01:00,True,CONFIRMED
+633cac8e-d66a-42ca-bc5a-1b40c09b294d,crmarjunkarthik@gmail.com,true,The Cake House,ct_bakery,1,re_IND,1,Arjun Karthik,2021-09-02 16:26:05.086000+01:00,2021-09-02 16:26:05.086000+01:00,True,CONFIRMED
+6491dc0a-7911-4e4c-98ed-1da7a7178392,jose.mastenbroek@simedarbyoils.com,true,Sime Darby Oils,ct_formulator,0,re_EU,1,José Mastenbroek,2021-03-24 18:25:43.370000+00:00,2021-03-24 18:25:43.370000+00:00,True,CONFIRMED
+65d24716-13e9-4e4a-be43-e6280624d072,webanalytics@novozymes.com,true,Novozymes,ct_bakery,1,re_EU,1,Web Analytics,2019-12-13 11:26:24.600000+00:00,2021-01-06 09:04:36.347000+00:00,True,CONFIRMED
+65fd9292-dc27-449b-84e2-9e27094aabf5,elpapani@gmail.com,true,None,ct_bakery,0,re_EU,1,ELENI PAPANIKOLAOU,2021-01-06 13:19:39.415000+00:00,2021-06-07 14:51:09.498000+01:00,True,CONFIRMED
+661f00fa-2681-4030-a1e0-51b879dd0eb2,xihu@novozymes.com,true,Novozymes,ct_formulator,0,re_CH,1,Xinran HU,2021-03-06 10:43:06.855000+00:00,2021-03-06 10:43:06.855000+00:00,True,CONFIRMED
+66351204-c0dc-41a4-9d02-3186a45400e4,,,XA,ct_formulator,1,re_CH,1,LIU,2020-07-31 08:40:31.797000+01:00,2020-07-31 08:40:31.797000+01:00,True,UNCONFIRMED
+66b94c38-64e1-4e2b-9e5d-09c28250ba7e,rqianjingcui@puratos.com,true,Puratos NV,ct_formulator,1,re_EU,1,Qianjing Cui,2021-03-08 18:46:45.717000+00:00,2021-03-08 18:46:45.717000+00:00,True,CONFIRMED
+679b49e9-849d-4d3d-bc3c-87222cd1518d,mwa@novozymes.com,true,Novozymes,ct_formulator,1,re_CH,1,Mingzhu Wang,2021-05-20 06:57:13.846000+01:00,2021-05-20 06:57:13.846000+01:00,True,CONFIRMED
+67d2a186-7408-4e5d-a4a1-e03d706a66c7,Alejandro.bustamante@grupobimbo.com,true,Grupo Bimbo ,ct_bakery,1,re_SA,1,Alejandro Bustamante ,2021-03-15 03:19:29.644000+00:00,2021-03-15 03:19:29.644000+00:00,True,CONFIRMED
+68120739-e3d3-48d3-ab78-39525a5f12c5,jqyl@novozymes.com,true,诺维信,ct_bakery,1,re_CH,1,李鉴君,2019-12-23 07:50:55.651000+00:00,2019-12-31 06:26:18.990000+00:00,True,CONFIRMED
+6828ca50-97fa-4224-956d-cdf330557c43,victoria.black@univarsolutions.com,true,Univar Solutions,ct_distributor,1,re_NA,1,Victoria Black,2021-08-12 20:17:37.767000+01:00,2021-12-20 18:38:01.364000+00:00,True,CONFIRMED
+685f6d9b-9988-4f84-a0fb-f4146f1ebead,coen.sander@zeelandia.com,true,Zeelandia HJ Doeleman bv,ct_formulator,0,re_EU,1,Coen Sander,2020-12-03 16:28:28.169000+00:00,2020-12-03 16:28:47.411000+00:00,True,CONFIRMED
+692abe26-8adf-47b9-9ca0-9ef5b8513b58,mirosf@aol.com,true,New England Muffin Factory,ct_formulator,1,re_NA,1,Mike Fedak,2021-06-17 11:31:32.854000+01:00,2021-06-17 11:31:32.854000+01:00,True,CONFIRMED
+69305abe-a840-4208-8161-27a3e8dfe169,cks@novozymes.com,true,cks@novozymes.com,ct_bakery,0,re_EU,1,cks,2021-12-07 13:49:59.798000+00:00,2021-12-07 13:49:59.798000+00:00,True,CONFIRMED
+69d6fccb-0dfd-41c8-8271-f0fc3084fee2,nuttasit.kanchanapoomi@brenntag-asia.com,true,Brenntag Ingredients (Thailand) PCL,ct_formulator,1,re_SEA,1,Nuttasit Kanchanapoomi,2021-03-02 07:34:31.428000+00:00,2021-05-05 14:42:05.178000+01:00,True,CONFIRMED
+6a38daff-5c3e-4483-a131-2781febd60dc,mbg@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Manu Bhatnagar,2020-09-15 11:52:44.291000+01:00,2021-06-09 12:44:01.322000+01:00,True,CONFIRMED
+6a5fdd53-cb9e-47d5-8941-bad052fc4650,kamol.tangkam@brenntag-asia.com,true,Brenntag (Thailand),ct_distributor,1,re_SEA,1,Kamol Tangkam,2021-03-25 05:22:06.328000+00:00,2021-05-05 14:42:09.229000+01:00,True,CONFIRMED
+6b3af3d1-2a58-417d-8284-dc54632894f0,abirfoods@gmail.com,true,Abir foods,ct_distributor,1,re_IND,1,Shaan singh,2021-06-03 06:51:12.586000+01:00,2021-06-03 06:51:12.586000+01:00,True,CONFIRMED
+6b71d109-5548-4758-8971-4fb86d6593ff,agnes.goh@brenntag-asia.com,true,Brenntag Pte Ltd,ct_distributor,1,re_SEA,1,Agnes Goh,2021-07-30 02:15:35.860000+01:00,2021-07-30 02:15:35.860000+01:00,True,CONFIRMED
+6bd4bcf8-591c-49e8-8e8f-fd2219a08cbd,michael.yang@foxmail.com,false,郑州贝隆,ct_formulator,1,re_CH,1,杨奇,2020-07-24 14:07:45.240000+01:00,2020-07-24 14:07:45.240000+01:00,True,UNCONFIRMED
+6bf2e7ed-243c-4a2b-9afe-623450a3d031,lbell@repcoworld.com,true,REPCO,ct_formulator,0,re_NA,1,Lindsay Bell,2020-12-08 22:18:19.488000+00:00,2020-12-08 22:18:48.784000+00:00,True,CONFIRMED
+6c29f92e-5856-4aa3-8f19-639c41b007da,kristjan1985@hotmail.com,true,kristjan1985@hotmail.com,ct_bakery,0,re_EU,1,kristjan,2021-02-12 09:21:37.208000+00:00,2021-02-12 09:22:05.893000+00:00,True,CONFIRMED
+6c35204a-9d97-4f29-9b08-0f39d24d39b0,a.predybailo@efko.ru,true,ЭФКО,ct_formulator,1,re_RU,1,Предыбайло Андрей Викторович,2021-02-26 09:59:02.228000+00:00,2021-02-26 10:01:36.182000+00:00,True,CONFIRMED
+6c70bda7-29b1-4214-8d60-e16bb529600e,fongyee.sim@brenntag-asia.com,true,Brenntag Sdn Bhd,ct_distributor,0,re_SEA,1,sim fong yee,2021-12-17 01:31:51.428000+00:00,2022-01-04 02:34:27.511000+00:00,True,CONFIRMED
+6c8c0daa-0593-474f-a168-15f908a6c4bd,cxq@novozymes.com,true,Novozymes,ct_formulator,1,re_CH,1,xu qing,2019-12-06 11:39:50.227000+00:00,2020-09-01 11:07:51.003000+01:00,True,CONFIRMED
+6cbbb465-44fa-4dba-808c-50c930134c6d,rahul.bendale@brenntag-asia.com,true,Brenntag Ingredient india pvt ltd,ct_distributor,1,re_IND,1,Rahul Bendale,2021-06-25 05:51:25.219000+01:00,2021-06-25 05:51:25.219000+01:00,True,CONFIRMED
+6d2d74b1-2722-4844-9e27-78f668f21f4d,katrineskeby@gmail.com,false,Novozymes,ct_formulator,1,re_CH,1,Katrine Skeby,2019-12-05 10:35:51.397000+00:00,2020-01-31 13:01:35.884000+00:00,True,CONFIRMED
+6f090294-186c-46db-bc8c-9e1cbdb4de23,Daria.Chernikova@leipurin.com,true,ООО "Лейпуриен Тукку",ct_formulator,1,re_RU,1,Дарья Черникова,2021-03-24 12:31:51.699000+00:00,2021-03-24 12:31:51.699000+00:00,True,CONFIRMED
+6f744a51-0772-4454-b81d-197977b1e180,,,个体,ct_bakery,1,re_CH,1,刘海玲,2021-04-16 10:21:42.473000+01:00,2021-04-16 10:21:42.473000+01:00,True,CONFIRMED
+6f768535-98ed-4f6c-8e0c-c92643ffb86d,tn@sbakels.co.za,true,South Bakels,ct_formulator,0,re_ME,1,Tebogo Ngcobo,2021-01-29 08:22:30.180000+00:00,2021-01-29 08:22:30.180000+00:00,True,CONFIRMED
+6f87df8d-3120-414d-8e7f-52450ea2a5e4,tatiana.yadygina@sonneveld.com,true,sonneveld ,ct_formulator,0,re_EU,1,Tatiana Yadygina,2020-12-03 20:12:26.859000+00:00,2020-12-03 20:12:51.378000+00:00,True,CONFIRMED
+6f939986-10dd-4d2c-a134-ab89437fce75,xool@novozymes.com,true,Novozymes,ct_bakery,0,re_CH,1,Amanda Li,2020-07-24 09:14:10.128000+01:00,2020-07-24 09:15:37.132000+01:00,True,CONFIRMED
+6fc4c1f1-6c22-4b3a-af56-96890e714537,laskarpria67@gmail.com,true,jasmine bakery&cake,ct_bakery,1,re_SEA,1,dian s,2021-08-15 02:39:57.952000+01:00,2021-08-15 02:39:57.952000+01:00,True,CONFIRMED
+6fe1b302-3e2e-479a-82ae-90190e0e2685,martovitskaya@a-hleb.ru,true,ИП,ct_bakery,1,re_RU,1,Мартовицкая Ольга Валерьевнв,2021-03-02 19:23:15.225000+00:00,2021-03-02 19:23:15.225000+00:00,True,CONFIRMED
+70251a1c-1c49-4fdd-822d-cdb0be12e829,danielle.mailey@univarsolutions.com,true,Univar Solutions,ct_formulator,1,re_EU,1,Danielle Mailey,2021-01-12 14:58:28.534000+00:00,2021-08-24 10:14:22.993000+01:00,True,CONFIRMED
+704d706b-a78a-4015-ac8b-99d4f2e56b18,cordelia7744@163.com,true,火星薯（上海）食品科技有限公司,ct_bakery,1,re_CH,1,王婷,2020-08-03 03:06:48.348000+01:00,2020-08-03 03:08:43.110000+01:00,True,CONFIRMED
+708a6fb0-5621-4a20-a4a5-41f19715efaf,david.bueno@univarsolutions.com,true,UNIVAR,ct_formulator,1,re_EU,1,David Bueno,2020-12-14 17:08:16.132000+00:00,2021-02-04 10:22:15.085000+00:00,True,CONFIRMED
+7106fcec-6741-4b02-808b-0bbbd1bad3fe,test_user_smartbake@example.com,true,,,,,,test_user_smartbake@example.com,2021-01-15 10:54:34.123000+00:00,2021-01-15 10:54:34.123000+00:00,True,CONFIRMED
+713ec977-6825-4e15-86ac-1d4a337d1cb4,,,Novozymes,ct_formulator,1,re_CH,1,myl,2020-07-24 10:34:55.293000+01:00,2020-07-24 10:35:28.701000+01:00,True,CONFIRMED
+716346e3-8a77-4574-bf74-4e8d8880bafe,15021913931@163.com,true,中心,ct_bakery,0,re_CH,1,林小姐,2021-06-04 07:39:24.372000+01:00,2021-06-04 07:39:24.372000+01:00,True,CONFIRMED
+7172814f-7f5d-48a5-a016-2c02fb177c74,sgl@novozymes.com,true,sgl@novozymes.com,ct_formulator,1,re_CH,1,李守宏,2019-12-24 01:47:26.920000+00:00,2021-01-12 03:16:29.155000+00:00,True,CONFIRMED
+71952285-3e24-43a9-8554-6b7b07b9a9f0,dcd@novozymes.com,true,Novozymes,ct_formulator,0,re_SA,1,Dayane C. Araujo Dolatto,2020-11-26 13:54:34.688000+00:00,2021-05-27 17:46:30.044000+01:00,True,CONFIRMED
+71a8e4fa-b23f-40f8-a7f4-031259233fe3,kako20ad@student.cbs.dk,true,Test - Student,ct_distributor,1,re_EU,1,Kaja,2021-06-03 10:35:48.593000+01:00,2021-06-03 10:35:48.593000+01:00,True,CONFIRMED
+720599fd-8356-4f3a-afcb-76b1850f0aab,15021913931@163.com,true,中心,ct_bakery,0,re_CH,1,林小姐,2021-06-04 07:39:24.374000+01:00,2021-06-04 07:39:24.374000+01:00,True,CONFIRMED
+72752ea8-9902-44bb-b0b0-b9253bb3b626,ccox@bakels.com,true,Bakels,ct_formulator,0,re_EU,1,Chris Cox,2021-01-21 08:16:21.169000+00:00,2021-02-01 12:12:22.393000+00:00,True,CONFIRMED
+72dfca78-4b85-4a91-a737-add23769470d,sony@novozymes.com,true,Novozymes,ct_bakery,1,re_IND,1,Soham Nayak,2021-06-04 07:49:42.915000+01:00,2021-06-04 07:49:42.915000+01:00,True,CONFIRMED
+73e9cc86-07bb-439d-8501-883d07b7fea8,frankdegoeij@breatec.com,true,Breatec BV,ct_formulator,0,re_EU,1,Frank de Goeij,2021-04-13 12:54:08.438000+01:00,2021-04-13 12:54:08.438000+01:00,True,CONFIRMED
+73ec53bc-be39-4eb7-a82e-d8c7ca48970c,simone.engbo@gmail.com,true,N/A,ct_bakery,1,re_EU,1,Simone Engbo Hansen,2021-01-23 15:36:23.277000+00:00,2021-01-23 15:36:23.277000+00:00,True,CONFIRMED
+74afab84-d6fd-4f01-805c-e2c020674a8e,bsrs@novozymes.com,true,novozymes,ct_formulator,1,re_IND,1,sandhya sree beera,2020-03-24 14:25:06.265000+00:00,2021-07-15 09:49:43.635000+01:00,True,CONFIRMED
+74e58318-88d8-404b-abf0-7ff91ee3f0a3,n.colonna@andrianispa.com,true,nove alpi,ct_bakery,0,re_EU,1,nicolacolonna,2022-02-09 16:06:07.936000+00:00,2022-02-09 16:06:07.936000+00:00,True,CONFIRMED
+750ab3f4-3776-4e5b-94ad-cd07c8f5f046,anthony.pasquereau@pasquier.fr,true,Biscotte Pasquier,ct_bakery,1,re_EU,1,Pasquereau,2022-03-17 09:21:57.182000+00:00,2022-03-17 09:21:57.182000+00:00,True,CONFIRMED
+757daad4-7617-40fa-aeb9-b6f57c647e55,ivan@larosatortillafactory.com,true,La Rosa Tortilla Factory,ct_bakery,0,re_NA,1,Ivan,2022-02-23 23:28:59.579000+00:00,2022-02-23 23:28:59.579000+00:00,True,CONFIRMED
+7580ae14-745f-4e6c-9f33-42659bf1e4fb,asq@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Alvilde Storm TEST,2022-03-06 08:06:04.058000+00:00,2022-03-06 08:06:04.058000+00:00,True,CONFIRMED
+76fb8352-9c75-40e0-82e9-3423eef99b4d,gianluca.gazzola@gi-bake.com,true,gianluca.gazzola@gi-bake.com,ct_formulator,0,re_EU,1,Gianluca Gazzola,2020-12-04 08:01:51.346000+00:00,2020-12-04 08:02:08.647000+00:00,True,CONFIRMED
+77b6f680-de0a-409c-9739-3c80331c5106,rendy.stss@gmail.com,true,PT Sari Bakery,ct_bakery,1,re_SEA,1,Rendy Agus,2021-07-26 09:42:11.588000+01:00,2021-07-26 09:42:11.588000+01:00,True,CONFIRMED
+77b7e8bb-5b0c-46b8-9378-d051b074dec4,15021913931@163.com,true,中心,ct_bakery,1,re_CH,1,林小姐,2021-06-04 07:39:24.394000+01:00,2021-06-04 07:39:24.394000+01:00,True,CONFIRMED
+77e33e18-4ce0-4a05-bc83-5e355693cbc1,vdeloge@soufflet.com,true,Vincent,ct_formulator,1,re_EU,1,Vincent Deloge,2021-04-07 13:12:27.250000+01:00,2021-04-07 13:12:27.250000+01:00,True,CONFIRMED
+77f218ed-2ae1-4d4e-9aba-fe8f383ecc03,margoar2008@mail.ru,true,ООО "М.Хлеб",ct_bakery,1,re_RU,1,Радионова Маргарита Алексеевна,2021-03-02 18:37:19.382000+00:00,2021-03-02 18:37:19.382000+00:00,True,CONFIRMED
+79e03294-b960-41cc-a7b5-6c92cbf2ee78,andreea.holtman@farinsan.ro,true,FARINSAN,ct_bakery,0,re_EU,1,HOLTMAN ANDREEA,2021-06-08 09:39:12.120000+01:00,2021-06-08 09:39:12.120000+01:00,True,CONFIRMED
+7c1197f6-fb9b-4e1e-8070-1e1f9dbc71a5,s.lv@lesaffre.com,false,乐斯福管理(上海)有限公司,ct_formulator,0,re_CH,1,吕松泰,2020-01-11 05:24:09.126000+00:00,2020-01-11 05:24:09.126000+00:00,True,UNCONFIRMED
+7c28b63c-53af-4924-835f-025696db78a8,pcastillo@grupotrisan.com,true,trisan dominicana,ct_distributor,0,re_SA,1,patricio castillo,2021-03-08 13:18:59.595000+00:00,2021-03-08 13:18:59.595000+00:00,True,CONFIRMED
+7c910482-6c09-4466-96d9-48f5b93f1948,alejandro.bustamante@grupobimbo.com,true,Alejandro.bustamante@grupobimbo.com,ct_bakery,1,re_SA,1,Alejandro Bustamante,2021-03-21 23:00:37.393000+00:00,2021-03-21 23:00:37.393000+00:00,True,CONFIRMED
+7d0d5ae0-5cd6-4a2b-ad2e-4f169a311765,alister.sutton@synercore.co.za,true,The Bread Company,ct_formulator,0,re_ME,1,Alister Charles Sutton,2021-08-23 16:40:12.559000+01:00,2021-08-23 16:40:12.559000+01:00,True,CONFIRMED
+7e1ca358-ec8b-4764-875e-28375783790b,,,诺维信网店小二,ct_bakery,1,re_CH,1,方虎,2020-03-24 07:37:48.877000+00:00,2020-03-24 07:37:48.877000+00:00,True,UNCONFIRMED
+7e2b0f53-441e-4f53-95d4-d8ad1719f3f5,,false,火星薯（上海）食品科技有限公司,ct_bakery,1,re_CH,1,王婷,2020-08-03 02:45:10.101000+01:00,2020-08-03 02:45:10.101000+01:00,True,UNCONFIRMED
+7e3728fd-c07c-4d98-82cd-9a1dd3d519a2,15021913931@163.com,true,中心,ct_bakery,0,re_CH,1,林小姐,2021-06-04 07:39:24.390000+01:00,2021-06-04 07:39:24.390000+01:00,True,CONFIRMED
+7e5dd72d-8fe2-45c4-8e71-c5f5331812d0,baba.owolowo@gmail.com,true,TKJ International (Nigeria)  Ltd.,ct_bakery,1,re_ME,1,TK JUNAID,2021-08-16 09:18:28.317000+01:00,2021-08-16 09:18:28.317000+01:00,True,CONFIRMED
+7ec61d2b-fa20-40f4-8de9-5e82a1629bd4,270843987@qq.com,true,公司,ct_formulator,1,re_NA,1,张先生,2022-01-26 13:17:38.827000+00:00,2022-05-05 03:07:33.863000+01:00,True,CONFIRMED
+7ed0d752-ccde-465f-aab0-2f6b830a781c,jaseemch@gmail.com,true,Kissan Biscuit Industries,ct_bakery,0,re_IND,1,Jaseem Ali Chonari,2021-07-28 01:57:21.126000+01:00,2021-07-28 01:57:21.126000+01:00,True,CONFIRMED
+7ef9b3a4-e661-46bc-8765-46c18a7028c1,,false,偶来烘焙,ct_bakery,1,re_CH,1,金婷,2020-09-21 05:40:24.529000+01:00,2020-09-21 05:40:45.854000+01:00,True,CONFIRMED
+7f030825-2d67-4dcd-8401-a8bd1fe9f0f6,,,北京一轻,ct_bakery,1,re_CH,1,小鹿,2020-07-30 14:41:33.222000+01:00,2020-07-30 14:42:29.714000+01:00,True,CONFIRMED
+7f0eb819-d19d-4b74-a610-bfa034c9d7b3,tarasuka@embassyingredients.com,true,Embassy Ingredients,ct_formulator,1,re_NA,1,Alyssa Tarasuk,2022-02-17 14:33:07.063000+00:00,2022-02-17 14:33:07.063000+00:00,True,CONFIRMED
+7f82ffc4-2013-4883-8fc9-11072b548fb3,peter.kroeger@csmingredients.com,true,CSM Ingredients,ct_formulator,1,re_EU,1,peter.kroeger@csmingredients.com,2022-01-27 12:18:45.587000+00:00,2022-01-27 12:18:45.587000+00:00,True,CONFIRMED
+800cef2b-788a-474f-b046-d019f4145a83,peter.burkhardt@fhg.com.pk,true,Dawn Bread, Lahore, Pakistan,ct_bakery,0,re_ME,1,Peter Burkhardt,2022-04-28 05:52:52.792000+01:00,2022-04-28 05:52:52.792000+01:00,True,CONFIRMED
+80df240b-76b8-418b-b58e-ecb95674fb45,jaswant131280@gmail.com,true,karamel bite,ct_bakery,1,re_IND,1,jaswant arora,2021-09-10 11:54:13.827000+01:00,2021-09-10 11:54:13.827000+01:00,True,CONFIRMED
+812a1b2b-74cc-46ed-8a24-ca8d7b6df6ed,fde@novozymes.com,true,Novozymes,ct_formulator,1,re_EU,1,Federico Decara,2021-02-19 08:41:23.633000+00:00,2021-02-19 08:41:23.633000+00:00,True,CONFIRMED
+812c3398-9142-44bb-ad0f-32601b8593b3,pckw@novozymes.com,true,Novozymes,ct_distributor,0,re_NA,1,Patrick Williams,2021-04-05 13:13:34.027000+01:00,2021-04-05 13:13:34.027000+01:00,True,CONFIRMED
+814b9fc3-1afb-4223-87b4-bfb2196bb76e,huangdsh9999@163.com,true,碧琪,ct_formulator,1,re_CH,1,黄东升,2021-03-30 00:14:33.624000+01:00,2021-03-30 00:14:33.624000+01:00,True,CONFIRMED
+816b6e9f-f6e9-45fa-90f1-6be62900d50c,t.renard@lesaffre.com,true,Lesaffre,ct_formulator,0,re_EU,1,Renard,2021-09-27 15:49:32.742000+01:00,2021-09-27 15:49:32.742000+01:00,True,CONFIRMED
+817712ef-1ebe-4392-8d69-cb5e7a4e4455,taplicaciones@granotec.com.ec,true,Granotec Ecuador S.A,ct_formulator,1,re_NA,1,Wilfredo Colmenarez,2021-03-10 17:14:21.676000+00:00,2021-03-10 17:14:21.676000+00:00,True,CONFIRMED
+82062a58-ba7c-4f6c-b855-7daf2d3b7856,spbcci@bk.ru,true,Ватрушка,ct_bakery,1,re_RU,1,Ольга,2021-02-25 21:21:49.196000+00:00,2021-02-25 21:21:49.196000+00:00,True,CONFIRMED
+8277ca96-d9ba-4464-be51-5728948e729f,pauline.guillo@pasquier.fr,true,Pasquier,ct_bakery,0,re_EU,1,Guillo,2022-03-28 13:46:09.616000+01:00,2022-03-28 13:46:09.616000+01:00,True,CONFIRMED
+83990cdb-040f-49c1-ada8-0ba527ea79fb,hanaa.elsadig@dalgroup.com,true,Sayga Dal Food,ct_formulator,1,re_ME,1,Hanaa EL Sadig,2021-03-23 08:27:39.942000+00:00,2021-03-23 08:27:39.942000+00:00,True,CONFIRMED
+8441b925-d836-4729-b49b-ef950094eb62,Michele.smith-jones@imcdus.com,true,IMCD US Food Inc.,ct_distributor,1,re_NA,1,Michele Smith-Jones,2021-03-16 20:10:58.771000+00:00,2021-03-16 20:10:58.771000+00:00,True,CONFIRMED
+845de85f-85b0-4bbb-a385-257123b7dfb3,,false,泰莱贸易（上海）有限公司,ct_formulator,1,re_CH,1,张才科,2020-08-15 17:13:05.283000+01:00,2020-08-15 17:13:56.941000+01:00,True,CONFIRMED
+8470039e-f2b4-4bfa-9d55-f07252271460,15021913931@163.com,true,中心,ct_bakery,0,re_CH,1,林小姐,2021-06-04 07:39:24.390000+01:00,2021-06-04 07:39:24.390000+01:00,True,CONFIRMED
+848d015b-f8f0-4c4b-b8ba-bf5111ce4963,riccardo.schiavi@lapasqualina.it,true,Pasqualina Srl,ct_bakery,0,re_EU,1,Riccardo Schiavi,2022-03-08 16:03:47.271000+00:00,2022-03-08 16:03:47.271000+00:00,True,CONFIRMED
+84d5fd1a-6dcf-4ddc-962b-0b73785008c7,anand.shah@sataraflourmills.com,true,Agrovision Food technologies pvt ltd,ct_bakery,1,re_IND,1,Anand shah,2021-09-10 09:25:14.615000+01:00,2021-09-10 09:25:14.615000+01:00,True,CONFIRMED
+84df10f5-91a0-4842-af45-b65f8bdc12c6,anuradha.venkatraman19@gmail.com,true,Cembrit,ct_distributor,1,re_EU,1,Anuradha Venkataraman,2021-03-04 21:00:50.517000+00:00,2021-03-08 20:28:25.616000+00:00,True,CONFIRMED
+856574ae-9532-490e-9a8e-ac4bb628e596,alfin.ludviandri@brenntag-asia.com,true,Brenntag,ct_distributor,1,re_SEA,1,Alfin Ludviandri,2021-03-24 07:02:28.328000+00:00,2021-05-05 14:42:13.610000+01:00,True,CONFIRMED
+8569c03e-771c-4f64-9769-2557f835c2b6,598618173@qq.com,true,Monica,ct_distributor,1,re_CH,1,黄俊琪,2022-03-11 02:33:08.063000+00:00,2022-03-11 02:33:08.063000+00:00,True,CONFIRMED
+861a0d7a-381d-43ad-aaac-b2f7f5aec3ba,sise@novozymes.com,true,Novozymes,ct_bakery,0,re_EU,1,Silja Storm Engelstoft,2021-01-18 10:59:32.265000+00:00,2021-01-18 10:59:32.265000+00:00,True,CONFIRMED
+86391b2d-0944-4be4-a2b3-c85785a93379,dpjogal@gmail.com,true,Sabharwal Food Industries,ct_bakery,1,re_IND,1,Daniel Jogal,2022-04-29 07:32:28.213000+01:00,2022-04-29 07:32:28.213000+01:00,True,CONFIRMED
+8648029e-a275-43d1-9b05-c9011271c1d7,,,Novozymes ,ct_bakery,0,re_CH,1,Wu Wenping,2020-07-24 09:55:47.907000+01:00,2020-07-24 09:56:08.431000+01:00,True,CONFIRMED
+86a152e8-1c3e-42f9-b0b5-0068cc6a873e,lisabao@qq.com,false,好几块,ct_bakery,0,re_RAP,1,lisa,2020-11-16 01:42:22.213000+00:00,2021-05-05 14:52:41.106000+01:00,True,CONFIRMED
+87c13d84-420a-440c-9071-411a90cfeb28,KEL@novozymes.com,true,NZCH,ct_formulator,0,re_EU,1,Kevin,2019-12-17 15:33:10.800000+00:00,2019-12-17 15:33:27.236000+00:00,True,CONFIRMED
+88a51472-f48f-446e-8e1c-3bbe0e21df7d,jirattikan.klangsri@brenntag-asia.com,true,Brenntag,ct_distributor,1,re_SEA,1,Jirattikan Klangsri,2021-03-25 06:35:23.982000+00:00,2021-05-05 14:42:22.157000+01:00,True,CONFIRMED
+88d27ce8-7f7d-438a-8c26-9096b2612788,ahog1@novozymes.com,false,Test,ct_bakery,0,re_EU,1,Adriana,2020-11-26 12:58:31.446000+00:00,2020-11-26 12:58:31.446000+00:00,True,UNCONFIRMED
+895a6347-266d-4902-b4df-baddde7df9fd,adesholamipe70@gmail.com,true,Sunflower ,ct_bakery,1,re_SEA,1,Adeshola Oluyede,2021-08-13 20:20:21.425000+01:00,2021-08-13 20:20:21.425000+01:00,True,CONFIRMED
+8a526e0f-62af-458d-8fcb-ac9937489dbd,t.mccurry@cainfood.com,true,Cain Food Industries, Inc.,ct_formulator,1,re_NA,1,Thomas McCurry,2021-01-12 13:46:07.886000+00:00,2021-01-12 13:46:07.886000+00:00,True,CONFIRMED
+8a8ceaa4-ec1a-4124-bb2d-9f46b1e85422,bill.xie@bgfi.com.cn,true,碧琪邦盛,ct_formulator,1,re_CH,1,谢仕潮,2021-09-28 04:06:33.181000+01:00,2021-09-28 04:06:33.181000+01:00,True,CONFIRMED
+8a97ebab-daaf-4c1a-983a-65e15ad41819,sqb@novozymes.com,true,Novozymes A/S,ct_bakery,1,re_EU,1,Søren Bech,2019-12-10 09:32:20.358000+00:00,2020-02-09 17:48:49.507000+00:00,True,CONFIRMED
+8acd247e-0046-4359-8b36-0e6b9b3b0138,rfgsrgrs@jgjfsgrsigkrs.com,true,SEFsefef,ct_bakery,0,re_EU,1,SEFsef,2021-11-08 17:22:48.462000+00:00,2021-11-08 18:46:35.416000+00:00,True,CONFIRMED
+8aeaa89b-4a5d-4b60-903f-376d1f947246,paulo.braga@univar.com,true,Univar Solutions,ct_formulator,1,re_EU,1,Paulo Braga,2020-12-03 14:16:37.882000+00:00,2020-12-03 14:17:21.087000+00:00,True,CONFIRMED
+8af34eec-e747-45b5-8cea-713393db578b,myii.food7@gmail.com,true,MY Industrial Ingredients Co.,Ltd,ct_distributor,0,re_SEA,1,Khine Tha Zin,2022-04-08 10:15:08.491000+01:00,2022-04-08 10:15:08.491000+01:00,True,CONFIRMED
+8b36b497-9d1a-4a22-8087-86bfbc10e0d3,1527111047@qq.com,true,齐鲁东方航空食品有限公司,ct_bakery,1,re_CH,1,马永升,2021-09-29 14:06:45.535000+01:00,2021-09-29 14:06:45.535000+01:00,True,CONFIRMED
+8b70f2a2-fd3f-437c-8ea4-b607b4a23710,suwandiandry@gmail.com,true,Golden bakery,ct_bakery,0,re_SEA,1,Andry Suwandi,2021-09-06 05:45:38.410000+01:00,2021-09-06 05:45:38.410000+01:00,True,CONFIRMED
+8bb93d31-590d-48d5-a1bf-bb12db94593b,e.rusinova@bargus-trade.ru,true,Баргус Трейд,ct_formulator,1,re_RU,1,Русинова Елена ,2021-07-12 06:58:11.042000+01:00,2021-07-12 06:58:11.042000+01:00,True,CONFIRMED
+8c289794-2013-48aa-8a93-d36b6b6357b5,ssree369@gmail.com,true,novozymes,ct_formulator,0,re_IND,1,sandhya,2021-04-27 12:43:04.360000+01:00,2021-04-27 12:44:25.312000+01:00,True,CONFIRMED
+8d533ca5-ac48-4ad1-88f7-b865c31fe212,lcal@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Leticia,2021-03-18 11:10:08.723000+00:00,2021-06-25 13:10:18.649000+01:00,True,CONFIRMED
+8dbdc939-347e-46d2-944f-1e723d7553f5,mekj@novozymes.com,true,Novozymes,ct_formulator,1,re_EU,1,Mette Klith Jensen,2019-12-12 16:26:19.329000+00:00,2021-03-05 13:16:36.954000+00:00,True,CONFIRMED
+8e11f1a4-21fe-42f2-b07a-389b9e2ceddc,scsp@novozymes.com,true,Novozymes,ct_formulator,0,re_SEA,1,steven choo sin poh,2021-01-11 08:19:39.499000+00:00,2021-06-02 02:49:17.325000+01:00,True,CONFIRMED
+8e49987a-b3fa-491f-9f82-2b7bf35070f4,souhaila@fortrade.ma,true,Fortrade,ct_distributor,0,re_ME,1,Souhaila ,2021-11-08 08:21:13.726000+00:00,2021-11-08 08:21:13.726000+00:00,True,CONFIRMED
+8ec73817-8117-4785-94ed-58cd8fabc193,x008kk@163.com,true,爱乐美咖啡烘焙,ct_bakery,1,re_CH,1,许可,2021-11-29 03:51:21.908000+00:00,2021-11-29 03:51:21.908000+00:00,True,CONFIRMED
+90336738-6552-4ad3-a86b-618ff16fa344,ysa@novozymes.com,true,Novozymes Japan,ct_formulator,1,re_JA,1,Yuichi Sasaki,2020-04-23 03:49:08.364000+01:00,2022-04-02 10:46:19.022000+01:00,True,CONFIRMED
+905aef36-b5f5-4113-aeb2-64c8219be738,hhasvani@gmail.com,true,mega bakers,ct_bakery,1,re_ME,1,hassan asvani,2021-07-14 16:20:17.178000+01:00,2021-07-14 16:20:17.178000+01:00,True,CONFIRMED
+90fd7483-f3d9-4430-9315-95e9aa453587,Kitty.Yu@univarsolutions.com,true,kitty.yu@UnivarSolutions.com,ct_distributor,0,re_NA,1,Kitty Yu,2021-06-25 15:38:30.922000+01:00,2021-06-25 15:38:59.399000+01:00,True,CONFIRMED
+91411cb5-f4fd-449d-ab1a-3f6333f1cc22,kagr@novozymes.com,true,kagr@novozymes.com,ct_bakery,0,re_RAP,1,Kapil,2022-04-28 06:41:18.313000+01:00,2022-04-28 06:41:18.313000+01:00,True,CONFIRMED
+91b0c0e3-8c7b-4986-9c34-584b4d05f355,181611479@qq.com,true,郑州贝隆生物科技有限公司,ct_formulator,1,re_CH,1,杨奇,2020-07-24 14:21:01.975000+01:00,2020-07-24 14:21:55.897000+01:00,True,CONFIRMED
+91e4cabc-8a38-4a19-ad86-cfbde4e22d2e,15021913931@163.com,true,中心,ct_bakery,0,re_CH,1,林小姐,2021-06-04 07:39:24.388000+01:00,2021-06-04 07:39:24.388000+01:00,True,CONFIRMED
+91e8a32d-3550-4749-834a-7c1c021ff2d8,zmunguia@biotecsa.com,true,BIOTECSA,ct_bakery,1,re_NA,1,Zaira Quetzalli Munguía Garcia,2021-07-14 15:34:51.166000+01:00,2021-07-14 15:34:51.166000+01:00,True,CONFIRMED
+922327f8-e10f-49dd-aefa-c86a497d2c15,jesper@adnuvo.com,false,ADNUVO,ct_bakery,0,re_CH,1,Jesper Test 2,2019-11-27 14:11:20.617000+00:00,2020-08-21 11:44:35.948000+01:00,True,CONFIRMED
+927ad146-e28b-4fb8-b994-030fc5adf03c,robert.anderson@jmsmucker.com,true,The JM Smucker Company,ct_bakery,0,re_NA,1,Robert Anderson,2021-09-27 13:37:20.724000+01:00,2021-09-27 13:37:20.724000+01:00,True,CONFIRMED
+92826e1d-b06e-4949-bfed-a0f7c40f3d4d,ahmaddabbour@icloud.com,true,Themar Al Rabie For Food Technology Co.,ct_bakery,0,re_ME,1,ahmad dabbour,2021-09-23 10:12:03.062000+01:00,2021-09-23 10:12:03.062000+01:00,True,CONFIRMED
+92caea9e-ad8c-40e9-968b-a47cd3f34ed7,fsanchez@grupotrisan.com,true,TRISAN DOMINICANA,ct_distributor,1,re_SA,1,FREDDY NICOLAS SANCHEZ ABREU,2021-03-08 13:13:30.726000+00:00,2021-03-08 13:13:30.726000+00:00,True,CONFIRMED
+93037d96-e8ce-4068-b639-9d74ae333a9d,954269748@qq.com,true,焙多芬烘焙坊,ct_bakery,1,re_CH,1,孙辉,2021-11-30 08:41:01.998000+00:00,2021-11-30 08:41:01.998000+00:00,True,CONFIRMED
+931257e2-8017-44e2-a24e-a8e711beae29,844066484@qq.com,true,福建农林大学,ct_bakery,1,re_CH,1,林可情,2021-10-04 04:27:46.890000+01:00,2021-10-04 04:27:46.890000+01:00,True,CONFIRMED
+9327679c-1492-4ceb-8b47-6e5f26b9f674,lentka69@gmail.com,true,ИП Ткачёва Е.Г.,ct_bakery,1,re_EU,1,Елена ,2021-02-25 12:05:56.233000+00:00,2021-02-25 12:05:56.233000+00:00,True,CONFIRMED
+93cc31d5-d971-4084-a3e0-22739dc1e086,katrineskeby@gmail.com,true,Novozymes,ct_bakery,0,re_NA,1,Katrine skeby,2019-12-17 09:37:45.534000+00:00,2020-01-08 07:27:49.677000+00:00,True,CONFIRMED
+946f86aa-a2cf-42ee-af81-5280b2e70b61,vysotskaya@karavay.spb.ru,true,ОАО "КАРАВАЙ",ct_bakery,1,re_RU,1,Наталья,2021-12-13 08:35:52.734000+00:00,2021-12-13 08:35:52.734000+00:00,True,CONFIRMED
+94b3300d-b3b4-4d11-8137-282bb9afae21,sasaki0920@chic.ocn.ne.jp,true,Novozymes Japan,ct_formulator,1,re_RAP,1,Yuichi Sasaki,2022-04-01 08:03:28.921000+01:00,2022-04-01 08:03:28.921000+01:00,True,CONFIRMED
+94eb9864-c4e6-4369-be8f-92fd241ff84f,bryan.burrell@crustcraft.com,true,Crust Craft Inc.,ct_bakery,1,re_NA,1,Bryan Burrell,2022-03-10 16:50:44.956000+00:00,2022-03-10 16:50:44.956000+00:00,True,CONFIRMED
+95461aeb-9bae-4d67-a5e2-85866a813503,sije@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Silvia,2020-10-19 12:17:24.056000+01:00,2021-02-18 08:17:54.109000+00:00,True,CONFIRMED
+95669cb2-0bc2-413b-bb7e-a0a554b7733c,lkie@novozymes.com,true,Novozymes,ct_bakery,0,re_EU,1,Lars Kiemer,2020-10-26 15:08:44.592000+00:00,2020-10-26 15:09:00.765000+00:00,True,CONFIRMED
+957de473-c548-47d9-8e22-c79ecdd1f14b,hlyn@novozymes.com,true,诺维信,ct_formulator,1,re_CH,1,黄,2021-01-21 04:17:36.551000+00:00,2021-01-21 04:17:36.551000+00:00,True,CONFIRMED
+95dc46bc-8782-4c62-86bc-8de1a8ceb041,jiatchie@aicingredients.com.my,true,AIC INGREDIENTS SDN BHD,ct_formulator,0,re_RAP,1,JIAT CHIE POH,2021-04-01 07:52:38.741000+01:00,2021-05-05 14:42:34.605000+01:00,True,CONFIRMED
+961f4a8c-5cd7-4aed-b642-41d39806271a,xool@novozymes.com,false,Novozymes,ct_formulator,0,re_CH,1,Amanda,2019-12-23 07:31:00.434000+00:00,2019-12-23 07:31:00.434000+00:00,True,UNCONFIRMED
+9678576d-3390-4085-949c-040ea7aae06f,adby@novozymes.com,true,Novozymes,ct_formulator,0,re_CH,1,Adam,2020-09-18 10:17:26.333000+01:00,2021-09-24 13:40:33.460000+01:00,True,CONFIRMED
+968a1425-edb2-449c-b5ac-a7efb44cb1b9,per@adnuvo.com,false,Adnuvo,ct_bakery,0,re_CH,1,Per Christoffersen,2020-01-03 12:16:58.819000+00:00,2020-01-07 09:20:52.690000+00:00,True,CONFIRMED
+970801c9-b2af-494a-be7a-2d668eccd506,qualita@ilgranaiodelleidee.com,true,Il Granaio delle Idee,ct_formulator,1,re_EU,1,Il Granaio delle Idee,2021-04-26 16:50:22.270000+01:00,2021-04-26 16:50:22.270000+01:00,True,CONFIRMED
+972040a1-b116-4463-9498-58acea0f6e47,15021913931@163.com,true,中心,ct_bakery,0,re_CH,1,林小姐,2021-06-04 07:39:24.356000+01:00,2021-06-04 07:39:24.356000+01:00,True,CONFIRMED
+9833d366-07ec-4e1d-a2bb-ff60b61eb6b6,NMKN@novozymes.com,true,Novozymes SA,ct_formulator,1,re_ME,1,nina monka ngandewe,2022-02-17 14:42:12.746000+00:00,2022-02-17 14:42:12.746000+00:00,True,CONFIRMED
+985588cf-8220-48ca-9dd7-04ce5cdd4e14,adby+test@novozymes.com,true,Novozymes,ct_bakery,1,re_EU,1,Adam Byström,2021-01-15 09:53:17.649000+00:00,2021-01-19 13:42:08.705000+00:00,True,CONFIRMED
+986f8b34-7068-41eb-b2c6-d15f6061b737,1603032985@qq.com,false,安徽杜贝斯特食品工业有限公司,ct_formulator,1,re_CH,1,莫春林,2020-01-09 06:20:34.068000+00:00,2020-01-09 06:38:23.665000+00:00,True,CONFIRMED
+987638e7-a199-47ef-b8b0-e6e00d8ed1e8,freciousmpofu@gmail.com,true,Bakers Inn,ct_bakery,1,re_ME,1,Frecious Mpofu,2021-05-31 02:18:16.586000+01:00,2021-05-31 02:18:16.586000+01:00,True,CONFIRMED
+988f807e-0b13-4b6b-a570-a33623ee6dac,,,13917517926,ct_distributor,0,re_CH,1,乐斐,2022-03-11 02:33:07.439000+00:00,2022-03-11 02:33:07.439000+00:00,True,CONFIRMED
+994429fb-2fe0-4081-a449-a7cc362bfa9d,mheo@novozymes.com,true,Novozymes,ct_bakery,0,re_SA,1,Marlon Ferreira,2022-01-13 14:11:28.781000+00:00,2022-01-13 14:11:28.781000+00:00,True,CONFIRMED
+9961a1e5-2a3f-4641-914d-71e2adc65a7f,cass@wills.com.ph,true,Wills International Sales Corporation ,ct_distributor,1,re_SEA,1,Marjhenia Cassell A. Palma,2021-03-23 07:21:37.246000+00:00,2021-05-05 14:42:38.528000+01:00,True,CONFIRMED
+997389f9-e97e-49e3-93fd-bb8548ffd2bc,kob@novozymes.com,true,Novozymes Russia,ct_bakery,0,re_EU,1,Konstantin,2020-10-13 07:45:33.739000+01:00,2020-11-25 11:21:15.602000+00:00,True,CONFIRMED
+99f6bd95-2181-40c9-9b8a-2bfe6c415944,feichuqiong@excelsior-lipid.com,true,深圳精益油脂技术有限公司,ct_formulator,1,re_CH,1,费楚琼,2020-04-09 02:44:38.145000+01:00,2020-04-09 02:45:38.626000+01:00,True,CONFIRMED
+9a3cb9f8-c782-45e5-a058-752931878e16,pererasuren007@gmail.com,true,AB Mauri,ct_formulator,1,re_RAP,1,Suren ,2021-03-15 04:08:34.206000+00:00,2021-05-05 14:42:42.330000+01:00,True,CONFIRMED
+9ad90b34-fb81-4cd5-9508-f662d9eadd79,23123@spc.co.kr,true,joaomg@gmail.com,ct_formulator,1,re_ME,1,aaa,2022-03-15 13:48:34.444000+00:00,2022-03-15 13:48:34.444000+00:00,True,CONFIRMED
+9b36aa73-9d61-462d-b7c5-1f171e058445,1067837453@qq.com,true,面包路,ct_bakery,1,re_CH,1,陈杰,2021-06-23 03:50:33.035000+01:00,2021-06-23 03:50:33.035000+01:00,True,CONFIRMED
+9c1d5c02-1ecf-4f93-8a21-d96d9de43340,zaharawise@gmail.com,true,Sidlar treats ,ct_bakery,0,re_SA,1,Zaharadeen Dada ,2021-09-09 05:35:34.105000+01:00,2021-09-09 05:35:34.105000+01:00,True,CONFIRMED
+9c43ab24-52dd-401a-a7fe-42bf1bd1b061,k.bobyshev@gmail.con,false,Новозаймс,ct_bakery,0,re_RU,1,Константин,2020-11-16 09:38:31.395000+00:00,2020-11-16 09:38:31.395000+00:00,True,UNCONFIRMED
+9c66f6f4-4d9b-418c-86d0-1989d88fb609,2312313@asdas.com,true,jgm@novozymes.com,ct_formulator,1,re_IND,1,sadasd,2022-03-15 13:44:58.057000+00:00,2022-03-15 13:45:10.132000+00:00,True,CONFIRMED
+9cad0e4f-1128-4a22-aac5-473dbdd249c2,mhun@mailbox.org,true,HunterCopy-Cph,ct_bakery,0,re_EU,1,Margaret Hunter,2020-09-22 07:04:13.436000+01:00,2020-09-22 07:04:42.960000+01:00,True,CONFIRMED
+9d34421a-529c-4a85-9e8e-ee68c926aa0d,1942835733@qq.com,false,渤海大学,ct_formulator,1,re_CH,1,CHT,2020-07-30 13:48:17.849000+01:00,2020-07-30 13:48:17.849000+01:00,True,UNCONFIRMED
+9d845a83-5dda-4531-9d5c-e0c039816f25,alonmanz1969@gmail.com,true,T.K. Dagan Technologies,ct_formulator,1,re_ME,1,Alon,2021-03-11 11:01:34.269000+00:00,2021-03-11 11:01:34.269000+00:00,True,CONFIRMED
+9d90040f-c72b-4968-b7cc-6c0a65ca8f2a,sqps@novozymes.com,true,Novozymes,ct_bakery,1,re_EU,1,Soren Peter Steensboe,2020-05-29 13:29:21.066000+01:00,2020-05-29 13:29:46.294000+01:00,True,CONFIRMED
+9d9841c2-0a44-4a43-ab41-2c7bf9329111,carlos@campobetica.com,true,Campo Bética SL.,ct_formulator,1,re_EU,1,Carlos Fernández López,2022-04-11 14:52:47.966000+01:00,2022-04-11 14:52:47.966000+01:00,True,CONFIRMED
+9dc2e942-1166-42d3-bb49-8819597b2e3b,che80@inbox.ru,true,Novozymes,ct_formulator,1,re_RU,1,Mikhail Chernobylskiy,2021-01-11 08:49:47.549000+00:00,2021-01-11 08:49:47.549000+00:00,True,CONFIRMED
+9e3da5ce-1e19-483f-8cfc-dd040f920d5b,m.moretti@emme-food.com,true,Emme-Food Srl,ct_distributor,0,re_EU,1,Marco Moretti,2022-03-14 14:54:44.155000+00:00,2022-03-14 14:54:44.155000+00:00,True,CONFIRMED
+9e48e00d-fd02-49d8-8826-33f6d5686d70,gognelilte@vusra.com,true,Novozymes,ct_bakery,0,re_EU,1,Regression Test ,2022-04-20 17:41:11.739000+01:00,2022-04-20 17:41:11.739000+01:00,True,CONFIRMED
+9ea8b680-3f8a-4343-a8eb-0b3b4533fb20,alina.soare@velrom.ro,true,Velrom,ct_bakery,1,re_EU,1,Soare Alina,2021-07-02 13:12:59.350000+01:00,2021-07-02 13:12:59.350000+01:00,True,CONFIRMED
+9eaae79d-7381-45d3-9cdf-452ccf2515a5,tutuma@absamail.co.za,true,Grano Ingridients,ct_formulator,1,re_ME,1,Livingstone Tutu Maluleke,2021-10-29 20:17:34.989000+01:00,2021-10-29 20:17:34.989000+01:00,True,CONFIRMED
+9f079274-205d-4f32-83fc-b853014ac524,alan.odonell@univar.com,false,Univar,ct_formulator,0,re_EU,1,Alan O'Donnell,2020-12-08 06:39:16.585000+00:00,2020-12-08 06:39:16.585000+00:00,True,UNCONFIRMED
+9f13425a-7c23-42cb-b128-8b6b8513b55f,fta@novozymes.com,true,NZ,ct_bakery,1,re_EU,1,frosina,2019-12-11 14:41:04.626000+00:00,2020-03-04 12:49:09.234000+00:00,True,CONFIRMED
+9f9120c9-d13e-47b8-8d69-a8e3fe722883,xmlu@novozymes.com,true,Novozymes.com,ct_formulator,1,re_CH,1,Lu xiaoming ,2019-12-23 03:22:03.559000+00:00,2021-01-12 04:21:05.104000+00:00,True,CONFIRMED
+9ff814c9-a480-446f-b53c-cf6039ee0c5a,aliceralph@yahoo.com,true,Alicer Nutrition Nig limited,ct_bakery,1,re_ME,1,OGUNSOLA,2021-09-24 19:20:45.399000+01:00,2021-09-24 19:20:45.399000+01:00,True,CONFIRMED
+a0a3fdfe-d13a-41be-a475-abe76ff998c0,aicha60@mail.ru,true,частное лицо,ct_bakery,1,re_RU,1,Нурания,2021-02-24 11:52:15.253000+00:00,2021-02-24 11:52:15.253000+00:00,True,CONFIRMED
+a119b6af-07c3-421d-bee6-21f6ec1d5149,yglo@novozymes.com,true,Novozymes,ct_formulator,1,re_CH,1,Ying Luo,2019-12-23 07:48:16.987000+00:00,2019-12-23 07:48:50.203000+00:00,True,CONFIRMED
+a1ad4913-4908-4f7b-9ebd-93b32016c7aa,Khalilatayya@gmail.com,true,Aqwat,ct_distributor,1,re_ME,1,Mohamed Abd-Ellatief ,2021-03-08 19:33:18.735000+00:00,2021-03-08 19:33:18.735000+00:00,True,CONFIRMED
+a1e24177-7f42-4e3e-b652-c45a5e46b168,,,恬逸烘焙,ct_bakery,1,re_CH,1,18168867621,2021-12-01 13:31:25.756000+00:00,2021-12-01 13:31:25.756000+00:00,True,CONFIRMED
+a25f082b-31e9-46b6-8fd9-2c6072c93bb9,wahyu.arif96@gmail.com,true,KAMI,ct_bakery,1,re_SEA,1,Arif Wahyu Wicaksono,2021-08-24 08:21:41.404000+01:00,2021-08-24 08:21:41.404000+01:00,True,CONFIRMED
+a283fe49-b45d-435e-aa8a-083fbc798235,kwkim@double-u.co.kr,true,DOUBLEU CO.,LTD,ct_distributor,1,re_RAP,1,KIM KWANWOO,2021-03-12 09:27:11.096000+00:00,2021-05-05 14:42:46.721000+01:00,True,CONFIRMED
+a353a63b-7778-4d25-8b93-6d77ad073639,13522256494@163.com,true,bd,ct_bakery,0,re_CH,1,tracy,2020-07-25 07:34:33.869000+01:00,2020-07-25 07:35:19.276000+01:00,True,CONFIRMED
+a36bf5fb-576e-4931-ae42-1860b583b124,dominik.onofrej@ireks.sk,true,IREKS ENZYMA, s.r.o.,ct_distributor,1,re_EU,1,Dominik Onofrej,2021-04-22 11:26:34.417000+01:00,2021-04-22 11:26:34.417000+01:00,True,CONFIRMED
+a41e8d0e-5c2d-4fda-a20c-cc6201373795,ynwg@novozymes.com,true,NZ,ct_formulator,0,re_CH,1,JINN,2021-03-14 12:39:36.858000+00:00,2021-03-14 12:39:36.858000+00:00,True,CONFIRMED
+a4499949-5002-4d38-b7ea-baa9403b1f38,riunique@gmail.com,true,Novozymes,ct_bakery,1,re_EU,1,Aria,2021-01-22 10:21:37.629000+00:00,2021-01-25 09:35:15.645000+00:00,True,CONFIRMED
+a4e62472-99c6-402e-b36b-e73d1fa250c4,qieg@novozymes.com,false,Novozymes,ct_formulator,1,re_NA,1,Elvia Guadarrama,2019-12-18 16:16:45.422000+00:00,2019-12-18 16:16:45.422000+00:00,True,UNCONFIRMED
+a4fa212d-b3ee-488e-8030-592aae3655ae,danaspac@gmail.com,false,Dan,ct_formulator,1,re_RAP,1,Dan,2020-02-06 09:05:53.885000+00:00,2021-05-05 14:42:50.887000+01:00,True,UNCONFIRMED
+a4fecb79-92fe-4904-9ea7-eb472812aefb,jqyl@novozymes.com,false,诺维信,ct_bakery,1,re_CH,1,李鉴君,2019-12-23 07:50:55.674000+00:00,2019-12-23 07:50:55.674000+00:00,True,UNCONFIRMED
+a5093bcc-4b5b-4d55-aa04-b728dea7322f,190067302@qq.com,true,酵母喵烘焙研究所,ct_bakery,1,re_CH,1,李张恒,2022-03-26 05:41:26.526000+00:00,2022-03-26 05:41:26.526000+00:00,True,CONFIRMED
+a52e4c7e-c97c-449f-8408-19b9ed9a37c1,liangmiao.kho@brenntag-asia.com,true,Brenntag Sdn Bhd,ct_distributor,1,re_SEA,1,KHO LIANG MIAO,2021-03-24 08:00:46.055000+00:00,2021-05-05 14:42:55.161000+01:00,True,CONFIRMED
+a6297ceb-bfca-4a32-a2b5-8b556d8e7248,,false,Wen,ct_formulator,1,re_CH,1,zhang,2020-03-18 15:20:34.481000+00:00,2020-07-31 07:24:31.829000+01:00,True,CONFIRMED
+a63db68a-4ae1-4307-b1c9-a67a4e3cf9a2,xin_yi1031@hotmail.com,true,BAKELS MALAYSIA SDN BHD,ct_formulator,0,re_SEA,1,YANG XIN YI,2021-10-13 01:44:01.342000+01:00,2021-10-13 01:44:01.342000+01:00,True,CONFIRMED
+a66fd27e-260b-405c-9101-2f3dce51bf29,metinsnck2021@gmail.com,true,köşem fırın,ct_bakery,0,re_ME,1,Metin sancak,2021-05-17 08:13:03.341000+01:00,2021-05-17 08:13:03.341000+01:00,True,CONFIRMED
+a6cb19a2-425b-4180-977a-51fef6043c62,peln@novozymes.com,true,Novozymes,ct_formulator,1,re_EU,1,Peter Nissen Leth,2021-12-07 07:04:38.949000+00:00,2021-12-07 07:04:38.949000+00:00,True,CONFIRMED
+a6f5298d-218f-4292-acda-e2c6ba83f742,,,爱可西饼流芳店,ct_bakery,1,re_CH,1,白传高,2020-08-08 14:09:28.085000+01:00,2020-08-08 14:09:28.085000+01:00,True,UNCONFIRMED
+a7145f6f-8cab-42da-93f0-02ebe3a7f715,rtb@ecozymes.co.za,true,Ecozymes SA Pty Ltd,ct_distributor,1,re_ME,1,Rodney Theodore Blower,2021-07-16 11:39:04.119000+01:00,2021-07-16 11:39:04.119000+01:00,True,CONFIRMED
+a7654270-cb6e-45ea-8308-bcc381436adb,mopk@novozymes.com,true,Novozymes,ct_bakery,0,re_IND,1,manoj pathak,2021-06-18 08:14:12.556000+01:00,2021-06-18 08:14:12.556000+01:00,True,CONFIRMED
+a7ca1b53-b185-4e82-89e4-8255c2e1d72b,madhavi68.beera@gmail.com,true,nz,ct_bakery,0,re_IND,1,anita,2021-04-27 12:49:21.754000+01:00,2021-04-27 12:50:37.690000+01:00,True,CONFIRMED
+a820e914-3a81-45bc-b161-cd9d095b98bf,s.lv@lesaffre.com,false,乐斯福管理（上海）有限公司,ct_formulator,0,re_CH,1,吕松泰,2019-12-24 03:43:17.243000+00:00,2019-12-24 03:43:17.243000+00:00,True,UNCONFIRMED
+a85ef9f2-124e-4421-b5b6-98f3415dd086,adby@netlight.com,true,Novozymes,ct_bakery,0,re_EU,1,Adam Byström,2020-10-27 12:06:43.297000+00:00,2021-10-08 12:37:41.441000+01:00,True,CONFIRMED
+a91a1f3c-5702-4326-8257-500b342c99c9,smq@novozymes.com,true,Novozymes,ct_bakery,1,re_EU,1,Sara Mesquita,2020-02-05 12:03:23.658000+00:00,2021-02-08 13:57:55.332000+00:00,True,CONFIRMED
+a9312f87-cb8b-4b50-9243-b5e1d343ed36,blr@novozymes.com,true,Novozymes,ct_bakery,0,re_IND,1,Balakumar,2021-03-16 15:54:27.378000+00:00,2021-05-05 14:42:59.527000+01:00,True,CONFIRMED
+a9743626-3765-4977-ade8-fc84bf5b4188,alonmanz1969@gmail.com,true,T.K. Dagan Technologies,ct_formulator,1,re_ME,1,Alon,2021-03-11 11:01:34.281000+00:00,2021-03-11 11:01:34.281000+00:00,True,CONFIRMED
+aa88f249-5dfa-4f88-a056-0bee7f2528cc,livc@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Liv Christiansen,2019-12-18 13:58:32.868000+00:00,2020-12-01 12:45:12.686000+00:00,True,CONFIRMED
+aaade67f-4430-4fbe-b7d6-84c9297763c7,wlcz@novozymes.com,true,Novozymes,ct_bakery,0,re_EU,1,Wilson Cruz,2022-03-14 11:51:08.311000+00:00,2022-04-18 16:35:48.033000+01:00,True,CONFIRMED
+aafe3748-687d-4797-9f50-fcf854a27941,79539267@qq.com,true,河南省勺一餐饮有限公司,ct_bakery,1,re_CH,1,白羽,2021-05-12 01:40:57.750000+01:00,2021-05-12 01:40:57.750000+01:00,True,CONFIRMED
+ab580c9b-64d1-4641-800a-630c539eaab7,alpa@novozymes.com,true,a,ct_bakery,0,re_EU,1,a,2021-06-01 14:52:49.414000+01:00,2021-06-01 14:52:49.414000+01:00,True,CONFIRMED
+abc2268a-1038-48b1-a9eb-901d4b6ca1b2,wlh@novozymes.com,true,N Z,ct_formulator,1,re_CH,1,Will,2021-11-25 09:07:14.637000+00:00,2021-11-25 09:07:14.637000+00:00,True,CONFIRMED
+abf1a7a7-d8ac-443c-b81a-a8bca6ea397e,biasibetti22@gmail.com,true,Deimos srl,ct_distributor,1,re_EU,1,biasibetti22@gmail.com,2021-04-13 16:24:40.844000+01:00,2021-04-13 16:24:40.844000+01:00,True,CONFIRMED
+ac0707b6-e334-408f-a6b8-69dd975c35a6,,,Novozymes,ct_formulator,1,re_CH,1,Dilek Austin,2020-01-15 15:35:33.591000+00:00,2020-02-20 20:03:27.447000+00:00,True,CONFIRMED
+add608d9-9a7f-494e-958e-a9b3177dd298,darenasrulloh@gmail.com,true,PT. Yantos Jos Gandhos,ct_formulator,0,re_SEA,1,Yantos,2021-08-26 19:10:06.423000+01:00,2021-08-26 19:10:06.423000+01:00,True,CONFIRMED
+ae15b985-4e6c-4f60-8f74-8854bb0d5f6c,Georgina.Centeno@Univarsolutions.com,true,Univar Solutions,ct_distributor,1,re_NA,1,Georgina Centeno,2021-05-18 20:17:24.663000+01:00,2021-05-18 20:17:24.663000+01:00,True,CONFIRMED
+ae1e0727-e684-41c4-8354-f6a8877b78f8,gyyjanice@gmail.com,true,CIB,ct_bakery,1,re_CH,1,Janice Gu,2021-11-15 02:59:22.889000+00:00,2021-11-15 02:59:22.889000+00:00,True,CONFIRMED
+ae23df1c-a5e4-46c3-9014-bc095d8fe15d,yo_miyashita@hotmail.com,true,Novozymes Japan,ct_formulator,0,re_RAP,1,Yo Miyashita,2022-02-17 11:30:51.133000+00:00,2022-02-17 11:44:52.689000+00:00,True,CONFIRMED
+ae639497-fbdf-4cd8-a46c-c533dd79cb11,jpo@skoleelever.dk,true,Danske Skolebrød,ct_bakery,0,re_EU,1,Jon Nørgaard Poulsen,2021-03-17 12:18:19.272000+00:00,2021-03-17 12:18:19.272000+00:00,True,CONFIRMED
+ae653240-c4fe-4148-87b0-4ac4f5e40622,christropicana@gmail.com,true,MYBaker,ct_bakery,0,re_EU,1,chris k,2021-03-23 06:53:21.727000+00:00,2021-03-23 06:53:21.727000+00:00,True,CONFIRMED
+af193b70-4fae-43e8-b5b1-57bcea6fb4cc,p.scalpello@guerra.it,true,Guerra,ct_formulator,1,re_EU,1,Paola Scalpello,2021-03-19 10:15:03.998000+00:00,2021-03-19 10:15:03.998000+00:00,True,CONFIRMED
+af21e7a5-2549-469a-9e40-fb4711eb73c5,mega.wahyuningati@brenntag-asia.com,true,PT. BRENNTAG INDONESIA,ct_distributor,1,re_SEA,1,Mega Wahyuningati,2021-04-08 10:50:54.104000+01:00,2021-05-05 14:43:03.375000+01:00,True,CONFIRMED
+af4b35ef-be28-4972-be5d-daddd9844f4e,,,木羽手作,ct_bakery,1,re_CH,1,李玲君,2021-04-30 06:22:57.991000+01:00,2021-04-30 06:22:57.991000+01:00,True,CONFIRMED
+af94402f-e4b9-446b-aa26-7c2f9cbba6ab,clhe@novozymes.com,true,Novozymes,ct_formulator,0,re_NA,1,Clemens C Heikaus,2021-02-08 15:30:01.625000+00:00,2021-02-08 15:30:01.625000+00:00,True,CONFIRMED
+b034330a-26a6-4f26-953c-4ea39d157e76,niels.goudswaard@zeelandia.nl,true,Zeelandia,ct_formulator,1,re_EU,1,Niels Goudswaard,2020-12-03 16:06:10.062000+00:00,2020-12-03 16:06:20.934000+00:00,True,CONFIRMED
+b0611607-3f58-45aa-ade1-f87d3543c5a0,mihaela.balanescu@grup-serban.ro,true,SC FABRICA DE PAINE SERBAN SRL,ct_bakery,1,re_EU,1,BALANESCU MIHAELA ,2021-06-17 12:57:20.370000+01:00,2021-06-17 12:57:20.370000+01:00,True,CONFIRMED
+b0a0822a-adf9-40ec-9da3-fc2ee9a45f5e,ziiltechorganicfood@gmail.com,true,Ziiltech Organic Foods Limited,ct_bakery,1,re_IND,1,Nasir Hussein Umar,2021-08-19 18:17:29.702000+01:00,2021-08-19 18:19:36.702000+01:00,True,CONFIRMED
+b0b3c254-a410-4b0b-9573-e59fe618d8ea,icollante@grupotrisan.com,true,Trisan Dominicana,ct_distributor,1,re_NA,1,Isabel Collante,2021-03-08 13:09:17.095000+00:00,2021-03-08 13:09:17.095000+00:00,True,CONFIRMED
+b0c79b2a-694c-47e9-8978-b4124f6a1c4f,eoz@novozymes.com,true,Novozymes,ct_formulator,1,re_ME,1,Esra Ozcomlekci,2021-02-24 06:50:34.029000+00:00,2021-02-24 06:50:34.029000+00:00,True,CONFIRMED
+b0c83d71-2144-44e0-9dd5-515495297f91,subirball1@gmail.com,true,Food street,ct_bakery,0,re_IND,1,Subir Ball,2021-08-09 14:47:57.883000+01:00,2021-08-09 14:47:57.883000+01:00,True,CONFIRMED
+b0d951ed-383a-4d53-b9e4-c592122b6ac3,yla@novozymes.com,true,Novozymes,ct_formulator,1,re_ME,1,Yildiz Altintas,2021-06-13 16:53:00.138000+01:00,2021-06-13 16:53:00.138000+01:00,True,CONFIRMED
+b13d0023-7041-41b9-847e-4bf09cd658d2,yglo@novozymes.com,false,诺维信,ct_formulator,1,re_CH,1,罗颖,2019-12-13 08:33:37.317000+00:00,2019-12-13 08:33:37.317000+00:00,True,UNCONFIRMED
+b16a79bb-717e-437c-bfcc-46eb19b5e720,faye@wills.com.ph,true,Wills International,ct_distributor,1,re_SEA,1,Faye Santillana,2021-03-23 07:06:06.313000+00:00,2021-05-05 14:43:07.419000+01:00,True,CONFIRMED
+b18490ff-a666-42bc-a22f-23cc218b5de9,,false,飞车面包,ct_bakery,1,re_CH,1,张轶,2020-09-06 09:48:14.765000+01:00,2020-09-06 09:50:06.670000+01:00,True,CONFIRMED
+b19348b9-3605-4d06-a743-05b0ec496166,kzg@novozymes.com,true,KZG@novozymes.com,ct_bakery,1,re_EU,1,Kris Grodzicki,2021-03-12 15:10:38.942000+00:00,2021-03-12 15:10:38.942000+00:00,True,CONFIRMED
+b1af6b49-c8ea-4330-a17a-1c9e63dbb66b,,,上海昕宜食品辅料有限公司,ct_formulator,1,re_CH,1,黎宇扬,2019-12-24 07:47:28.149000+00:00,2019-12-24 07:47:28.149000+00:00,True,UNCONFIRMED
+b2b0058c-e150-48d8-81e4-547b2fbdc074,andyzhu@plant360.cn,true,x2mt,ct_bakery,1,re_CH,1,朱信旭,2020-11-16 05:51:33.327000+00:00,2020-11-16 05:53:04.412000+00:00,True,CONFIRMED
+b2c0b48f-9de3-4322-86b7-69bc0f1c91bb,andreas.karisma@brenntag-asia.com,true,Brenntag,ct_distributor,0,re_SEA,1,andreas karisma,2021-03-23 07:20:22.275000+00:00,2021-05-05 14:43:11.193000+01:00,True,CONFIRMED
+b2c1696b-d2e3-4004-876b-5d79157295cb,,,原麦手作,ct_bakery,1,re_CH,1,林小超,2021-05-04 03:49:18.126000+01:00,2021-05-04 03:49:18.126000+01:00,True,CONFIRMED
+b34ea78e-12c2-4e4d-b563-4bc3bb511a68,,,Novozymes,ct_bakery,0,re_CH,1,Fredrik,2020-11-13 11:57:42.053000+00:00,2021-03-01 08:58:27.415000+00:00,True,CONFIRMED
+b35bd6fb-2b64-489e-9077-3b6d55404945,jf1yu9cheng@dingtalk.com,false,壹誉玖诚（天津）科技发展有限公司,ct_formulator,1,re_CH,1,JEFF FENG,2019-12-30 01:33:11.037000+00:00,2019-12-30 06:41:14.095000+00:00,True,CONFIRMED
+b36e61b9-daf3-4949-bf20-d47fb0f4262f,ADRIANA.PEREIRA-EXT@AB-INBEV.COM,true,Inbev,ct_formulator,1,re_EU,1,adriana.pereora-ext@ab-inbev.com,2021-05-25 15:27:31.664000+01:00,2021-05-25 15:27:31.664000+01:00,True,CONFIRMED
+b465c39f-9fb6-4ca4-9c05-8d8d8218a077,nikolina.cepanec@data-bak.hr,true,Data-bak d.o.o.,ct_formulator,1,re_EU,1,Nikolina,2021-03-09 09:46:34.870000+00:00,2021-03-09 09:46:34.870000+00:00,True,CONFIRMED
+b46ed543-f377-4251-b294-608f445e1149,bvanwinckel@puratos.com,true,Puratos,ct_formulator,1,re_EU,1,Bruno Van Winckel,2021-03-18 08:03:04.284000+00:00,2021-03-18 08:03:04.284000+00:00,True,CONFIRMED
+b4af64af-fc75-45f3-97a3-1615486a32e7,bjlu@novozymes.com,true,Novozymes,ct_bakery,0,re_EU,1,Bjørn Lundkvist,2020-07-07 10:41:34.442000+01:00,2020-07-07 10:42:02.594000+01:00,True,CONFIRMED
+b4bc877b-5c66-48d0-8aa5-33e89c434b2f,oscar.carreon@abmauri.com,true,AB MAURI,ct_bakery,0,re_NA,1,OSCAR CARREON,2021-04-21 22:01:44.547000+01:00,2021-04-21 22:01:44.547000+01:00,True,CONFIRMED
+b4db2e05-07de-468b-ae98-ee80f58af31f,lfuentealba@bakelschile.cl,true,Bakels Chile S.A.,ct_bakery,1,re_SA,1,Loreto Fuentealba,2021-01-25 12:46:22.935000+00:00,2021-01-25 12:46:22.935000+00:00,True,CONFIRMED
+b4f5c0f2-680d-43b6-88db-5a39499fba43,1620093394@qq.com,true,北京林业大学,ct_formulator,0,re_CH,1,于小雪,2021-09-15 12:21:57.449000+01:00,2021-09-15 12:21:57.449000+01:00,True,CONFIRMED
+b58f1ee6-f8c1-4db6-b7bf-37dac5bd9c06,daus@novozymes.com,true,novozymes,ct_bakery,0,re_NA,1,dilek,2020-01-22 16:02:50.366000+00:00,2020-06-08 17:10:18.645000+01:00,True,CONFIRMED
+b5b21275-5ec0-44e1-91d3-0836457a1f43,suwandiandry@gmail.com,true,Golden bakery,ct_bakery,0,re_SEA,1,Andry Suwandi,2021-09-06 05:45:38.387000+01:00,2021-09-06 05:45:38.387000+01:00,True,CONFIRMED
+b64dd0b0-3acf-4bee-bb66-f2a890e13301,,,xx,ct_distributor,0,re_CH,1,红果子,2021-10-13 13:42:58.022000+01:00,2021-10-13 13:42:58.022000+01:00,True,CONFIRMED
+b690f119-451e-4ce9-921f-77217aee5852,nadal.ch@gmail.com,true,UNOCHAPECO,ct_bakery,0,re_SA,1,José Nadal,2021-04-19 19:36:11.356000+01:00,2021-04-19 19:36:11.356000+01:00,True,CONFIRMED
+b6f13d77-7f8c-4a35-9101-1cccf71913db,kumar.kr.62@gmail.com,true,Sounbula Mills,ct_formulator,1,re_ME,1,Rajendra kumar,2021-07-05 17:47:14.505000+01:00,2021-07-05 17:47:14.505000+01:00,True,CONFIRMED
+b7b2afb0-dd5c-4296-996c-c00096ceafc6,398392610@qq.com,true,绵阳鑫奥科生物科技有限公司,ct_formulator,1,re_CH,1,周楚天,2021-12-06 14:11:21.816000+00:00,2021-12-06 14:11:21.816000+00:00,True,CONFIRMED
+b7c0a6d2-b62a-4fc4-b36b-76c7346f3706,vysotskaya@karavay.spb.ru,true,ОАО "КАРАВАЙ",ct_bakery,1,re_RU,1,Наталья,2021-12-13 08:35:52.783000+00:00,2021-12-13 08:35:52.783000+00:00,True,CONFIRMED
+b84f5e3c-d97c-490b-92c0-13f27a061668,hznnf@126.com,false,永滋油脂,ct_formulator,1,re_CH,1,vinnie,2020-07-29 04:23:26.262000+01:00,2020-07-29 04:23:26.262000+01:00,True,UNCONFIRMED
+b885fb37-e8c2-4b40-bed3-720029a5307a,morenikejiajike0@gmail.com,true,Jiket catering event and planning ,ct_bakery,1,re_SEA,1,Olayemi anuoluwaposi,2021-09-09 10:40:25.453000+01:00,2021-09-09 10:40:25.453000+01:00,True,CONFIRMED
+b935e2cb-ef2e-4d9d-a6eb-f0e56c825382,LENC@novozymes.com,true,诺维信,ct_formulator,1,re_CH,1,陈晓慧,2021-09-28 10:10:26.165000+01:00,2021-09-28 10:10:26.165000+01:00,True,CONFIRMED
+b990d34c-2456-4160-818f-ed06faf9bc51,bedan68842@1adir.com,true,Company1,ct_bakery,0,re_EU,1,Giovanni,2021-01-22 08:12:03.736000+00:00,2021-01-24 13:05:46.247000+00:00,True,CONFIRMED
+ba5a85a2-e2a0-457f-8911-c692f4d0351d,simon.hasager@wundermanthompson.com,true,Wunderman,ct_bakery,0,re_EU,1,Simon,2021-11-08 18:55:20.107000+00:00,2021-11-09 11:58:57.577000+00:00,True,CONFIRMED
+ba810bdc-c297-4a48-aa1e-3f6c23c4d146,s.lv@lesaffre.com,false,乐斯福管理（上海）有限公司,ct_formulator,1,re_CH,1,吕松泰,2019-12-24 03:56:43.794000+00:00,2019-12-24 03:56:43.794000+00:00,True,UNCONFIRMED
+ba96c21d-b16e-4e8e-9686-aa4a0ef2947c,rus.enzymes@gmail.com,true,ПрофЭнзим,ct_formulator,0,re_RU,1,Сергей,2021-01-14 11:51:24.867000+00:00,2021-01-14 11:51:24.867000+00:00,True,CONFIRMED
+bb24740c-72a3-40ab-8a9f-03c37d46e8e3,conatojjg123@gmail.com,true,Conato,ct_bakery,0,re_SEA,1,Conato,2021-08-12 07:51:33.410000+01:00,2021-08-12 07:51:33.410000+01:00,True,CONFIRMED
+bb67b2ed-0ab2-4daf-b651-ade36eaf8768,,,法漫利烘焙,ct_bakery,1,re_CH,1,钟家龙,2021-04-27 10:52:33.925000+01:00,2021-04-27 11:00:15.737000+01:00,True,CONFIRMED
+bb81cec5-2f3f-4303-ae17-a4b6953bf17e,wli@novozymes.com,true,novozymes,ct_formulator,1,re_CH,1,wli,2020-07-24 09:22:31.466000+01:00,2021-04-21 07:52:55.133000+01:00,True,CONFIRMED
+bbd97f5a-0ce6-4ef3-bd75-6ff976bb0474,skhruntsova@sterningredients.ru,true,Штерн Ингредиентс,ct_formulator,1,re_RU,1,Хрунцова Светлана,2021-03-18 08:43:39.240000+00:00,2021-03-18 08:43:39.240000+00:00,True,CONFIRMED
+bc0309f5-0eee-4153-b5bb-684a4ab5ceb3,fyy8288@sina.cn,true,中山市福德利得食品科技有限公司,ct_formulator,1,re_CH,1,冯滢滢,2020-01-13 07:46:01.379000+00:00,2020-01-13 07:48:06.800000+00:00,True,CONFIRMED
+bc1dff36-e3a3-4fca-9a49-4bf84463a6f5,vari@novozymes.com,true,Novozymes,ct_formulator,0,re_NA,1,Vanessa Rising,2019-12-16 20:18:48.845000+00:00,2021-01-26 14:41:14.862000+00:00,True,CONFIRMED
+bc92a52c-c288-4d40-82e8-68edd11be427,hiedinglau@gmail.com,true, 町面包烘焙坊,ct_bakery,1,re_SEA,1,刘惠街婷,2021-08-20 15:33:39.032000+01:00,2021-08-20 15:33:39.032000+01:00,True,CONFIRMED
+bcb3f881-0b54-4d49-a98b-b2ff3effea37,doxu@novozymes.com,true,Novozymes,ct_formulator,1,re_CH,1,Donglu xu,2021-01-27 06:09:26.147000+00:00,2021-04-27 11:12:19.375000+01:00,True,CONFIRMED
+bd23aadc-9d3d-4df5-a62c-2ea06e4fd4c1,olorunfemi.oloruntoyin@yahoo.com,true,Tokem,ct_bakery,1,re_ME,1,Olorunfemi,2021-11-24 11:01:15.891000+00:00,2021-11-24 11:01:15.891000+00:00,True,CONFIRMED
+bd3281da-14c4-45f4-8464-67475d43af12,fps@novozymes.com,true,fps@novozymes.com,ct_formulator,0,re_EU,1,Filip Stresko,2021-05-10 15:44:58.810000+01:00,2021-05-10 15:44:58.810000+01:00,True,CONFIRMED
+be5a8471-4993-4495-a86a-5bf349129611,fhesnearrib@gmail.com,true,Joeneah Services,ct_bakery,1,re_EU,1,Ibinabo Francis,2021-08-24 13:58:01.527000+01:00,2021-08-24 13:58:01.527000+01:00,True,CONFIRMED
+beb3a0fb-d3b2-4b43-9a6f-892a5ab85445,nanyaxing@126.com,true,北京金瑞典膳科技有限公司,ct_bakery,1,re_CH,1,邢亚楠,2020-03-25 08:10:50.524000+00:00,2020-03-25 08:16:00.168000+00:00,True,CONFIRMED
+bec8e418-80cb-45da-8687-30018d5c645c,,,Novozymed,ct_formulator,1,re_CH,1,Silvia,2020-01-20 20:08:21.023000+00:00,2020-01-20 20:08:21.023000+00:00,True,UNCONFIRMED
+bedbadf4-14f8-44ee-8728-5af7392887a6,vklusch@muehlenchemie.de,true,Mühlenchemie,ct_formulator,1,re_EU,1,Klusch Viktoria,2021-03-18 08:10:52.571000+00:00,2021-03-18 08:10:52.571000+00:00,True,CONFIRMED
+bedf9651-0e44-4738-be0d-49c37dfd485f,ynwg@novozymes.com,true,NZ,ct_formulator,0,re_CH,1,JINN,2021-03-14 12:39:36.807000+00:00,2021-03-14 12:39:36.807000+00:00,True,CONFIRMED
+bf2baa65-99c3-4637-a6b0-bd0abf804bcd,vejloe@gmail.com,true,Novozymes,ct_formulator,0,re_EU,1,Jonas Vejlø,2021-11-11 10:40:21.076000+00:00,2021-11-11 10:40:21.076000+00:00,True,CONFIRMED
+bf5fe3e6-6af0-4bb9-a8af-397aac58a2aa,daniela.gutierrez@girona.cl,true,GIRONA,ct_formulator,1,re_SA,1,Daniela Gutierrez,2022-03-16 14:44:12.656000+00:00,2022-03-16 14:44:12.656000+00:00,True,CONFIRMED
+bf7ecdb1-31cd-4f5e-b2bc-a526dd8dc8f1,anais.pouzot@pasquier.fr,true,BRIOCHE PASQUIER CHATELET,ct_bakery,1,re_EU,1,Anaïs POUZOT,2021-02-16 14:06:15.192000+00:00,2021-02-16 14:06:15.192000+00:00,True,CONFIRMED
+bf88ffcd-c932-4234-902e-258decd503c1,,,sqb@novozymes.com,ct_bakery,1,re_CH,1,Søren Bech,2019-12-10 09:36:52.667000+00:00,2019-12-17 14:00:57.315000+00:00,True,CONFIRMED
+bfb776ac-a87e-443b-b41e-30052ffdd565,paulo.braga@univarsolutions.com,true,Univar Solutions.com,ct_distributor,1,re_EU,1,Paulo Braga,2021-04-08 11:06:36.344000+01:00,2021-04-08 11:06:36.344000+01:00,True,CONFIRMED
+bfcf6dbd-acc3-485a-b2fa-6b39a5da1738,bazmi@gccgff.com,true,Gulf Catering Food Factory,ct_bakery,1,re_ME,1,Ahmad Bazmi,2021-06-29 12:21:30.837000+01:00,2021-06-29 12:21:30.837000+01:00,True,CONFIRMED
+bfe74c81-1503-4f39-8213-168c3deece2e,tlv@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Tina Lindeløv,2021-11-14 17:32:30.672000+00:00,2022-03-03 07:38:07.542000+00:00,True,CONFIRMED
+c0bddef5-d1e7-45f5-8420-0569f065a446,WFZ@novozymes.com,true,Novozymes,ct_bakery,1,re_CH,1,Weifang Zhao,2021-02-24 00:54:09.392000+00:00,2021-02-24 00:54:09.392000+00:00,True,CONFIRMED
+c173f025-b3bc-42de-af89-b128b01239c2,anna.budyta@credin.pl,true,Credin Polska ,ct_bakery,0,re_EU,1,Anna ,2021-04-13 14:56:28.581000+01:00,2021-04-13 14:56:28.581000+01:00,True,CONFIRMED
+c1823223-871f-4b41-ae2d-ceee4ab66bcf,gcpt@novozymes.com,true,novo,ct_bakery,1,re_EU,1,Giacomo Parato,2020-02-27 08:04:25.262000+00:00,2020-12-04 14:18:21.586000+00:00,True,CONFIRMED
+c1ff6261-d621-467e-8d9c-621dec9bf2ed,chef@ibglutenfree.com,true,Isaura Bakery,ct_bakery,1,re_NA,1,Nanci kriney ,2021-08-17 00:34:43.417000+01:00,2021-08-17 00:34:43.417000+01:00,True,CONFIRMED
+c206de65-1842-429c-8acd-e3f7577fc0e1,nj@verticalstrategy.com,true,Vertical,ct_formulator,0,re_EU,1,Niels,2020-05-11 20:19:05.910000+01:00,2020-05-11 20:19:30.574000+01:00,True,CONFIRMED
+c2656a45-88fe-49dc-a75b-8782feb02f72,,,蜜桃家,ct_bakery,1,re_CH,1,郑羽,2021-05-12 01:07:52.628000+01:00,2021-05-12 01:07:52.628000+01:00,True,CONFIRMED
+c288019d-c02e-47ef-921f-30c1c58b287a,phjbaptiste@yahoo.fr,true,Paulna ,ct_distributor,1,re_NA,1,Paul Henry Jean Baptiste,2021-07-22 15:31:08.656000+01:00,2021-07-22 15:31:08.656000+01:00,True,CONFIRMED
+c2b2f69b-82b6-43e5-b208-8f2294b66fa2,piposafwat123@gmail.com,true,هارفي,ct_bakery,1,re_ME,1,نادر,2021-05-11 10:20:40.715000+01:00,2021-05-11 10:20:40.715000+01:00,True,CONFIRMED
+c2d136d0-9b6b-4d43-b184-7a8c6e44bd42,,,诺维信投资有限公司,ct_formulator,1,re_CH,1,徐艳双,2021-01-12 04:41:52.788000+00:00,2021-01-12 04:41:52.788000+00:00,True,CONFIRMED
+c30433a0-137f-470d-a771-22a03e03c2fc,aicha60@mail.ru,true,частное лицо,ct_bakery,1,re_RU,1,Нурания,2021-02-24 11:52:15.259000+00:00,2021-02-24 11:52:15.259000+00:00,True,CONFIRMED
+c35e7543-1cca-45a1-9861-cef353db6901,,,壹誉玖诚（天津）科技发展有限公司,ct_distributor,1,re_CH,1,马凤华,2021-12-23 03:03:28.206000+00:00,2021-12-23 03:03:28.206000+00:00,True,CONFIRMED
+c36d922d-6ac8-4717-acc8-eae7e7265ed1,t.benboubker@lafonda.ma,true,La FONDA,ct_formulator,1,re_ME,1,Taoufik Benboubker,2021-09-10 05:38:10.212000+01:00,2021-09-10 05:38:10.212000+01:00,True,CONFIRMED
+c38bd8c9-8947-45cb-b421-99c3842ab6bf,shenyushu@gmail.com,true,Novozymes,ct_bakery,0,re_JA,1,YSE test,2021-12-07 13:12:04.593000+00:00,2022-04-07 08:49:38.403000+01:00,True,CONFIRMED
+c447e0f5-23bc-47d3-888a-d1a0ffcea726,sryj@novozymes.com,true,Novozymes,ct_bakery,0,re_EU,1,Sofie Rye Jønsson,2021-04-22 08:11:36.923000+01:00,2021-04-22 08:11:36.923000+01:00,True,CONFIRMED
+c4f0ef74-df1c-4b4d-b08f-93ef2580297a,vlladdo@hotmail.com,true,Влад,ct_bakery,1,re_EU,1,Владимир,2021-03-02 12:30:13.633000+00:00,2021-03-02 12:30:13.633000+00:00,True,CONFIRMED
+c5111f66-64f1-493f-aecd-17e88977b9aa,lundi.chhun@nzbakels.co.nz,true,chhun,ct_bakery,1,re_RAP,1,lundi,2021-01-27 18:59:49.238000+00:00,2021-05-05 14:43:14.938000+01:00,True,CONFIRMED
+c5184b82-6d7c-4c15-a40e-b6472839386a,190067302@qq.com,true,酵母喵烘焙研究所,ct_bakery,1,re_CH,1,李张恒,2022-03-26 05:41:26.493000+00:00,2022-03-26 05:41:26.493000+00:00,True,CONFIRMED
+c580a5b7-1b82-4a45-a70b-20c419f3e34e,savio@cogentfoods.in,true,cogent foods,ct_bakery,1,re_IND,1,savio miranda,2021-06-02 10:02:44.384000+01:00,2021-06-02 10:02:44.384000+01:00,True,CONFIRMED
+c5f0b5ab-b450-4fab-99dc-cc263c57cb5f,julie.due@hotmail.com,true,Novozymes,ct_formulator,0,re_EU,1,Julie Due Brødreskift,2021-02-12 10:30:02.298000+00:00,2021-08-25 19:59:44.484000+01:00,True,CONFIRMED
+c5fc14f2-4193-415d-b964-27481c2332f1,,,木羽手作,ct_bakery,0,re_CH,1,李玲君,2021-04-30 06:22:57.955000+01:00,2021-04-30 06:22:57.955000+01:00,True,CONFIRMED
+c63430c8-bac0-460f-a676-82ead64a044e,1445695565@qq.com,true,那和,ct_bakery,1,re_CH,1,刘琦,2021-04-21 11:56:27.585000+01:00,2021-04-21 11:56:27.585000+01:00,True,CONFIRMED
+c636dcd8-af03-4165-8f79-1276acebe1dc,f.blareau@lesaffre.com,true,Lesaffre,ct_formulator,1,re_EU,1,BLAREAU,2021-04-14 15:14:24.525000+01:00,2021-04-14 15:14:24.525000+01:00,True,CONFIRMED
+c63ce37e-a8bf-4977-8bf8-38a2d7904e09,jbns@novozymes.com,true,Novozymes,ct_formulator,0,re_NA,1,Joseph Serio,2021-01-26 14:26:06.225000+00:00,2021-01-26 14:26:06.225000+00:00,True,CONFIRMED
+c66901b9-da50-4899-94cd-9d2ac391abb9,brostromellen@gmail.com,true,Broström,ct_bakery,0,re_EU,1,Ellen,2021-02-01 10:43:58.740000+00:00,2021-02-01 10:43:58.740000+00:00,True,CONFIRMED
+c6b90db3-636a-498d-bdba-000202cb28b5,yaser@akkad.net,true,VBD Organic,ct_bakery,1,re_ME,1,yaser,2021-08-26 14:34:06.401000+01:00,2021-08-26 14:34:06.401000+01:00,True,CONFIRMED
+c6cd4fb5-6d21-4910-85fa-75f6cb8c7131,190067302@qq.com,true,酵母喵烘焙研究所,ct_bakery,1,re_CH,1,李张恒,2022-03-26 05:41:26.524000+00:00,2022-03-26 05:41:26.524000+00:00,True,CONFIRMED
+c6d1117c-7477-4064-8f3f-7a946dafbb10,JLX@novozymes.com,true,Novozymes,ct_formulator,1,re_CH,1,JLX,2021-06-15 05:45:52.495000+01:00,2021-06-15 05:45:52.495000+01:00,True,CONFIRMED
+c6e76d0c-0d24-4c7b-87e5-062ec321d9ec,kristoffer.norgaard@gmail.com,true,Huge Baker Inc. ,ct_bakery,1,re_EU,1,Kristoffer,2019-12-13 11:23:27.359000+00:00,2019-12-13 11:24:58.782000+00:00,True,CONFIRMED
+c734615a-3b21-4c8e-bcd8-67558e00c92d,adil_zafar@hotmail.com,true,Karam Kimya,ct_distributor,1,re_ME,1,Adil ,2022-04-28 11:08:51.524000+01:00,2022-04-28 11:08:51.524000+01:00,True,CONFIRMED
+c77d3aae-f8df-431b-bf8d-7709e4c6f31d,sujith780629@outlook.com,true,YAWEH ENTERPRISE,ct_bakery,1,re_RAP,1,Sujith,2021-07-26 13:10:22.821000+01:00,2021-07-26 13:10:22.821000+01:00,True,CONFIRMED
+c7b418fe-c1ea-4654-8669-04565ad2f65b,T.goklani@kasafinefoods.com,true,KASA FINE FOODS,ct_bakery,0,re_IND,1,TUSHAR GOKLANI,2021-10-02 10:06:30.370000+01:00,2021-10-02 10:06:30.370000+01:00,True,CONFIRMED
+c83a3c4b-d56d-409c-8927-4caa2cae1974,j.hinds@cainfood.com,true,Cain Food Industries,ct_formulator,1,re_NA,1,John Hinds,2021-01-12 13:34:32.844000+00:00,2021-01-12 13:34:32.844000+00:00,True,CONFIRMED
+c8468950-240a-4676-98f3-b8b5fbad9505,jaswant131280@gmail.com,true,karamel bite,ct_bakery,1,re_IND,1,jaswant arora,2021-09-10 11:54:13.852000+01:00,2021-09-10 11:54:13.852000+01:00,True,CONFIRMED
+c8a61f40-a141-4285-8541-05950638c972,2814798392@qq.com,true,公司,ct_bakery,1,re_CH,1,李先生,2022-02-10 03:24:04.003000+00:00,2022-02-10 03:24:04.003000+00:00,True,CONFIRMED
+c8a67da8-985b-47bb-a543-b330c15507dc,tc@novozymes.com,true,TC,ct_formulator,1,re_RAP,1,TC,2020-02-06 09:31:44.058000+00:00,2021-05-05 14:43:18.646000+01:00,True,CONFIRMED
+ca03f27e-e279-4f94-8dc0-cc383148ad0e,riccardo.schiavi@lapasqualina.it,true,Pasqualina Srl,ct_bakery,0,re_EU,1,Riccardo Schiavi,2022-03-08 16:03:47.344000+00:00,2022-03-08 16:03:47.344000+00:00,True,CONFIRMED
+ca59dabb-b1c5-4722-894e-829f871a8a7d,,,法爵,ct_bakery,0,re_CH,1,陈志励,2021-05-18 13:28:30.015000+01:00,2021-05-18 13:28:30.015000+01:00,True,CONFIRMED
+ca6c1e17-6186-4da8-8185-cbc9ca323dc2,yulai_jin@yahoo.ca,true,Kellogg Company,ct_bakery,1,re_NA,1,Yulai Jin,2021-03-08 13:09:43.390000+00:00,2021-03-08 13:09:43.390000+00:00,True,CONFIRMED
+cb04f2c7-c4bd-4403-8f4c-c3c863ff9459,gabor.tarczali@univarsolutions.com,true,Univar Soultions,ct_formulator,0,re_EU,1,Gabor Tarczali,2021-01-12 13:15:27.766000+00:00,2021-01-12 13:15:27.766000+00:00,True,CONFIRMED
+cb09c02c-348b-497a-8501-6f547da5bd6b,kisola43@gmail.com,true,Ab brasil,ct_formulator,1,re_SA,1,kisola43@gmail.com,2021-06-25 14:13:56.340000+01:00,2021-06-25 14:13:56.340000+01:00,True,CONFIRMED
+cba1c42f-4b7e-482e-9488-4779c9240b3c,ahmaadzayan@gmail.com,true,Chemitechzyme ,ct_bakery,1,re_ME,1,Ahmed Zayan,2021-08-05 12:07:16.932000+01:00,2021-08-05 12:07:16.932000+01:00,True,CONFIRMED
+cba247fc-10ca-4f79-aee2-401b79ea5a58,kristoffer.norgaard++++@gmail.com,true,kristoffer.norgaard@gmail.com,ct_formulator,1,re_SA,1,Kristoffer Tester,2021-03-11 08:14:17.911000+00:00,2021-03-11 08:21:48.381000+00:00,True,CONFIRMED
+cc196cd9-65d5-4000-a678-596a8ef3dc03,jason.samak@hotmail.com,true,NOVOZYMES A/S,ct_distributor,0,re_SEA,1,i SAMAKIIS,2021-05-17 07:17:01.489000+01:00,2021-05-17 07:32:53.037000+01:00,True,CONFIRMED
+cc86026f-e570-4426-ae03-757edf9b5ee1,iannis.samakidis@gmail.com,true,NOVOZYMES,ct_formulator,1,re_CH,1,IANNIS,2020-02-03 13:46:19.079000+00:00,2020-02-03 13:47:22.509000+00:00,True,CONFIRMED
+cc939142-b4b9-4027-9dee-0c3a4cba1931,nfursova@sterningredients.ru,true,КТ "ООО Штерн Ингредиентс",ct_formulator,1,re_RU,1,Фурсова Нина Михайловна,2021-03-18 08:40:24.975000+00:00,2021-03-18 08:40:24.975000+00:00,True,CONFIRMED
+cd1a344c-e385-4c12-b6a7-86dc1df0be60,demonjiao@protonmail.com,true,Private ,ct_bakery,0,re_ME,1,Prado Eli,2021-03-23 07:59:58.748000+00:00,2021-03-23 07:59:58.748000+00:00,True,CONFIRMED
+cd344e73-d496-456f-a061-9c48a6b4d0f8,zaneta.jurakova@univarsolutions.com,true,Univar Solutions,ct_bakery,1,re_EU,1,Zaneta Jurakova,2021-01-12 13:47:31.454000+00:00,2021-01-12 13:47:31.454000+00:00,True,CONFIRMED
+cde8c0e5-d81f-4e7b-9a99-d9823e0e2bc0,dsrbill25@yahoo.com,true,Linda’s Gourmet Cookies,ct_bakery,0,re_NA,1,Perry Adams ,2021-10-09 11:49:44.738000+01:00,2021-10-09 11:49:44.738000+01:00,True,CONFIRMED
+ceac194a-124c-4746-8246-99c36657256c,testginmbg@mbgtesting.com,true,MBG,ct_distributor,1,re_SA,1,TESTING MBG,2021-03-11 10:00:25.808000+00:00,2021-03-11 10:01:22.468000+00:00,True,CONFIRMED
+ceeb43c6-b2f3-4f4f-995e-0a2d3d05b09b,KEWI@novozymes.com,true,Novozymes,ct_formulator,0,re_NA,1,Keith Wilson,2021-03-09 13:43:50.576000+00:00,2021-03-09 13:43:50.576000+00:00,True,CONFIRMED
+cefa53a1-bd5a-4127-a245-53dfd5416f28,2825286664@qq.com,true,个体,ct_bakery,0,re_CH,1,生,2020-08-26 10:43:50.251000+01:00,2020-08-26 10:44:15.522000+01:00,True,CONFIRMED
+cf090d17-c8a0-4729-b44b-2c99bc12bccc,prasad.mayank@gmail.com,true,ABD,ct_formulator,0,re_ME,1,Mayank,2022-01-13 12:15:56.373000+00:00,2022-01-13 12:15:56.373000+00:00,True,CONFIRMED
+cf0cbe7c-b246-43e3-8ae3-050f6765a076,ahog@novozymes.com,true,NZ,ct_bakery,0,re_EU,1,Adriana Hogea,2020-11-06 13:56:46.936000+00:00,2021-05-31 08:58:50.453000+01:00,True,CONFIRMED
+cfdb7ae3-40ac-4746-a3c0-f467f25c4658,szskyuan@126.com,true,深圳精益油脂技术有限公司,ct_formulator,1,re_CH,1,袁向华,2020-04-09 03:28:43.133000+01:00,2020-04-09 03:29:52.170000+01:00,True,CONFIRMED
+cff7e86d-e50f-44cd-83a4-edcc8e01d612,asmu@novozymes.com,true,Novozymes A/S,ct_distributor,0,re_EU,1,Alexander Sonne Munch,2021-05-27 14:48:45.552000+01:00,2021-05-27 14:48:45.552000+01:00,True,CONFIRMED
+d013f0b2-5207-4bfc-b4fe-46b78dfb9544,13862104075@163.com,true,柳舍面馆,ct_bakery,0,re_CH,1,邓贵尧,2020-12-23 05:24:56.554000+00:00,2020-12-23 05:25:27.372000+00:00,True,CONFIRMED
+d02a06f1-7b9f-4236-903b-18c99e2f4d04,mira2@wills.com.ph,true,Wills,ct_distributor,1,re_CH,1,Mira,2021-04-23 04:32:35.677000+01:00,2021-04-23 04:32:35.677000+01:00,True,CONFIRMED
+d03bfdda-f3db-491c-86dc-92030beaef04,,,河南华汇食品有限公司,ct_bakery,1,re_CH,1,于万东,2020-08-16 03:53:15.639000+01:00,2020-08-16 03:53:15.639000+01:00,True,UNCONFIRMED
+d0da5bea-5ba0-4151-8bd0-b6514d8b97a7,myew@novozymes.com,true,Novozymes,ct_bakery,1,re_SEA,1,Amye Wong,2021-01-11 08:44:54.907000+00:00,2021-10-01 02:33:32.963000+01:00,True,CONFIRMED
+d136b69d-278c-418f-8600-f487355d6b4c,jgm@novozymes.com,true,LN,ct_bakery,0,re_IND,1,João Marques Gomes,2022-02-14 16:06:42.485000+00:00,2022-05-03 15:53:55.618000+01:00,True,CONFIRMED
+d168b8e5-6476-4503-be7b-c182bfc9d0cb,joanne.mak@brenntag-asia.com,true,Brenntag Sdn Bhd,ct_distributor,1,re_SEA,1,Joanne Mak,2021-03-24 07:14:14.208000+00:00,2021-05-05 14:43:26.467000+01:00,True,CONFIRMED
+d1b5f260-5c1c-476d-b5ee-bf4e3ce553c0,,false,Wen,ct_formulator,1,re_CH,1,zhang,2020-03-18 15:20:34.485000+00:00,2020-03-18 15:20:34.485000+00:00,True,UNCONFIRMED
+d40a5cc2-a6cd-4f2b-826c-bd296b82dc43,brightyihua@163.com,true,Rike,ct_formulator,1,re_CH,1,Eva,2020-07-25 02:09:41.666000+01:00,2020-07-25 02:16:38.917000+01:00,True,CONFIRMED
+d40f35a0-5e8e-467a-b150-d9ccc7a34e2b,tehnolog-baker@mail.ru,true,Baker LLC,ct_formulator,1,re_RU,1,Людмила Сырбу,2021-02-24 10:35:15.187000+00:00,2021-02-24 10:35:15.187000+00:00,True,CONFIRMED
+d42dc57f-9af6-4c3c-810d-217772d5328e,irina.onishenko.79@gmail.com,true,Roshen,ct_bakery,0,re_EU,1,Ирина Оншенко,2021-02-25 14:20:16.453000+00:00,2021-02-25 14:20:16.453000+00:00,True,CONFIRMED
+d4678946-abab-4dfd-9204-651287e50a4c,p.giddings@lesaffre.com,true,p.giddings@lesaffre.com,ct_formulator,1,re_RAP,1,Paul Giddings,2021-03-17 23:45:17.601000+00:00,2021-05-26 04:16:20.559000+01:00,True,CONFIRMED
+d4b3a672-28cd-4e7a-8173-7d3d9c0dc07c,bin.zhao@grupobimbo.com,true,bin.zhao@grupobimbo.com,ct_bakery,0,re_NA,1,bin zhao,2021-03-16 13:06:52.923000+00:00,2021-03-16 13:06:52.923000+00:00,True,CONFIRMED
+d4e08409-e76a-4a59-80d6-17347494d1ea,ebtehal.m.alzoubi@gmail.com,true,ALYOUM BAKERY,ct_bakery,1,re_RAP,1,EBTEHAL ALZOUBI,2022-04-13 08:52:13.408000+01:00,2022-04-13 08:52:13.408000+01:00,True,CONFIRMED
+d4e23a49-0702-4e43-a9bf-b2f07548c33b,absf@novozymes.com,true,Novozymes,ct_distributor,0,re_SEA,1,abdoreza soleimani farjam,2021-05-28 02:18:29.118000+01:00,2021-05-28 02:18:29.118000+01:00,True,CONFIRMED
+d5ab45f5-757f-4dc1-8be4-3986ffcf5c4a,CI.sfs@corbion.com,true,CORBION PURAC,ct_formulator,1,re_NA,1,Lonneke Van dijk,2021-03-08 15:08:26.932000+00:00,2021-03-08 15:08:26.932000+00:00,True,CONFIRMED
+d5abbfbd-8c50-4aa4-9407-82a6322916c3,charlie@smallbutglobal.com,true,SBG,ct_bakery,0,re_EU,1,Charlie F,2020-02-11 11:37:00.455000+00:00,2020-02-15 09:55:54.905000+00:00,True,CONFIRMED
+d5b114d1-8783-4c14-a166-6a0f03990206,adby+india@novozymes.com,true,Novozymes,ct_bakery,0,re_IND,1,Adam Bystrom,2021-04-26 12:03:01.058000+01:00,2021-05-06 09:43:03.249000+01:00,True,CONFIRMED
+d5ca7b28-35ee-4a8c-af86-4d643ceac69c,nish17wish@gmail.com,true,Rai bakery,ct_bakery,1,re_IND,1,Nishant rai,2021-08-13 09:02:47.424000+01:00,2021-08-13 09:02:47.424000+01:00,True,CONFIRMED
+d5dc9f5e-f390-49da-b10f-d19423fd0b47,office@gama-serv.ro,true,GAMA SERV 95 SRL,ct_bakery,1,re_EU,1,ANA GRIGORIU,2020-12-16 10:14:22.333000+00:00,2020-12-17 16:28:53.846000+00:00,True,CONFIRMED
+d5f29d3a-0032-453c-936b-d8a59a34af89,qeig@novozymes.com,true,Novozymes,ct_formulator,1,re_NA,1,Elvia Guadarrama,2019-12-18 16:18:39.032000+00:00,2022-04-27 19:58:32.771000+01:00,True,CONFIRMED
+d6341d80-5a8a-4637-a4cc-0279f2b8d08e,437355245@qq.com,false,杰布烘焙,ct_bakery,1,re_CH,1,火柴,2020-07-31 06:02:49.442000+01:00,2020-07-31 06:02:49.442000+01:00,True,UNCONFIRMED
+d6fd1757-7121-47ec-aa29-57b99aa6c471,SIAK@novozymes.com,true,Novozymes,ct_formulator,1,re_IND,1,sajid Akbar,2021-05-31 04:53:12.054000+01:00,2021-05-31 04:53:12.054000+01:00,True,CONFIRMED
+d7287285-79d2-4b39-9f3a-3ee6d4c90853,hardi_emest@yahoo.com,true,Emporio,ct_bakery,1,re_SEA,1,Hardiyono,2021-09-22 10:47:43.236000+01:00,2021-09-22 10:47:43.236000+01:00,True,CONFIRMED
+d74d7d7d-e35b-4404-9783-39c97e06c743,emilie.parafita@jacquetbrossard.com,true,Jacquet Brossard,ct_bakery,0,re_EU,1,PARAFITA,2021-07-06 13:57:25.397000+01:00,2021-07-06 13:57:25.397000+01:00,True,CONFIRMED
+d74e52fa-1331-4778-b864-edde0a04ab49,ahmedawad246@yahoo.com,true,Badawy Group for Food Industries,ct_bakery,1,re_ME,1,Ahmed Awaad Ibrahim,2021-03-22 16:17:19.654000+00:00,2021-03-22 16:17:19.654000+00:00,True,CONFIRMED
+d7d3692b-f85f-4b05-9fce-32b93ecb4752,adbo@novozymes.com,true,Netlight,ct_bakery,1,re_EU,1,Andreas Borgstad,2021-05-06 09:15:22.783000+01:00,2021-05-06 09:16:54.474000+01:00,True,CONFIRMED
+d8e979a8-2d4f-47b5-bb26-665af2eb0f22,quhongl1010@gmail.com,true,个体,ct_bakery,0,re_CH,1,曲生,2020-08-26 10:38:18.785000+01:00,2020-08-26 10:39:31.708000+01:00,True,CONFIRMED
+d8ed576c-13d8-4437-93fa-856f2b78e4b0,,,北京贝成科技有限公司,ct_bakery,0,re_CH,1,张女士,2022-01-26 15:36:14.647000+00:00,2022-01-26 15:36:14.647000+00:00,True,CONFIRMED
+d96f25b6-95f9-4bc8-906c-e35872678f30,qa@falcones.com.au,true,Falcones Pty Ltd,ct_bakery,1,re_RAP,1,ranjana naidu,2021-06-08 03:13:04.204000+01:00,2021-06-08 03:13:04.204000+01:00,True,CONFIRMED
+d9758228-fe90-40b3-bdf1-550a3cabc065,sgl@novozymes.com,false,诺维信(中国)投资有限公司,ct_formulator,1,re_CH,1,李守宏,2019-12-23 00:49:32.416000+00:00,2019-12-23 00:50:18.036000+00:00,True,CONFIRMED
+da4a3f0e-624d-40df-8928-f56cd2d7deb7,,false,Comp,ct_bakery,0,re_CH,1,Jesper Test Edge Case,2020-01-15 11:34:44.661000+00:00,2020-01-15 11:34:44.661000+00:00,True,UNCONFIRMED
+da64a652-8fbd-4a77-812a-edd6069a86fc,isamakidis@yahoo.com,true,NOVOZYMES,ct_formulator,0,re_ME,1,IOANNIS,2020-02-04 07:12:22.485000+00:00,2020-02-04 07:13:59.818000+00:00,True,CONFIRMED
+da71c3e8-3b63-4132-aced-d3f953cdf189,olivier.loubet@pasquier.fr,true,Brioche Pasquier Cerqueux,ct_bakery,0,re_EU,1,Loubet,2022-03-16 16:41:09.573000+00:00,2022-03-16 16:41:09.573000+00:00,True,CONFIRMED
+dace4c79-1393-4bff-a02a-d637369802f2,mixgal@list.ru,true, ,ct_formulator,0,re_RU,1,Галина,2021-03-01 05:09:33.404000+00:00,2021-03-01 05:09:33.404000+00:00,True,CONFIRMED
+db1bf628-1988-4744-8006-7d1866e11dbc,zuhalklz@gmail.com,true,SOLEN,ct_bakery,1,re_ME,1,ZUHAL KILAVUZ,2022-04-13 08:51:59.810000+01:00,2022-04-13 08:51:59.810000+01:00,True,CONFIRMED
+db546cb6-ebe1-4840-a37d-c6327ce8ec6f,Richard.Lui@fdld-science.com,true,中山市福德利得食品科技有限公司,ct_formulator,1,re_CH,1,吕伟程,2020-02-23 02:47:02.070000+00:00,2020-02-23 02:47:55.803000+00:00,True,CONFIRMED
+db5f6633-3099-4178-bec0-6dd4ccb57731,giacomo@nutripan.it,true,Nutripan srl,ct_formulator,1,re_EU,1,Giacomo Moschini,2020-12-28 15:55:56.415000+00:00,2020-12-28 15:56:12.497000+00:00,True,CONFIRMED
+dbd08009-985a-406f-b46a-b837bf59e13e,SEW@MAYBAKELS.COM.MY,true,BAKELS MALAYSIA SDN BHD,ct_bakery,1,re_SEA,1,SEW CHANG CHEW,2021-01-26 22:03:21.894000+00:00,2021-05-05 14:43:34.197000+01:00,True,CONFIRMED
+dbe996c8-d03e-4856-ac28-e1baaf83df17,serhap.varan@erkegida.com,true,ERKE ADK GIDA,ct_formulator,1,re_EU,1,SERHAP VARAN,2021-04-18 21:56:03.504000+01:00,2021-04-18 21:56:03.504000+01:00,True,CONFIRMED
+dc04d8e3-c717-4049-a22d-f7df71e758e9,1915964156@qq.com,true,广州开花亭蛋糕店,ct_bakery,1,re_CH,1,周福光,2021-01-07 09:32:26.949000+00:00,2021-01-07 09:40:24.489000+00:00,True,CONFIRMED
+dc115672-d0ff-416b-b1d4-4f5b2acfc8f4,,,sqb@novozymes.com,ct_bakery,1,re_CH,1,Søren Bech,2019-12-10 09:36:11.088000+00:00,2019-12-10 09:36:11.088000+00:00,True,UNCONFIRMED
+dc1441a8-cb60-4cfd-9221-93d6f3cee559,385549704@qq.com,false,邦德生物科技有限公司,ct_formulator,1,re_CH,1,刘福林,2020-01-08 04:37:48.622000+00:00,2020-01-08 04:43:42.146000+00:00,True,CONFIRMED
+dc37784f-4ae2-41fa-aa0b-215604cc7ce3,silvialombardi9@gmail.com,true,Lombardi,ct_formulator,1,re_SA,1,Silvia Lombardi,2021-05-08 00:11:44.552000+01:00,2021-05-08 00:11:44.552000+01:00,True,CONFIRMED
+dc3b8147-9fad-42db-b0d6-c95341e466ae,borodegadega@yahoo.com,true,Boro,ct_bakery,0,re_EU,1,Boro,2021-03-24 06:26:12.128000+00:00,2021-03-24 06:26:12.128000+00:00,True,CONFIRMED
+dcabe744-a494-4c39-891f-de5a07a8445a,,,Novozymes,ct_formulator,0,re_CH,1,Vanessa Rising,2019-12-16 20:13:46.935000+00:00,2020-01-15 17:36:58.916000+00:00,True,CONFIRMED
+dcd2db42-cd13-4ffb-af3d-35ef5532ecb4,JP@novozymes.com,true,Novozymes,ct_formulator,0,re_NA,1,John Powell,2020-04-06 15:26:26.872000+01:00,2020-04-06 15:26:58.478000+01:00,True,CONFIRMED
+dd42f595-5592-4048-ad73-649aba63552b,TAYS.DEFAVERI@CORBION.COM,true,corbion,ct_formulator,1,re_EU,1,tays,2021-03-08 15:52:06.879000+00:00,2021-03-08 15:53:56.886000+00:00,True,CONFIRMED
+dd6795da-5d95-48a6-870f-9e02a85fbb9d,IVY.LOH@BRENNTAG-ASIA.COM,true,Brenntag Sdn. Bhd.,ct_distributor,1,re_SEA,1,Ivy Loh,2021-04-02 08:29:25.858000+01:00,2021-05-05 14:43:38.117000+01:00,True,CONFIRMED
+de701782-f714-4e86-aa93-e65457fdf075,sathish.kolapalle@olamnet.com,true,olam international,ct_formulator,1,re_RAP,1,sathish k,2021-04-01 10:43:49.911000+01:00,2021-05-05 14:43:41.938000+01:00,True,CONFIRMED
+dea6b6a9-ce2f-4eef-b73d-5b5f51016f7b,rzss@novozymes.com,true,Novozymes,ct_formulator,1,re_EU,1,Riccardo,2020-12-03 07:18:33.764000+00:00,2021-02-02 13:29:34.462000+00:00,True,CONFIRMED
+df039089-19f0-47c3-8054-a312f56c4dfd,shivaholker3@gmail.com,true,Tech4serve Project Consultants LLP,ct_formulator,1,re_IND,1,Shiva Holker,2021-06-10 06:19:06.594000+01:00,2021-06-10 06:22:44.095000+01:00,True,CONFIRMED
+dfa21c2c-bf7a-42f2-a044-f8172f2051df,federico@igdi.it,true,Il Granaio delle Idee srl,ct_formulator,1,re_EU,1,Federico Allamprese Manes Rossi,2021-01-26 11:13:04.775000+00:00,2021-01-26 11:13:04.775000+00:00,True,CONFIRMED
+dfacfa40-7acf-49b4-8f1d-440b6b62c72f,sunprocessfmcg@gmail.com,true,Sun Process (Bakery Solutions),ct_distributor,1,re_IND,1,UMESH HULSWAR,2021-08-17 13:57:04.259000+01:00,2021-08-17 13:57:04.259000+01:00,True,CONFIRMED
+dfffdd6f-6a86-4552-8701-fb17c4e71342,tcrowder@engrain.us,true,Engrain LLC,ct_formulator,1,re_NA,1,Toni Crowder,2021-04-13 15:18:37.931000+01:00,2021-04-13 15:18:37.931000+01:00,True,CONFIRMED
+e0bcf3f9-eff5-4c3c-aa25-80a318395f08,13862104045@163.com,false,柳舍面馆,ct_bakery,0,re_CH,1,邓贵尧,2020-12-23 05:21:40.916000+00:00,2020-12-23 05:21:40.916000+00:00,True,UNCONFIRMED
+e1969891-db71-427d-8257-978c293bd0e6,378165885@qq.com,true,遂溪县华丰食品,ct_bakery,1,re_CH,1,叶智超,2021-07-26 05:58:32.914000+01:00,2021-07-26 05:58:32.914000+01:00,True,CONFIRMED
+e1f5d986-e66a-4a34-807e-1bbf2ff02167,cais@wills.com.ph,true,Wills International Sales Corp.,ct_distributor,0,re_SEA,1,Zara Cais Jimenez,2021-09-10 01:55:54.912000+01:00,2021-09-10 01:55:54.912000+01:00,True,CONFIRMED
+e25764ca-2a40-4352-93e5-ebf001e8553c,knagarjunafoodtech@gmail.com,true,Karadifoods,ct_bakery,1,re_IND,1,Nagarjuna,2021-09-17 06:06:28.524000+01:00,2021-09-17 06:06:28.524000+01:00,True,CONFIRMED
+e292a883-6d48-44ef-8c1e-dec9c0019690,bney@novozymes.com,true,NOVOZYMES A/S,ct_distributor,0,re_SEA,1,IOANNIS SAMAKIDIS,2021-06-07 14:52:01.085000+01:00,2021-06-07 14:52:44.440000+01:00,True,CONFIRMED
+e2cbf937-4bb4-41eb-9987-e8c59fdc523e,erwin.vansas@zeelandia.com,false,Zeelandia group,ct_formulator,1,re_EU,1,Erwin van Sas,2020-12-09 09:12:22.414000+00:00,2020-12-09 09:12:22.414000+00:00,True,UNCONFIRMED
+e3660b9a-823a-4a0f-b674-40dcde8046c3,jenny.block@engelhardt.se,true,B. Engelhardt & Co AB,ct_formulator,1,re_EU,1,Jenny Block,2021-11-11 13:04:13.259000+00:00,2021-11-11 13:04:13.259000+00:00,True,CONFIRMED
+e374c343-6cd7-4862-8b2e-afb2dd8f877c,datadog@novozymes.com,true,Novozymes,ct_bakery,0,re_EU,1,datadog,2022-03-21 13:58:14.325000+00:00,2022-03-23 16:31:52.025000+00:00,True,CONFIRMED
+e3be444d-8bd1-46fa-862d-b5ff5c9d7adf,295092244@qq.com,true,梦幻烘焙,ct_bakery,1,re_CH,1,陈山,2021-01-11 15:29:59.191000+00:00,2021-01-11 15:29:59.191000+00:00,True,CONFIRMED
+e3c0804e-9046-4ec3-bad1-4eaf2ca87f9d,mger@novozymes.com,true,Cat123,ct_formulator,0,re_EU,1,Cat,2021-04-16 14:33:48.410000+01:00,2021-04-16 14:33:48.410000+01:00,True,CONFIRMED
+e3fba9f0-9df8-4e7c-bd47-97b0837f1855,,,萨能,ct_bakery,0,re_CH,1,小萨,2021-01-10 03:25:39.314000+00:00,2021-01-10 03:25:39.314000+00:00,True,CONFIRMED
+e4238361-29ac-4fed-a77e-c6944b648e63,cherryshushu@hotmail.com,true,novozymes,ct_bakery,0,re_CH,1,cherryshushu@hotmail.com,2022-03-02 14:16:20.727000+00:00,2022-03-22 11:23:08.642000+00:00,True,CONFIRMED
+e491fb05-eb4e-426a-b397-733d063e0350,karthik.cruiser@gmail.com,true,Modern ,ct_bakery,0,re_IND,1,V.Karthikeyan,2021-03-23 15:20:56.773000+00:00,2021-05-05 14:43:45.904000+01:00,True,CONFIRMED
+e4c4550f-840f-4d30-a654-2ca003fc05ff,seminog.iv@ssnab.ru,true,ООО "Зеленые линии",ct_formulator,0,re_RU,1,Семиног Ирина Викторовна,2021-02-12 05:55:17.679000+00:00,2021-02-12 05:55:17.679000+00:00,True,CONFIRMED
+e50808c4-88a7-49c6-b27b-93091450483c,waiyan.wong@brenntag-asia.com,true,Brenntag Sdn Bhd,ct_distributor,1,re_SEA,1,Wai Yan Wong,2021-03-19 02:54:40.420000+00:00,2021-05-05 14:43:49.922000+01:00,True,CONFIRMED
+e51c388f-89ec-4d45-abdb-6a21d6c99080,Leo.Nieuwenhuis@QES-Enzymesolutions.com,true,Quattro Enzyme Solutions BV / Sonneveld Group BV,ct_formulator,1,re_EU,1,Leo Nieuwenhuis,2021-03-08 15:15:35.804000+00:00,2021-03-08 15:15:35.804000+00:00,True,CONFIRMED
+e576fbbc-2401-4692-85f2-32f7ae042b61,jesper.rasm@gmail.com,false,Comp,ct_bakery,0,re_CH,1,Jesper Test Edge Case,2020-01-15 11:38:22.799000+00:00,2020-01-15 11:38:22.799000+00:00,True,UNCONFIRMED
+e577437d-2d09-4e3d-8cb6-b0db6ca3679f,yse@novozymes.com,true,Novozymes,ct_distributor,1,re_EU,1,Yushu Shen Drehn,2021-09-08 12:12:14.709000+01:00,2022-04-13 08:06:45.729000+01:00,True,CONFIRMED
+e58c3d90-a344-422a-8c87-f022694af98f,12245343@qq.com,true,北京贝成科技有限公司,ct_bakery,1,re_CH,1,张女士,2022-01-26 15:34:31.212000+00:00,2022-01-26 15:34:31.212000+00:00,True,CONFIRMED
+e5b16f68-e530-4111-8d43-29e5962f34aa,2970828008@qq.com,true,江苏田园主义健康科技有限公司,ct_formulator,1,re_CH,1,付加前,2021-09-02 16:15:24.902000+01:00,2021-09-02 16:15:24.902000+01:00,True,CONFIRMED
+e609156c-39a6-4ead-b366-4e0ab3a08d8b,afrjayaselamat.cv@yahoo.com,true,AFR JAYA SELAMAT CV,ct_distributor,1,re_SEA,1,Irfan Arifin.S.St.Par.SH,2021-08-26 13:56:11.008000+01:00,2021-08-26 13:57:24.437000+01:00,True,CONFIRMED
+e613764e-34af-4827-aa5f-6b23867a8bd5,czhao@stern-wywiol-gruppe.de,true,Mühlenchemie,ct_formulator,1,re_CH,1,Chenxi Zhao,2021-04-16 15:52:49.745000+01:00,2021-04-16 15:52:49.745000+01:00,True,CONFIRMED
+e61eaa9a-effd-41b6-adda-e9c52e84d17e,pomazov.com@gmail.com,true,нема,ct_distributor,1,re_EU,1,Oleksii Pomazov,2022-04-20 11:15:16.261000+01:00,2022-04-20 11:15:16.261000+01:00,True,CONFIRMED
+e6721bec-f349-42a6-8dea-bb9d600a16bb,fsh@novozymes.com,true,Novozymes,ct_bakery,1,re_CH,1,Florian Sanchez,2020-01-08 12:55:36.572000+00:00,2020-02-04 13:48:18.851000+00:00,True,CONFIRMED
+e6c5fbfa-0ffe-4c96-aaa9-269f374cfa2d,pascal.huerlimann@bakels.ch,true,Bakels,ct_formulator,0,re_EU,1,Pascal  ,2021-04-30 13:24:18.364000+01:00,2021-04-30 13:24:18.364000+01:00,True,CONFIRMED
+e6f17582-b792-4255-ae33-3d2755ec1c50,judb@novozymes.com,true,novozymes,ct_formulator,0,re_EU,1,judb@novozymes.com,2020-11-25 14:43:38.167000+00:00,2021-05-12 10:44:45.010000+01:00,True,CONFIRMED
+e7147359-998c-4a71-b074-36dbc05858de,ahmed.bakr@hotmail.fr,true,Chemiteczymes ,ct_bakery,1,re_ME,1,Ahmed,2021-04-15 19:39:59.525000+01:00,2021-04-15 19:39:59.525000+01:00,True,CONFIRMED
+e7882ae1-898c-44e1-b048-07e9a85e668a,4444morteza@gmail.com,true,agricultural biotechnology research institute of iran,ct_formulator,0,re_ME,1,Morteza Maleki,2022-01-02 13:43:09.335000+00:00,2022-04-21 11:13:35.472000+01:00,True,CONFIRMED
+e86e7ad4-78bd-4c5f-b847-41fa7f04f62b,info@ramixfood.com,true,Ramix Food,ct_formulator,1,re_ME,1,Ramez Ghaly,2021-07-28 18:32:59.457000+01:00,2021-08-03 21:33:00.753000+01:00,True,CONFIRMED
+e9f83e5f-e53f-4e27-b2c1-df77033468a8,pitchaya.poonnipong@brenntag-asia.com,true,Brenntag Ingredients (Thailand) PLC.,ct_distributor,1,re_SEA,1,Pitchaya Poonnipong,2021-03-25 04:31:31.523000+00:00,2021-05-05 14:43:53.788000+01:00,True,CONFIRMED
+e9f94a09-7ba2-4361-875f-9a43a37c222c,kganczarczyk@jabex.com.pl,true,Jabec,ct_formulator,1,re_EU,1,Katarzyna Ganczarczyk,2021-06-18 20:54:40.276000+01:00,2021-06-18 20:54:40.276000+01:00,True,CONFIRMED
+e9fc33a9-eda1-4a1c-89ce-8e3da3e8a788,vtecnico1@biotecsa.com,true,Biotecsa SA de CV,ct_bakery,0,re_NA,1,vtecnico1@biotecsa.com,2021-03-12 15:45:08.264000+00:00,2021-03-12 15:45:08.264000+00:00,True,CONFIRMED
+ea961e7a-3a25-4706-89d5-5cc1315b67e6,radu@novozymes.com,true,NZ,ct_formulator,1,re_EU,1,Radu,2021-03-08 15:38:22.404000+00:00,2021-03-08 15:38:22.404000+00:00,True,CONFIRMED
+eac5bd66-47b1-41f0-8acd-7934f9a264c2,csinpoh@gmail.com,true,Novozymes Malaysia,ct_formulator,0,re_SEA,1,choo sin poh,2021-05-10 11:00:35.825000+01:00,2021-05-10 11:01:15.684000+01:00,True,CONFIRMED
+ec652558-f784-4fa2-ab2c-0b5e3a6a9a5e,840581445@qq.com,false,成都丹利克斯生物科技有限公司,ct_formulator,1,re_CH,1,唐友斌,2020-07-30 14:14:02.355000+01:00,2020-07-30 14:14:02.355000+01:00,True,UNCONFIRMED
+ec8ab862-19c0-4e2b-a13c-0936a61d79ad,rbo@novozymes.com,true,frri@novozymes.com,ct_distributor,0,re_SA,1,IOANNIS SAMAKIDIS,2021-06-07 14:25:17.824000+01:00,2021-06-07 14:27:09.485000+01:00,True,CONFIRMED
+ecd66a88-f6f9-4237-9d9a-f2f3f1c6a6f9,adgg@novozymes.com,true,Novozymes,ct_formulator,1,re_EU,1,Adam B. V. Diggle,2020-01-08 10:28:29.661000+00:00,2020-01-08 10:28:47.419000+00:00,True,CONFIRMED
+ecef77b7-5f67-4f4d-88cd-36417c69d526,test@test.dk,true,TestTest,ct_bakery,1,re_EU,1,Jeanette,2021-01-18 20:24:56.859000+00:00,2021-01-20 10:15:31.220000+00:00,True,CONFIRMED
+ed1ac0b0-1f05-40a6-8357-f8c689c12a0a,doxu@novozymes.com,false,NZ,ct_formulator,0,re_CH,1,donglu xu,2019-12-13 12:08:00.473000+00:00,2020-01-16 03:25:01.771000+00:00,True,CONFIRMED
+ed7f7cde-e7e8-40ed-b489-8b2409a37f1b,295092244@qq.com,true,梦幻烘焙,ct_bakery,1,re_CH,1,陈山,2021-01-11 15:29:59.181000+00:00,2021-01-11 15:29:59.181000+00:00,True,CONFIRMED
+edd87aa8-9041-4366-8d29-b0e14c9a81a0,joke@clarysnv.be,true,Clarys,ct_distributor,1,re_EU,1,Joke De Muyt,2021-08-31 13:45:13.015000+01:00,2021-08-31 13:45:13.015000+01:00,True,CONFIRMED
+ede31a0b-d409-453f-8400-9120f91ca92b,lipasetlim@gmail.com,true,Britannia,ct_bakery,0,re_EU,1,Asin B,2021-03-16 16:05:58.335000+00:00,2021-03-16 16:05:58.335000+00:00,True,CONFIRMED
+ee229e14-2951-4123-9cb4-48d09e66cdd8,APHAM@BAKELS.COM.AU,true,Australian Bakels,ct_bakery,0,re_RAP,1,Adrienne Pham,2021-01-26 21:00:35.489000+00:00,2021-05-05 14:43:58.061000+01:00,True,CONFIRMED
+ee5a9e54-3969-43eb-963c-5d4a56a175ba,gjm@novozymes.com,true,NOVOZYMES MEXICANA, S.A. DE C.V.,ct_bakery,1,re_NA,1,GUILLERMO JESTER,2019-12-18 15:47:53.496000+00:00,2019-12-18 15:48:36.774000+00:00,True,CONFIRMED
+eee59f93-c72b-4a78-a22e-2ba86e86454b,jyua@novozymes.com,false,诺维信,ct_bakery,0,re_CH,1,袁佳燕,2020-07-24 15:25:00.217000+01:00,2020-07-24 15:25:00.217000+01:00,True,UNCONFIRMED
+eeef74a8-6087-4994-a16e-fd76af110463,csmbread@mail.ru,true,CSM,ct_formulator,1,re_RU,1,Алексей,2021-03-10 09:01:07.224000+00:00,2021-03-10 09:01:07.224000+00:00,True,CONFIRMED
+ef0ea2cd-0589-4654-b42e-bcf14c6d42dc,315011198@qq.com,true,瑞麦烘焙,ct_bakery,1,re_CH,1,李晓翔,2021-06-23 10:47:11.567000+01:00,2021-06-23 10:47:11.567000+01:00,True,CONFIRMED
+ef835ecd-c0a3-4d36-900b-7440a2e57608,,,Miss Cake,ct_bakery,1,re_CH,1,曹一,2021-04-27 11:48:38.452000+01:00,2021-04-27 11:48:38.452000+01:00,True,CONFIRMED
+efcdc1d3-e4b4-40e6-92e4-3035363ad6b5,n.v.gornova@trier.ru,true,ТРИЭР,ct_formulator,1,re_RU,1,Надежда Горнова,2020-12-04 13:37:34.846000+00:00,2020-12-04 13:38:04.051000+00:00,True,CONFIRMED
+f0bd269c-c499-421c-aee9-47dbae04dd13,,,个体,ct_bakery,0,re_CH,1,生,2020-08-26 10:41:17.589000+01:00,2020-08-26 10:41:17.589000+01:00,True,UNCONFIRMED
+f0e6d3a3-907a-4e2e-8d77-34dc8b6c0093,fbak@novozymes.com,true,Novozymes,ct_bakery,0,re_EU,1,Fredrik Bakke,2021-03-15 12:11:02.750000+00:00,2021-05-05 14:52:39.482000+01:00,True,CONFIRMED
+f12adaac-e8cc-49c5-902c-6c74f9333237,hcw@novozymes.com,true,Novozymes A/S,ct_formulator,1,re_EU,1,Hans Christian Wegge,2021-01-28 09:02:47.911000+00:00,2021-10-20 15:45:49.123000+01:00,True,CONFIRMED
+f1514a10-85b8-461a-8392-9712296f8777,vasko.panov@univarsolutions.com,true,Univar Solutions,ct_distributor,1,re_EU,1,vasko.panov@univarsolutions.com,2021-09-27 13:38:26.897000+01:00,2021-09-27 13:38:26.897000+01:00,True,CONFIRMED
+f1d888c1-8234-41dc-b0d8-a4ca53ba7695,nicole.rees@abmauri.com,true,AB Mauri,ct_formulator,0,re_NA,1,nicole rees,2021-04-12 22:48:46.964000+01:00,2021-04-12 22:48:46.964000+01:00,True,CONFIRMED
+f1de4af3-415e-4131-a04e-478bb877f9ca,lydia.yang@trumpchemicals.com,true,Trump,ct_formulator,1,re_CH,1,Yang HuiWen,2020-02-25 06:37:33.924000+00:00,2020-02-25 07:01:48.591000+00:00,True,CONFIRMED
+f252caf3-1ebf-4521-9770-cde5ed557d6d,sergio.alvarez@iespecialidades.com,true,INGTEC ESPECIALIDADES,ct_formulator,0,re_SA,1,SERGIO ANTONIO ALVAREZ TORRES,2021-03-17 14:05:50.011000+00:00,2021-03-17 14:05:50.011000+00:00,True,CONFIRMED
+f2925d26-9451-49fd-93a7-f755d6573f79,yyv@novozymes.com,true,Novozymes Malaysia Sdn Bhd,ct_formulator,1,re_SEA,1,Voon Yit Yang,2021-01-21 08:37:15.694000+00:00,2022-02-17 02:44:44.366000+00:00,True,CONFIRMED
+f2d51039-828a-4bcb-ba66-b70daf68f0ad,flippos.samakidis@gmail.com,true,isa@novozymes.com,ct_distributor,0,re_NA,1,IOANNIS SAMAKIDIS,2021-06-07 14:20:28.706000+01:00,2021-06-07 14:21:23.581000+01:00,True,CONFIRMED
+f300d106-36eb-4986-9a7d-b69283a66370,12245343@qq.com,true,北京贝成科技有限公司,ct_bakery,1,re_CH,1,张女士,2022-01-26 15:34:31.204000+00:00,2022-01-26 15:34:31.204000+00:00,True,CONFIRMED
+f3278732-4786-4113-9337-d1a0164e0f5a,arvid.yunga@UnivarSolutions,true,Univar Solutions,ct_formulator,1,re_RU,1,Юнга Арвид Анатольевич,2021-01-14 13:32:56.200000+00:00,2021-01-14 13:32:56.200000+00:00,True,CONFIRMED
+f380710f-3d79-4dce-8354-d1d2c765f813,riccardo.schiavi@lapasqualina.it,true,Pasqualina Srl,ct_bakery,0,re_EU,1,Riccardo Schiavi,2022-03-08 16:03:47.317000+00:00,2022-03-08 16:03:47.317000+00:00,True,CONFIRMED
+f3b8f602-876e-437b-9750-35cc7e357e94,Premankur.Sukul@csmbakerysolutions.com,true,CSM Deutschland GmbH,ct_formulator,0,re_EU,1,Premankur Sukul,2021-03-12 13:58:45.437000+00:00,2021-03-12 13:58:45.437000+00:00,True,CONFIRMED
+f3fd1a19-b514-428d-b95c-5658e09203cb,emmie.dornez@abmauri.com,true,AB Mauri,ct_formulator,0,re_EU,1,Emmie Dornez,2021-03-08 16:10:46.550000+00:00,2021-03-08 16:10:46.550000+00:00,True,CONFIRMED
+f40927aa-fd16-4cf3-845a-5bd4167615ed,,,郑州金诺食品科技,ct_formulator,1,re_CH,1,段雷鹏,2020-08-10 02:23:55.982000+01:00,2020-08-10 02:24:25.891000+01:00,True,CONFIRMED
+f42bd1dc-1b49-4be7-ab4e-f2b56aa53148,wk4@foxmail.com,false,wk company,ct_bakery,0,re_CH,1,walker4,2020-07-30 12:16:34.153000+01:00,2020-07-30 12:16:34.153000+01:00,True,UNCONFIRMED
+f44c8967-1ec1-4c0d-b6eb-098947994cf9,kasper@adnuvo.com,true,ADNUVO,ct_formulator,0,re_EU,1,Kasper,2019-12-13 09:28:08.258000+00:00,2020-05-19 08:44:58.435000+01:00,True,CONFIRMED
+f44d038b-c377-4a17-abde-0ce6ce288347,ting.wang@sxjzcx.com,false,火星薯（上海）食品科技有限公司,ct_bakery,1,re_CH,1,王婷,2020-08-03 02:52:42.082000+01:00,2020-08-03 02:52:42.082000+01:00,True,UNCONFIRMED
+f47aa542-cb9e-4fe7-a1a6-3c8b511841fb,93690000@spc.co.kr,true,SPC,ct_bakery,0,re_RAP,1,Inkyu Im,2022-01-04 08:15:22.204000+00:00,2022-01-11 06:46:15.772000+00:00,True,CONFIRMED
+f4a0b8ee-6955-4ea9-8c01-76962081bc98,,,诺维信,ct_bakery,0,re_CH,1,王承志,2021-01-12 04:40:22.315000+00:00,2021-01-12 04:40:22.315000+00:00,True,CONFIRMED
+f4d8bbe6-b8fa-4dcf-a091-26118d6c483f,,,Bakles,ct_formulator,1,re_CH,1,张,2020-07-30 13:47:16.670000+01:00,2020-07-30 13:47:54.746000+01:00,True,CONFIRMED
+f52d8820-c66a-47b7-8b45-3737e8e9d592,ynwa@novozymes.com,true,Novozymes,ct_distributor,0,re_CH,1,Yang Wang,2021-04-07 04:04:37.582000+01:00,2021-05-11 07:55:51.796000+01:00,True,CONFIRMED
+f546ae21-cb80-4336-b92d-acf943d15563,cherryshushu@163.com,true,cherryshushu@163.com,ct_bakery,0,re_SEA,1,YSE,2022-04-13 08:10:18.004000+01:00,2022-04-13 08:10:18.004000+01:00,True,CONFIRMED
+f6149eea-98d8-4d89-9378-bad9f2f524d3,upper.18.rus@gmail.com,true,ИП Кузакова Е.С.,ct_bakery,1,re_RU,1,Овечкин Максим Юрьевич,2021-02-23 10:55:42.447000+00:00,2021-02-23 10:55:42.447000+00:00,True,CONFIRMED
+f65bd415-a5b9-4159-a41c-44a3911f1177,hatem.zor@gmail.com,true,Carte d'Afrique Distribution ,ct_distributor,0,re_ME,1,Zormati Hatem,2021-04-26 17:46:09.386000+01:00,2021-04-26 17:49:42.789000+01:00,True,CONFIRMED
+f6642e2c-0acb-4e5b-b9fa-7b8dce338b01,,,ADNUVO,ct_formulator,0,re_CH,1,Kasper Bendixen,2020-01-06 13:59:53.577000+00:00,2020-01-13 10:49:07.535000+00:00,True,CONFIRMED
+f671022c-f18c-4cda-b1dc-b158e5157929,matteo.biasibetti@deimossrl.it,true,Deimos srl,ct_bakery,1,re_EU,1,Matteo,2021-03-10 08:02:57.678000+00:00,2021-04-13 16:16:27.316000+01:00,True,CONFIRMED
+f68bbd4a-d93f-4456-8de1-2fca75b54bc4,324221129@qq.cm,false,郑州万东商贸有限公司,ct_formulator,1,re_CH,1,于万东,2020-08-01 04:44:58.156000+01:00,2020-08-01 04:44:58.156000+01:00,True,UNCONFIRMED
+f6ab97cb-b970-4d75-a06f-017d23823690,289326136@qq.com,true,公司,ct_formulator,1,re_NA,1,李先生,2022-01-27 05:22:58.160000+00:00,2022-01-27 05:22:58.160000+00:00,True,CONFIRMED
+f6c9cf67-42c3-4967-876b-de02169be1c1,dana.duwe@abmauri.com,true,AB Mauri,ct_formulator,1,re_NA,1,Dana Duwe,2021-04-15 16:35:17.022000+01:00,2021-04-15 16:35:17.022000+01:00,True,CONFIRMED
+f6f05900-8933-44fe-b66b-90e4dcc3a437,ma.garcia@lesaffre.com,true,Lesaffre,ct_formulator,0,re_EU,1,Manuel,2021-03-08 14:53:30.825000+00:00,2021-03-08 14:53:30.825000+00:00,True,CONFIRMED
+f7314f8f-c83b-46e3-9c0a-6382508307f3,xinyi@maybakels.com.my,true,Bakels Malaysia Sdn Bhd,ct_formulator,1,re_SEA,1,Yang Xin Yi,2021-10-17 13:38:02.684000+01:00,2021-10-17 13:38:02.684000+01:00,True,CONFIRMED
+f73c24c0-869d-4abf-8c76-4126277cddbd,gbll@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Guillermo Bellido,2020-01-30 16:49:40.562000+00:00,2020-01-30 16:50:00.272000+00:00,True,CONFIRMED
+f73d1d21-69e4-436e-9a0e-6d6a75a5ed72,SKAU@NOVOZYMES.COM,true,Novozymes South Asia Pvt. Ltd.,ct_bakery,1,re_IND,1,Sumeet Kaur,2022-03-25 07:51:25.049000+00:00,2022-03-25 07:51:25.049000+00:00,True,CONFIRMED
+f75a4595-88a1-470d-957b-a73a71a37295,bakesuresa@worldonline.co.za,true,Bakesure,ct_formulator,0,re_EU,1,Chris,2021-03-08 13:24:52.127000+00:00,2021-03-08 13:24:52.127000+00:00,True,CONFIRMED
+f7a3ee12-0eca-4d48-81ce-5dbe8bf3ca56,pauline.guillo@etu.unilasalle.fr,true,Pasquier,ct_bakery,0,re_EU,1,Guillo,2022-03-17 07:46:20.089000+00:00,2022-03-17 07:46:20.089000+00:00,True,CONFIRMED
+f85ea071-d551-4745-bb99-6903d6cfd391,jluttmann@alimtek.com,true,Alimtek S.A.,ct_distributor,1,re_SA,1,Joseph Luttmann ,2021-03-08 00:38:56.617000+00:00,2021-03-08 00:38:56.617000+00:00,True,CONFIRMED
+f928d6ee-10d6-4e61-b4ee-576ace72b302,sararcmesquita@gmail.com,true,Novozymes,ct_bakery,0,re_CH,1,Sara Mesquita,2020-03-09 10:13:28.425000+00:00,2021-01-22 09:21:38.172000+00:00,True,CONFIRMED
+f97fef32-1c29-4c75-bccb-e27309e0b3cc,hufang0033@aliyun.com,false,杭州力邦,ct_bakery,1,re_CH,1,方虎,2020-03-24 07:42:58.584000+00:00,2020-03-24 07:42:58.584000+00:00,True,UNCONFIRMED
+f9b785eb-8fb3-473a-9ae3-a8a764cb5f4b,svhe@novozymes.com,true,Novozymes,ct_formulator,0,re_EU,1,Soley Vera Helgadottir,2021-01-21 11:31:42.682000+00:00,2021-01-25 14:32:36.622000+00:00,True,CONFIRMED
+fa099f64-7708-417d-87b1-28adefbff6b6,kaks@novozymes.com,true,Novozymes,ct_bakery,1,re_EU,1,Katrine Skeby,2019-12-13 11:20:58.288000+00:00,2020-12-04 06:58:43.848000+00:00,True,CONFIRMED
+fa236b9a-a108-4e9b-ab7c-bbb81e64226b,lucile.dubost@limagrain.com,true,LIMAGRAIN INGREDIENTS,ct_formulator,0,re_EU,1,Lucile Dubost,2022-01-31 08:15:34.936000+00:00,2022-01-31 08:15:34.936000+00:00,True,CONFIRMED
+fb0aa20d-6917-466a-98e7-fbc9b5cc5141,tharish2289@gmail.com,true,tharish2289@gmail.com,ct_bakery,0,re_RAP,1,Harish,2021-05-10 10:42:44.257000+01:00,2022-03-08 07:55:07.425000+00:00,True,CONFIRMED
+fb0d655a-b925-4f66-869b-6028a3ffa382,15936231265@126.com,false,河南奥尼斯特食品有限公司,ct_formulator,1,re_CH,1,董振江,2020-01-03 02:07:04.180000+00:00,2020-01-03 02:07:04.180000+00:00,True,UNCONFIRMED
+fb3283d4-e2db-4895-b558-681ffcc3a055,h1d4y4t.dedoyogo@gmail.com,true,Dagukei,ct_bakery,1,re_SEA,1,Dede Hidayat,2021-09-07 14:37:43.632000+01:00,2021-09-07 14:37:43.632000+01:00,True,CONFIRMED
+fb4f8d1d-143d-4178-8a7b-65cd0787e8d9,charles.purcell@univarsolutions.com,true,charles.purcell@univarsolutions.com,ct_distributor,1,re_NA,1,Charles Purcell,2021-09-23 15:26:02.995000+01:00,2021-09-23 15:26:02.995000+01:00,True,CONFIRMED
+fc00f798-469c-4dba-bdbb-d79fce437988,alan.odonnell@univarsolutions.com,true,Univar Solutions,ct_formulator,0,re_EU,1,Alan O'Donnell,2021-01-12 14:40:17.485000+00:00,2021-01-12 14:40:17.485000+00:00,True,CONFIRMED
+fc14779f-01d1-4b45-a991-3aa56dabd363,ambica.pushkarna@Brenntag-asia.com,true,BRENNTAG INDIA INGREDIENS PVT LTD,ct_distributor,1,re_IND,1,Ambica Sut Pushkarna,2021-06-22 06:51:35.559000+01:00,2021-06-22 06:51:35.559000+01:00,True,CONFIRMED
+fd069414-9e2a-4923-ae04-4957618acc94,Hauwaibrahimmisau8@gmail.com,true,Business advertising ,ct_distributor,1,re_NA,1,Hauwa Ibrahim Misau ,2021-08-14 12:59:14.160000+01:00,2021-08-14 12:59:14.160000+01:00,True,CONFIRMED
+fd0ce04f-3a83-4b78-ba2e-fd47b5e14df7,jonz@novozymes.com,true,Novozymes China,ct_formulator,0,re_CH,1,Jason Zhao,2020-02-21 03:09:06.015000+00:00,2020-02-21 03:09:55.773000+00:00,True,CONFIRMED
+fe9787ec-21ae-490e-ab50-bf62d4122790,vakk@novozymes.com,true,Novozymes,ct_bakery,0,re_EU,1,Vaneet Kendole,2020-08-25 12:30:07.212000+01:00,2020-12-11 21:21:52.859000+00:00,True,CONFIRMED
+ff8dcaa1-7133-409d-b4cd-90f3d53c17c1,aleta@wills.com.ph,true,Wills International Sales Corp,ct_distributor,0,re_SEA,1,Aleta Benolerao,2021-03-23 07:17:02.848000+00:00,2021-05-05 14:44:06.090000+01:00,True,CONFIRMED

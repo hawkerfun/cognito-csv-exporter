@@ -2,7 +2,7 @@
 
 This project allows to export user records to CSV file from [Amazon Cognito User Pool](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-identity-pools.html)
 
-## Instalation
+## Installation
 
 In order to use this script you should have Python 2 or Python 3 installed on your platform
 - run `pip install -r requirements.txt` (Python 2) or `pip3 install -r requirements.txt` (Python 3)

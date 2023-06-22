@@ -1,2 +1,3 @@
 boto3==1.12.42
 botocore==1.15.42
+colorama==0.4.3
